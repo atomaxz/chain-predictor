@@ -1,3 +1,4 @@
 90988. fix: resolve issue with date parsing #90988
 6716. refactor: organize models into subfolders #6716
 28153. perf: cache repeated calculations #28153
+55218. feat: support email verification #55218
