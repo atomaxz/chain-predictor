@@ -2,3 +2,4 @@
 6716. refactor: organize models into subfolders #6716
 28153. perf: cache repeated calculations #28153
 55218. feat: support email verification #55218
+87192. test: test user registration edge cases #87192
