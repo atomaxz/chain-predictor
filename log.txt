@@ -11,3 +11,4 @@
 19899. chore: update .gitignore #19899
 78756. style: rename variables for clarity #78756
 48556. docs: add API usage examples #48556
+89302. feat: enable dark mode toggle #89302
