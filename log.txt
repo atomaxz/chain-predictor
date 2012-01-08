@@ -1017,3 +1017,4 @@
 81583. style: reformat files with black #81583
 66253. feat: add user authentication #66253
 9357. style: standardize quote style #9357
+77128. fix: fix null pointer exception on login #77128
