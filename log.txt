@@ -1018,3 +1018,4 @@
 66253. feat: add user authentication #66253
 9357. style: standardize quote style #9357
 77128. fix: fix null pointer exception on login #77128
+99216. fix: prevent crash on empty input #99216
