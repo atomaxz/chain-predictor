@@ -1019,3 +1019,4 @@
 9357. style: standardize quote style #9357
 77128. fix: fix null pointer exception on login #77128
 99216. fix: prevent crash on empty input #99216
+39919. chore: rename env.example #39919
