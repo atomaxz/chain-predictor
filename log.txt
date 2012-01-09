@@ -17,3 +17,4 @@
 68610. perf: lazy-load components #68610
 63857. perf: reduce image load time #63857
 73699. feat: add user authentication #73699
+60183. chore: add GitHub actions badge #60183
