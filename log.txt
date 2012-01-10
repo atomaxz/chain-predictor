@@ -1024,3 +1024,4 @@
 43582. feat: support email verification #43582
 37476. fix: prevent crash on empty input #37476
 26147. docs: write FAQ section #26147
+49539. feat: add export to CSV option #49539
