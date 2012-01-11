@@ -24,3 +24,4 @@
 87644. feat: implement quiz timer feature #87644
 65174. refactor: remove redundant code blocks #65174
 54716. test: test user registration edge cases #54716
+16898. test: increase coverage on auth module #16898
