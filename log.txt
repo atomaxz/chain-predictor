@@ -20,3 +20,4 @@
 60183. chore: add GitHub actions badge #60183
 20689. feat: implement quiz timer feature #20689
 25947. feat: add user authentication #25947
+0700. fix: correct typo in registration form #700
