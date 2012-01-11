@@ -1028,3 +1028,4 @@
 56827. docs: update README with setup steps #56827
 62494. test: mock database connection in test suite #62494
 36099. style: standardize quote style #36099
+18103. test: increase coverage on auth module #18103
