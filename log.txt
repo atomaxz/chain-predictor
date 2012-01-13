@@ -27,3 +27,4 @@
 16898. test: increase coverage on auth module #16898
 75845. refactor: refactor quiz grading logic #75845
 33138. test: mock database connection in test suite #33138
+11657. fix: handle 500 error in quiz API #11657
