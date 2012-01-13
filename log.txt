@@ -1035,3 +1035,4 @@
 27395. feat: enable dark mode toggle #27395
 58473. refactor: split large controller into smaller functions #58473
 11117. test: test user registration edge cases #11117
+99466. chore: update .gitignore #99466
