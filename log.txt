@@ -30,3 +30,4 @@
 11657. fix: handle 500 error in quiz API #11657
 39499. chore: rename env.example #39499
 81361. style: standardize quote style #81361
+25525. test: add integration test for /submit endpoint #25525
