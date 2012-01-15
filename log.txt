@@ -1044,3 +1044,4 @@
 89834. chore: add GitHub actions badge #89834
 68939. chore: add GitHub actions badge #68939
 25228. style: remove trailing whitespace #25228
+16268. fix: prevent crash on empty input #16268
