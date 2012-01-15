@@ -1046,3 +1046,4 @@
 25228. style: remove trailing whitespace #25228
 16268. fix: prevent crash on empty input #16268
 10924. fix: fix broken CSS in mobile view #10924
+26562. chore: bump dependencies #26562
