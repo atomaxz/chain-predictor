@@ -35,3 +35,4 @@
 4683. perf: lazy-load components #4683
 22225. style: reformat files with black #22225
 80536. perf: cache repeated calculations #80536
+65164. docs: write FAQ section #65164
