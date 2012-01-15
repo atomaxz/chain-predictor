@@ -1043,3 +1043,4 @@
 70676. feat: support email verification #70676
 89834. chore: add GitHub actions badge #89834
 68939. chore: add GitHub actions badge #68939
+25228. style: remove trailing whitespace #25228
