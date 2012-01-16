@@ -38,3 +38,4 @@
 65164. docs: write FAQ section #65164
 77492. style: remove trailing whitespace #77492
 30663. test: increase coverage on auth module #30663
+26651. fix: fix null pointer exception on login #26651
