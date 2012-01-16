@@ -37,3 +37,4 @@
 80536. perf: cache repeated calculations #80536
 65164. docs: write FAQ section #65164
 77492. style: remove trailing whitespace #77492
+30663. test: increase coverage on auth module #30663
