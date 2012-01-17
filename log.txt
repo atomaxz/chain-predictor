@@ -1051,3 +1051,4 @@
 95151. chore: update .gitignore #95151
 83046. docs: improve code comments in utils #83046
 53116. feat: support email verification #53116
+47593. test: test user registration edge cases #47593
