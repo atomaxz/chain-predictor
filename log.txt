@@ -1050,3 +1050,4 @@
 85442. refactor: split large controller into smaller functions #85442
 95151. chore: update .gitignore #95151
 83046. docs: improve code comments in utils #83046
+53116. feat: support email verification #53116
