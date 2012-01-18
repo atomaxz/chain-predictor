@@ -45,3 +45,4 @@
 6409. test: add integration test for /submit endpoint #6409
 10369. refactor: split large controller into smaller functions #10369
 62851. docs: add API usage examples #62851
+98294. fix: fix null pointer exception on login #98294
