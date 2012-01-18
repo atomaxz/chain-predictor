@@ -41,3 +41,4 @@
 26651. fix: fix null pointer exception on login #26651
 32512. test: test user registration edge cases #32512
 29611. feat: add export to CSV option #29611
+35274. fix: prevent crash on empty input #35274
