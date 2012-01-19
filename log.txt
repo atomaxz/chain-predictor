@@ -48,3 +48,4 @@
 98294. fix: fix null pointer exception on login #98294
 12277. docs: update README with setup steps #12277
 83871. fix: correct typo in registration form #83871
+41377. docs: write FAQ section #41377
