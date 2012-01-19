@@ -46,3 +46,4 @@
 10369. refactor: split large controller into smaller functions #10369
 62851. docs: add API usage examples #62851
 98294. fix: fix null pointer exception on login #98294
+12277. docs: update README with setup steps #12277
