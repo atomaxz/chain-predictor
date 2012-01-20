@@ -1054,3 +1054,4 @@
 47593. test: test user registration edge cases #47593
 12359. feat: enable dark mode toggle #12359
 77257. perf: reduce image load time #77257
+41317. test: add unit test for quiz service #41317
