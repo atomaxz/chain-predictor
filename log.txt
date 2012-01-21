@@ -51,3 +51,4 @@
 41377. docs: write FAQ section #41377
 30208. fix: prevent crash on empty input #30208
 36399. test: increase coverage on auth module #36399
+61946. style: standardize quote style #61946
