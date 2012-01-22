@@ -1060,3 +1060,4 @@
 9771. docs: write FAQ section #9771
 42971. refactor: split large controller into smaller functions #42971
 84006. chore: rename env.example #84006
+18815. fix: correct typo in registration form #18815
