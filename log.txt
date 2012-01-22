@@ -53,3 +53,4 @@
 36399. test: increase coverage on auth module #36399
 61946. style: standardize quote style #61946
 2349. perf: cache repeated calculations #2349
+58697. refactor: split large controller into smaller functions #58697
