@@ -1064,3 +1064,4 @@
 72239. docs: improve code comments in utils #72239
 6863. chore: update .gitignore #6863
 35758. feat: enable dark mode toggle #35758
+78142. chore: add GitHub actions badge #78142
