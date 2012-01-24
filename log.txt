@@ -1066,3 +1066,4 @@
 35758. feat: enable dark mode toggle #35758
 78142. chore: add GitHub actions badge #78142
 35526. feat: add export to CSV option #35526
+45764. perf: lazy-load components #45764
