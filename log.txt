@@ -61,3 +61,4 @@
 54890. docs: improve code comments in utils #54890
 57063. fix: resolve issue with date parsing #57063
 85420. chore: update .gitignore #85420
+1591. perf: lazy-load components #1591
