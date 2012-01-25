@@ -65,3 +65,4 @@
 91284. refactor: remove redundant code blocks #91284
 93603. fix: handle 500 error in quiz API #93603
 2286. refactor: clean up auth middleware #2286
+63759. test: mock database connection in test suite #63759
