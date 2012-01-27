@@ -1073,3 +1073,4 @@
 7553. chore: clean up unused files #7553
 82895. docs: write FAQ section #82895
 78080. docs: add API usage examples #78080
+77946. feat: create admin dashboard #77946
