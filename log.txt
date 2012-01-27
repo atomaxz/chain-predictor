@@ -70,3 +70,4 @@
 52430. style: standardize quote style #52430
 46614. style: apply consistent indentation #46614
 62129. feat: create admin dashboard #62129
+59174. docs: update README with setup steps #59174
