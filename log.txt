@@ -1075,3 +1075,4 @@
 78080. docs: add API usage examples #78080
 77946. feat: create admin dashboard #77946
 49266. docs: write FAQ section #49266
+19536. feat: support email verification #19536
