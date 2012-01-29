@@ -74,3 +74,4 @@
 5846. docs: add API usage examples #5846
 9223. chore: clean up unused files #9223
 16820. docs: improve code comments in utils #16820
+55161. feat: support email verification #55161
