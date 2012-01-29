@@ -76,3 +76,4 @@
 16820. docs: improve code comments in utils #16820
 55161. feat: support email verification #55161
 7266. fix: prevent crash on empty input #7266
+89855. fix: fix broken CSS in mobile view #89855
