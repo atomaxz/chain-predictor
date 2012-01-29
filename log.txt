@@ -1078,3 +1078,4 @@
 19536. feat: support email verification #19536
 66434. perf: reduce image load time #66434
 76038. refactor: split large controller into smaller functions #76038
+24095. feat: add export to CSV option #24095
