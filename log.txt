@@ -1084,3 +1084,4 @@
 96715. fix: handle 500 error in quiz API #96715
 65042. perf: cache repeated calculations #65042
 90514. chore: rename env.example #90514
+73781. fix: handle 500 error in quiz API #73781
