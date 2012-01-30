@@ -79,3 +79,4 @@
 89855. fix: fix broken CSS in mobile view #89855
 65296. chore: bump dependencies #65296
 56499. style: reformat files with black #56499
+4432. test: test user registration edge cases #4432
