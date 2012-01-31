@@ -82,3 +82,4 @@
 4432. test: test user registration edge cases #4432
 42386. fix: fix broken CSS in mobile view #42386
 90910. style: reformat files with black #90910
+57768. fix: prevent crash on empty input #57768
