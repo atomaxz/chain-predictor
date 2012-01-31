@@ -1086,3 +1086,4 @@
 90514. chore: rename env.example #90514
 73781. fix: handle 500 error in quiz API #73781
 93128. fix: fix broken CSS in mobile view #93128
+51057. style: apply consistent indentation #51057
