@@ -1087,3 +1087,4 @@
 73781. fix: handle 500 error in quiz API #73781
 93128. fix: fix broken CSS in mobile view #93128
 51057. style: apply consistent indentation #51057
+83093. test: add unit test for quiz service #83093
