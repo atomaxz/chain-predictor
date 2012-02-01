@@ -85,3 +85,4 @@
 57768. fix: prevent crash on empty input #57768
 40711. feat: enable dark mode toggle #40711
 43856. style: rename variables for clarity #43856
+79173. fix: prevent crash on empty input #79173
