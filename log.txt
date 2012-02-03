@@ -92,3 +92,4 @@
 22082. refactor: organize models into subfolders #22082
 40731. docs: document token refresh logic #40731
 16096. fix: fix broken CSS in mobile view #16096
+24515. perf: optimize database query for quiz results #24515
