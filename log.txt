@@ -102,3 +102,4 @@
 94169. perf: cache repeated calculations #94169
 52721. test: test user registration edge cases #52721
 52455. refactor: organize models into subfolders #52455
+12331. style: standardize quote style #12331
