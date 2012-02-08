@@ -107,3 +107,4 @@
 60820. test: add integration test for /submit endpoint #60820
 33443. style: apply consistent indentation #33443
 51985. style: remove trailing whitespace #51985
+87002. docs: document token refresh logic #87002
