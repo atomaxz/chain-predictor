@@ -1107,3 +1107,4 @@
 1103. docs: write FAQ section #1103
 39259. refactor: split large controller into smaller functions #39259
 48330. refactor: organize models into subfolders #48330
+48155. test: test user registration edge cases #48155
