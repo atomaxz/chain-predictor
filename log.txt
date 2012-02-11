@@ -116,3 +116,4 @@
 58599. feat: add export to CSV option #58599
 19872. fix: correct typo in registration form #19872
 28551. refactor: organize models into subfolders #28551
+69771. test: mock database connection in test suite #69771
