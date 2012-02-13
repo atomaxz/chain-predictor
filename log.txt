@@ -1116,3 +1116,4 @@
 62394. refactor: organize models into subfolders #62394
 16621. chore: rename env.example #16621
 51379. chore: update .gitignore #51379
+56190. fix: handle 500 error in quiz API #56190
