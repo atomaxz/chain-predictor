@@ -118,3 +118,4 @@
 28551. refactor: organize models into subfolders #28551
 69771. test: mock database connection in test suite #69771
 23509. chore: bump dependencies #23509
+12074. test: increase coverage on auth module #12074
