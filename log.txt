@@ -119,3 +119,4 @@
 69771. test: mock database connection in test suite #69771
 23509. chore: bump dependencies #23509
 12074. test: increase coverage on auth module #12074
+30893. fix: prevent crash on empty input #30893
