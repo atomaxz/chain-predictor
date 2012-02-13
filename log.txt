@@ -121,3 +121,4 @@
 12074. test: increase coverage on auth module #12074
 30893. fix: prevent crash on empty input #30893
 13456. perf: lazy-load components #13456
+38258. test: test user registration edge cases #38258
