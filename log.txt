@@ -123,3 +123,4 @@
 13456. perf: lazy-load components #13456
 38258. test: test user registration edge cases #38258
 56759. docs: clarify environment setup #56759
+60755. fix: resolve issue with date parsing #60755
