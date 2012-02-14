@@ -124,3 +124,4 @@
 38258. test: test user registration edge cases #38258
 56759. docs: clarify environment setup #56759
 60755. fix: resolve issue with date parsing #60755
+92102. feat: enable dark mode toggle #92102
