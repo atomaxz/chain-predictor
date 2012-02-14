@@ -1117,3 +1117,4 @@
 16621. chore: rename env.example #16621
 51379. chore: update .gitignore #51379
 56190. fix: handle 500 error in quiz API #56190
+57112. test: test user registration edge cases #57112
