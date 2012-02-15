@@ -129,3 +129,4 @@
 22712. docs: write FAQ section #22712
 66116. fix: handle 500 error in quiz API #66116
 68343. feat: enable dark mode toggle #68343
+50154. chore: update .gitignore #50154
