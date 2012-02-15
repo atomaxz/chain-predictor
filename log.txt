@@ -1128,3 +1128,4 @@
 7818. chore: bump dependencies #7818
 76424. style: standardize quote style #76424
 52332. chore: bump dependencies #52332
+82934. fix: correct typo in registration form #82934
