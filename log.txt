@@ -1129,3 +1129,4 @@
 76424. style: standardize quote style #76424
 52332. chore: bump dependencies #52332
 82934. fix: correct typo in registration form #82934
+25239. fix: fix broken CSS in mobile view #25239
