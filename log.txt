@@ -1130,3 +1130,4 @@
 52332. chore: bump dependencies #52332
 82934. fix: correct typo in registration form #82934
 25239. fix: fix broken CSS in mobile view #25239
+76171. fix: resolve issue with date parsing #76171
