@@ -1136,3 +1136,4 @@
 90080. refactor: organize models into subfolders #90080
 46417. perf: optimize database query for quiz results #46417
 36390. docs: improve code comments in utils #36390
+22793. feat: enable dark mode toggle #22793
