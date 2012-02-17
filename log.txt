@@ -132,3 +132,4 @@
 50154. chore: update .gitignore #50154
 45084. fix: fix null pointer exception on login #45084
 36845. test: add unit test for quiz service #36845
+86824. docs: clarify environment setup #86824
