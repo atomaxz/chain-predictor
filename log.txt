@@ -135,3 +135,4 @@
 86824. docs: clarify environment setup #86824
 55721. docs: write FAQ section #55721
 79674. docs: document token refresh logic #79674
+88981. fix: correct typo in registration form #88981
