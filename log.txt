@@ -134,3 +134,4 @@
 36845. test: add unit test for quiz service #36845
 86824. docs: clarify environment setup #86824
 55721. docs: write FAQ section #55721
+79674. docs: document token refresh logic #79674
