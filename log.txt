@@ -142,3 +142,4 @@
 70381. docs: document token refresh logic #70381
 21209. test: add integration test for /submit endpoint #21209
 25930. test: test user registration edge cases #25930
+12219. refactor: remove redundant code blocks #12219
