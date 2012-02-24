@@ -145,3 +145,4 @@
 12219. refactor: remove redundant code blocks #12219
 65930. refactor: clean up auth middleware #65930
 32871. style: remove trailing whitespace #32871
+80392. fix: handle 500 error in quiz API #80392
