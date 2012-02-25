@@ -1154,3 +1154,4 @@
 96947. perf: cache repeated calculations #96947
 79799. perf: lazy-load components #79799
 92420. docs: document token refresh logic #92420
+79262. perf: reduce image load time #79262
