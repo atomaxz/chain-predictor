@@ -147,3 +147,4 @@
 32871. style: remove trailing whitespace #32871
 80392. fix: handle 500 error in quiz API #80392
 80347. refactor: clean up auth middleware #80347
+5735. test: add unit test for quiz service #5735
