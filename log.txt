@@ -151,3 +151,4 @@
 5697. feat: create admin dashboard #5697
 71082. fix: resolve issue with date parsing #71082
 40403. chore: bump dependencies #40403
+72824. chore: add GitHub actions badge #72824
