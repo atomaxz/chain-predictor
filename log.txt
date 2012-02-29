@@ -1167,3 +1167,4 @@
 67701. feat: support email verification #67701
 65992. style: rename variables for clarity #65992
 92811. docs: add API usage examples #92811
+38033. chore: update .gitignore #38033
