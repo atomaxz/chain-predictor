@@ -1169,3 +1169,4 @@
 92811. docs: add API usage examples #92811
 38033. chore: update .gitignore #38033
 43959. style: apply consistent indentation #43959
+53639. docs: update README with setup steps #53639
