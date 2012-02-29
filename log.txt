@@ -158,3 +158,4 @@
 66062. style: reformat files with black #66062
 17982. chore: clean up unused files #17982
 80659. docs: improve code comments in utils #80659
+89575. perf: lazy-load components #89575
