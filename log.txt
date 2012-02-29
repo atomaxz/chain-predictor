@@ -155,3 +155,4 @@
 27804. test: increase coverage on auth module #27804
 20317. refactor: remove redundant code blocks #20317
 40330. feat: enable dark mode toggle #40330
+66062. style: reformat files with black #66062
