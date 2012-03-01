@@ -162,3 +162,4 @@
 94911. feat: add user authentication #94911
 91269. perf: reduce image load time #91269
 39562. feat: implement quiz timer feature #39562
+84487. perf: reduce image load time #84487
