@@ -1174,3 +1174,4 @@
 84989. refactor: refactor quiz grading logic #84989
 46538. refactor: split large controller into smaller functions #46538
 26990. feat: implement quiz timer feature #26990
+42963. perf: lazy-load components #42963
