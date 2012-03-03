@@ -166,3 +166,4 @@
 63953. fix: fix null pointer exception on login #63953
 99188. chore: update .gitignore #99188
 0965. chore: clean up unused files #965
+58641. fix: prevent crash on empty input #58641
