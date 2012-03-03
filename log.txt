@@ -164,3 +164,4 @@
 39562. feat: implement quiz timer feature #39562
 84487. perf: reduce image load time #84487
 63953. fix: fix null pointer exception on login #63953
+99188. chore: update .gitignore #99188
