@@ -1179,3 +1179,4 @@
 13792. test: add unit test for quiz service #13792
 22451. docs: document token refresh logic #22451
 85141. perf: reduce image load time #85141
+5937. fix: fix broken CSS in mobile view #5937
