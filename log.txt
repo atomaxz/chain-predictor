@@ -1182,3 +1182,4 @@
 5937. fix: fix broken CSS in mobile view #5937
 6421. test: increase coverage on auth module #6421
 75249. docs: add API usage examples #75249
+97770. docs: update README with setup steps #97770
