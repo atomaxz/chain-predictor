@@ -173,3 +173,4 @@
 92589. chore: bump dependencies #92589
 49719. docs: document token refresh logic #49719
 12150. chore: add GitHub actions badge #12150
+37194. fix: prevent crash on empty input #37194
