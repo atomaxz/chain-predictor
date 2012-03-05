@@ -175,3 +175,4 @@
 12150. chore: add GitHub actions badge #12150
 37194. fix: prevent crash on empty input #37194
 94311. perf: reduce image load time #94311
+58434. test: mock database connection in test suite #58434
