@@ -1185,3 +1185,4 @@
 97770. docs: update README with setup steps #97770
 60287. fix: fix broken CSS in mobile view #60287
 52739. feat: implement quiz timer feature #52739
+10482. chore: bump dependencies #10482
