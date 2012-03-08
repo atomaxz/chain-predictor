@@ -184,3 +184,4 @@
 15655. style: remove trailing whitespace #15655
 22156. refactor: clean up auth middleware #22156
 83173. chore: add GitHub actions badge #83173
+65192. test: add integration test for /submit endpoint #65192
