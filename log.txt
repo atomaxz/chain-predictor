@@ -185,3 +185,4 @@
 22156. refactor: clean up auth middleware #22156
 83173. chore: add GitHub actions badge #83173
 65192. test: add integration test for /submit endpoint #65192
+50950. test: increase coverage on auth module #50950
