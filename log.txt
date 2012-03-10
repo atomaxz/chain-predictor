@@ -1192,3 +1192,4 @@
 30089. fix: correct typo in registration form #30089
 99939. feat: support email verification #99939
 47358. docs: improve code comments in utils #47358
+9934. fix: prevent crash on empty input #9934
