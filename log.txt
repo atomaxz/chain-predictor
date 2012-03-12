@@ -192,3 +192,4 @@
 32108. perf: cache repeated calculations #32108
 33478. refactor: refactor quiz grading logic #33478
 83778. style: remove trailing whitespace #83778
+34000. test: add integration test for /submit endpoint #34000
