@@ -193,3 +193,4 @@
 33478. refactor: refactor quiz grading logic #33478
 83778. style: remove trailing whitespace #83778
 34000. test: add integration test for /submit endpoint #34000
+4421. test: add unit test for quiz service #4421
