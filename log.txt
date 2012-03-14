@@ -195,3 +195,4 @@
 34000. test: add integration test for /submit endpoint #34000
 4421. test: add unit test for quiz service #4421
 91290. test: mock database connection in test suite #91290
+58813. chore: bump dependencies #58813
