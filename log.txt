@@ -1202,3 +1202,4 @@
 1832. docs: update README with setup steps #1832
 6583. feat: create admin dashboard #6583
 91539. perf: optimize database query for quiz results #91539
+43311. chore: bump dependencies #43311
