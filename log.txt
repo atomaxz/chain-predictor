@@ -1203,3 +1203,4 @@
 6583. feat: create admin dashboard #6583
 91539. perf: optimize database query for quiz results #91539
 43311. chore: bump dependencies #43311
+45498. feat: support email verification #45498
