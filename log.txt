@@ -202,3 +202,4 @@
 41870. chore: bump dependencies #41870
 17588. style: reformat files with black #17588
 81234. perf: cache repeated calculations #81234
+8063. refactor: organize models into subfolders #8063
