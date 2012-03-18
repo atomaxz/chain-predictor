@@ -1206,3 +1206,4 @@
 45498. feat: support email verification #45498
 57126. test: test user registration edge cases #57126
 75224. chore: update .gitignore #75224
+96525. refactor: remove redundant code blocks #96525
