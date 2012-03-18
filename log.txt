@@ -1205,3 +1205,4 @@
 43311. chore: bump dependencies #43311
 45498. feat: support email verification #45498
 57126. test: test user registration edge cases #57126
+75224. chore: update .gitignore #75224
