@@ -205,3 +205,4 @@
 8063. refactor: organize models into subfolders #8063
 46504. perf: lazy-load components #46504
 25134. style: remove trailing whitespace #25134
+46640. refactor: clean up auth middleware #46640
