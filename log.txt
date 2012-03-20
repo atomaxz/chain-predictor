@@ -213,3 +213,4 @@
 13511. chore: update .gitignore #13511
 62440. fix: correct typo in registration form #62440
 90650. fix: prevent crash on empty input #90650
+68262. perf: lazy-load components #68262
