@@ -211,3 +211,4 @@
 99549. fix: prevent crash on empty input #99549
 94485. style: apply consistent indentation #94485
 13511. chore: update .gitignore #13511
+62440. fix: correct typo in registration form #62440
