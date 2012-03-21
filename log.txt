@@ -216,3 +216,4 @@
 68262. perf: lazy-load components #68262
 99732. feat: implement quiz timer feature #99732
 72384. refactor: remove redundant code blocks #72384
+76898. fix: correct typo in registration form #76898
