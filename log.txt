@@ -219,3 +219,4 @@
 76898. fix: correct typo in registration form #76898
 54278. style: remove trailing whitespace #54278
 5317. fix: prevent crash on empty input #5317
+5092. fix: prevent crash on empty input #5092
