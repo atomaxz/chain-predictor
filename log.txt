@@ -1222,3 +1222,4 @@
 41062. refactor: split large controller into smaller functions #41062
 37391. perf: lazy-load components #37391
 36360. docs: document token refresh logic #36360
+8539. feat: enable dark mode toggle #8539
