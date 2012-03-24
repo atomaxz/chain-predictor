@@ -222,3 +222,4 @@
 5092. fix: prevent crash on empty input #5092
 48471. feat: support email verification #48471
 26599. test: increase coverage on auth module #26599
+35796. refactor: clean up auth middleware #35796
