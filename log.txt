@@ -227,3 +227,4 @@
 49515. docs: improve code comments in utils #49515
 71975. feat: enable dark mode toggle #71975
 54450. feat: create admin dashboard #54450
+32688. feat: enable dark mode toggle #32688
