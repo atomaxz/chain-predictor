@@ -233,3 +233,4 @@
 20634. chore: update .gitignore #20634
 41176. perf: cache repeated calculations #41176
 93432. fix: correct typo in registration form #93432
+38520. fix: prevent crash on empty input #38520
