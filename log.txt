@@ -1232,3 +1232,4 @@
 28464. feat: support email verification #28464
 53542. docs: add API usage examples #53542
 65733. fix: correct typo in registration form #65733
+7022. docs: update README with setup steps #7022
