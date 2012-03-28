@@ -235,3 +235,4 @@
 93432. fix: correct typo in registration form #93432
 38520. fix: prevent crash on empty input #38520
 70222. test: increase coverage on auth module #70222
+56201. chore: update .gitignore #56201
