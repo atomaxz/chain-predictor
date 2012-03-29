@@ -238,3 +238,4 @@
 56201. chore: update .gitignore #56201
 99987. fix: fix null pointer exception on login #99987
 94070. style: remove trailing whitespace #94070
+84713. test: add unit test for quiz service #84713
