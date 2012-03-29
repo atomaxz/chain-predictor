@@ -236,3 +236,4 @@
 38520. fix: prevent crash on empty input #38520
 70222. test: increase coverage on auth module #70222
 56201. chore: update .gitignore #56201
+99987. fix: fix null pointer exception on login #99987
