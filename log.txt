@@ -237,3 +237,4 @@
 70222. test: increase coverage on auth module #70222
 56201. chore: update .gitignore #56201
 99987. fix: fix null pointer exception on login #99987
+94070. style: remove trailing whitespace #94070
