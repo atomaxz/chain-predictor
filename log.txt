@@ -1236,3 +1236,4 @@
 15074. refactor: refactor quiz grading logic #15074
 41829. refactor: remove redundant code blocks #41829
 92415. refactor: remove redundant code blocks #92415
+33746. feat: support email verification #33746
