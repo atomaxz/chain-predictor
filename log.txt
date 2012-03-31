@@ -1238,3 +1238,4 @@
 92415. refactor: remove redundant code blocks #92415
 33746. feat: support email verification #33746
 48561. perf: cache repeated calculations #48561
+40482. style: reformat files with black #40482
