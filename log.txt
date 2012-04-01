@@ -245,3 +245,4 @@
 45393. chore: rename env.example #45393
 67880. style: rename variables for clarity #67880
 40321. refactor: split large controller into smaller functions #40321
+41441. feat: support email verification #41441
