@@ -247,3 +247,4 @@
 40321. refactor: split large controller into smaller functions #40321
 41441. feat: support email verification #41441
 42813. style: apply consistent indentation #42813
+31250. style: rename variables for clarity #31250
