@@ -1242,3 +1242,4 @@
 12047. refactor: split large controller into smaller functions #12047
 99807. docs: add API usage examples #99807
 80952. feat: add export to CSV option #80952
+9473. docs: document token refresh logic #9473
