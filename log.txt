@@ -255,3 +255,4 @@
 48518. feat: add user authentication #48518
 44767. docs: clarify environment setup #44767
 22647. docs: clarify environment setup #22647
+41435. test: increase coverage on auth module #41435
