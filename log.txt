@@ -1246,3 +1246,4 @@
 21601. test: add integration test for /submit endpoint #21601
 98559. style: apply consistent indentation #98559
 60070. test: mock database connection in test suite #60070
+24184. fix: handle 500 error in quiz API #24184
