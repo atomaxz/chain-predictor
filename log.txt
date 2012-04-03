@@ -257,3 +257,4 @@
 22647. docs: clarify environment setup #22647
 41435. test: increase coverage on auth module #41435
 64588. test: increase coverage on auth module #64588
+28389. refactor: split large controller into smaller functions #28389
