@@ -261,3 +261,4 @@
 39911. fix: correct typo in registration form #39911
 82527. fix: prevent crash on empty input #82527
 60673. perf: reduce image load time #60673
+21573. chore: add GitHub actions badge #21573
