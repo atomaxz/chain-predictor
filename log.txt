@@ -259,3 +259,4 @@
 64588. test: increase coverage on auth module #64588
 28389. refactor: split large controller into smaller functions #28389
 39911. fix: correct typo in registration form #39911
+82527. fix: prevent crash on empty input #82527
