@@ -1256,3 +1256,4 @@
 77892. feat: add user authentication #77892
 16681. refactor: remove redundant code blocks #16681
 28425. perf: optimize database query for quiz results #28425
+39486. feat: add export to CSV option #39486
