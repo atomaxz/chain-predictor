@@ -1251,3 +1251,4 @@
 97000. style: apply consistent indentation #97000
 77873. refactor: organize models into subfolders #77873
 60081. docs: write FAQ section #60081
+95697. refactor: organize models into subfolders #95697
