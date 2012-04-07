@@ -264,3 +264,4 @@
 21573. chore: add GitHub actions badge #21573
 77684. test: add unit test for quiz service #77684
 36724. fix: prevent crash on empty input #36724
+83736. perf: reduce image load time #83736
