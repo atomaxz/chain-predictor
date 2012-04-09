@@ -1260,3 +1260,4 @@
 75341. fix: correct typo in registration form #75341
 72636. perf: cache repeated calculations #72636
 18172. test: increase coverage on auth module #18172
+24972. chore: update .gitignore #24972
