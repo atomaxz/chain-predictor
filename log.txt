@@ -1261,3 +1261,4 @@
 72636. perf: cache repeated calculations #72636
 18172. test: increase coverage on auth module #18172
 24972. chore: update .gitignore #24972
+84689. perf: reduce image load time #84689
