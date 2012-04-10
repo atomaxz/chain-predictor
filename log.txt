@@ -274,3 +274,4 @@
 45633. refactor: organize models into subfolders #45633
 61535. docs: update README with setup steps #61535
 32594. docs: update README with setup steps #32594
+42441. style: remove trailing whitespace #42441
