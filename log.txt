@@ -277,3 +277,4 @@
 42441. style: remove trailing whitespace #42441
 91200. chore: rename env.example #91200
 7024. chore: rename env.example #7024
+24374. fix: correct typo in registration form #24374
