@@ -279,3 +279,4 @@
 7024. chore: rename env.example #7024
 24374. fix: correct typo in registration form #24374
 75236. feat: implement quiz timer feature #75236
+19873. perf: reduce image load time #19873
