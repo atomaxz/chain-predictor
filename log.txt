@@ -1265,3 +1265,4 @@
 45132. chore: rename env.example #45132
 8958. perf: reduce image load time #8958
 78564. test: mock database connection in test suite #78564
+85971. feat: create admin dashboard #85971
