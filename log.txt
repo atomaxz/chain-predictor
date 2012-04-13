@@ -1270,3 +1270,4 @@
 82573. feat: create admin dashboard #82573
 68969. docs: document token refresh logic #68969
 5941. style: remove trailing whitespace #5941
+52641. feat: add user authentication #52641
