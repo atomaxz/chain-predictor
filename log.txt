@@ -284,3 +284,4 @@
 56971. style: rename variables for clarity #56971
 69786. fix: fix null pointer exception on login #69786
 2074. refactor: clean up auth middleware #2074
+82132. feat: enable dark mode toggle #82132
