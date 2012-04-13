@@ -287,3 +287,4 @@
 82132. feat: enable dark mode toggle #82132
 28070. feat: implement quiz timer feature #28070
 46897. refactor: clean up auth middleware #46897
+54247. test: increase coverage on auth module #54247
