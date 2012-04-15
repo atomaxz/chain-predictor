@@ -292,3 +292,4 @@
 89666. refactor: remove redundant code blocks #89666
 59103. refactor: organize models into subfolders #59103
 73168. docs: add API usage examples #73168
+44142. docs: update README with setup steps #44142
