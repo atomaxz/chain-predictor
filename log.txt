@@ -1283,3 +1283,4 @@
 79526. refactor: remove redundant code blocks #79526
 65284. refactor: organize models into subfolders #65284
 4801. style: reformat files with black #4801
+62191. style: standardize quote style #62191
