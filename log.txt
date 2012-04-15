@@ -290,3 +290,4 @@
 54247. test: increase coverage on auth module #54247
 83707. test: mock database connection in test suite #83707
 89666. refactor: remove redundant code blocks #89666
+59103. refactor: organize models into subfolders #59103
