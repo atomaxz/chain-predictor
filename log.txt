@@ -1281,3 +1281,4 @@
 16817. chore: add GitHub actions badge #16817
 84564. perf: reduce image load time #84564
 79526. refactor: remove redundant code blocks #79526
+65284. refactor: organize models into subfolders #65284
