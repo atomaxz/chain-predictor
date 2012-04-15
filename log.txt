@@ -1280,3 +1280,4 @@
 1406. chore: rename env.example #1406
 16817. chore: add GitHub actions badge #16817
 84564. perf: reduce image load time #84564
+79526. refactor: remove redundant code blocks #79526
