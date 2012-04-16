@@ -1285,3 +1285,4 @@
 4801. style: reformat files with black #4801
 62191. style: standardize quote style #62191
 66280. docs: add API usage examples #66280
+97954. style: remove trailing whitespace #97954
