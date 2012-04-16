@@ -1287,3 +1287,4 @@
 66280. docs: add API usage examples #66280
 97954. style: remove trailing whitespace #97954
 91399. style: rename variables for clarity #91399
+61281. chore: add GitHub actions badge #61281
