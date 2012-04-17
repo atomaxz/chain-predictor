@@ -1288,3 +1288,4 @@
 97954. style: remove trailing whitespace #97954
 91399. style: rename variables for clarity #91399
 61281. chore: add GitHub actions badge #61281
+30271. perf: optimize database query for quiz results #30271
