@@ -1290,3 +1290,4 @@
 61281. chore: add GitHub actions badge #61281
 30271. perf: optimize database query for quiz results #30271
 96720. refactor: clean up auth middleware #96720
+83743. feat: support email verification #83743
