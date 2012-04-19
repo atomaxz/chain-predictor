@@ -1296,3 +1296,4 @@
 58413. refactor: refactor quiz grading logic #58413
 25810. refactor: split large controller into smaller functions #25810
 28126. chore: update .gitignore #28126
+31181. test: test user registration edge cases #31181
