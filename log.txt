@@ -1300,3 +1300,4 @@
 96131. fix: handle 500 error in quiz API #96131
 79413. feat: create admin dashboard #79413
 92950. feat: enable dark mode toggle #92950
+27594. test: test user registration edge cases #27594
