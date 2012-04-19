@@ -1297,3 +1297,4 @@
 25810. refactor: split large controller into smaller functions #25810
 28126. chore: update .gitignore #28126
 31181. test: test user registration edge cases #31181
+96131. fix: handle 500 error in quiz API #96131
