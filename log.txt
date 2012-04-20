@@ -305,3 +305,4 @@
 40597. fix: correct typo in registration form #40597
 15114. chore: bump dependencies #15114
 38100. feat: enable dark mode toggle #38100
+62458. docs: clarify environment setup #62458
