@@ -304,3 +304,4 @@
 78420. fix: handle 500 error in quiz API #78420
 40597. fix: correct typo in registration form #40597
 15114. chore: bump dependencies #15114
+38100. feat: enable dark mode toggle #38100
