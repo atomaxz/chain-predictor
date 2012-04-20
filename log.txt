@@ -303,3 +303,4 @@
 82630. chore: clean up unused files #82630
 78420. fix: handle 500 error in quiz API #78420
 40597. fix: correct typo in registration form #40597
+15114. chore: bump dependencies #15114
