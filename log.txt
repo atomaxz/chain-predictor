@@ -1308,3 +1308,4 @@
 64381. perf: optimize database query for quiz results #64381
 2080. refactor: remove redundant code blocks #2080
 0290. refactor: remove redundant code blocks #290
+95700. chore: add GitHub actions badge #95700
