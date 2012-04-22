@@ -1310,3 +1310,4 @@
 0290. refactor: remove redundant code blocks #290
 95700. chore: add GitHub actions badge #95700
 11538. style: apply consistent indentation #11538
+88502. feat: add export to CSV option #88502
