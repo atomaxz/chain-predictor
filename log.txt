@@ -1314,3 +1314,4 @@
 44655. docs: add API usage examples #44655
 0060. refactor: organize models into subfolders #60
 5835. docs: improve code comments in utils #5835
+24504. perf: optimize database query for quiz results #24504
