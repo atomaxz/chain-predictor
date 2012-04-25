@@ -311,3 +311,4 @@
 93456. feat: add export to CSV option #93456
 86508. perf: reduce image load time #86508
 36317. fix: handle 500 error in quiz API #36317
+34396. chore: update .gitignore #34396
