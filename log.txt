@@ -1321,3 +1321,4 @@
 90055. docs: clarify environment setup #90055
 55286. test: mock database connection in test suite #55286
 16802. refactor: clean up auth middleware #16802
+9277. fix: handle 500 error in quiz API #9277
