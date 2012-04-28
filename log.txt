@@ -322,3 +322,4 @@
 53446. fix: correct typo in registration form #53446
 38049. style: rename variables for clarity #38049
 42356. chore: clean up unused files #42356
+44889. chore: bump dependencies #44889
