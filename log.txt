@@ -1330,3 +1330,4 @@
 95645. style: standardize quote style #95645
 85684. style: apply consistent indentation #85684
 13844. chore: rename env.example #13844
+10107. docs: update README with setup steps #10107
