@@ -330,3 +330,4 @@
 74926. test: add unit test for quiz service #74926
 27490. refactor: clean up auth middleware #27490
 78926. test: mock database connection in test suite #78926
+54040. test: add integration test for /submit endpoint #54040
