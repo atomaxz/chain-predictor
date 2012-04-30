@@ -328,3 +328,4 @@
 15292. perf: cache repeated calculations #15292
 49433. feat: enable dark mode toggle #49433
 74926. test: add unit test for quiz service #74926
+27490. refactor: clean up auth middleware #27490
