@@ -1337,3 +1337,4 @@
 39369. style: reformat files with black #39369
 77226. style: reformat files with black #77226
 17234. refactor: refactor quiz grading logic #17234
+39535. test: add integration test for /submit endpoint #39535
