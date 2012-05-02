@@ -334,3 +334,4 @@
 57108. test: mock database connection in test suite #57108
 97481. chore: rename env.example #97481
 89363. feat: add user authentication #89363
+50272. refactor: clean up auth middleware #50272
