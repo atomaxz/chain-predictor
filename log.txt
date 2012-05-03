@@ -339,3 +339,4 @@
 40937. test: add integration test for /submit endpoint #40937
 25045. fix: handle 500 error in quiz API #25045
 41769. fix: fix broken CSS in mobile view #41769
+34452. chore: bump dependencies #34452
