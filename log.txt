@@ -1339,3 +1339,4 @@
 17234. refactor: refactor quiz grading logic #17234
 39535. test: add integration test for /submit endpoint #39535
 18068. refactor: organize models into subfolders #18068
+33468. fix: prevent crash on empty input #33468
