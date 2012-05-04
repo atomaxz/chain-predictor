@@ -1343,3 +1343,4 @@
 51615. refactor: refactor quiz grading logic #51615
 48950. perf: cache repeated calculations #48950
 43283. chore: rename env.example #43283
+33027. test: mock database connection in test suite #33027
