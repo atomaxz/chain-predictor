@@ -341,3 +341,4 @@
 41769. fix: fix broken CSS in mobile view #41769
 34452. chore: bump dependencies #34452
 14414. style: rename variables for clarity #14414
+2091. chore: rename env.example #2091
