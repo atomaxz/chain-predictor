@@ -1346,3 +1346,4 @@
 33027. test: mock database connection in test suite #33027
 16825. test: increase coverage on auth module #16825
 63950. refactor: refactor quiz grading logic #63950
+97785. style: remove trailing whitespace #97785
