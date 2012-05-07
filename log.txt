@@ -1353,3 +1353,4 @@
 64057. chore: bump dependencies #64057
 66018. style: rename variables for clarity #66018
 76684. test: test user registration edge cases #76684
+14802. refactor: remove redundant code blocks #14802
