@@ -1352,3 +1352,4 @@
 15418. docs: write FAQ section #15418
 64057. chore: bump dependencies #64057
 66018. style: rename variables for clarity #66018
+76684. test: test user registration edge cases #76684
