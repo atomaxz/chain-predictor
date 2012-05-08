@@ -1359,3 +1359,4 @@
 86389. test: test user registration edge cases #86389
 57363. style: reformat files with black #57363
 6065. chore: add GitHub actions badge #6065
+0173. perf: optimize database query for quiz results #173
