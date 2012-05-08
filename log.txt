@@ -350,3 +350,4 @@
 90932. style: standardize quote style #90932
 68240. feat: enable dark mode toggle #68240
 22076. docs: improve code comments in utils #22076
+92369. test: increase coverage on auth module #92369
