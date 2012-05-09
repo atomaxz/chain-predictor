@@ -1365,3 +1365,4 @@
 25537. chore: rename env.example #25537
 89342. chore: add GitHub actions badge #89342
 9661. style: standardize quote style #9661
+42731. test: increase coverage on auth module #42731
