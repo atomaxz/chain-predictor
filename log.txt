@@ -1363,3 +1363,4 @@
 62333. perf: optimize database query for quiz results #62333
 4528. chore: clean up unused files #4528
 25537. chore: rename env.example #25537
+89342. chore: add GitHub actions badge #89342
