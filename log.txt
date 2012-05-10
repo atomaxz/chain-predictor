@@ -1371,3 +1371,4 @@
 13542. test: test user registration edge cases #13542
 25575. test: test user registration edge cases #25575
 82103. perf: optimize database query for quiz results #82103
+35803. fix: fix null pointer exception on login #35803
