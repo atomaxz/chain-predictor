@@ -354,3 +354,4 @@
 83879. docs: write FAQ section #83879
 81799. perf: optimize database query for quiz results #81799
 81695. test: increase coverage on auth module #81695
+75544. perf: optimize database query for quiz results #75544
