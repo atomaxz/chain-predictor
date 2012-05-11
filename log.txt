@@ -1376,3 +1376,4 @@
 51062. test: test user registration edge cases #51062
 37795. feat: support email verification #37795
 12470. perf: lazy-load components #12470
+71538. perf: reduce image load time #71538
