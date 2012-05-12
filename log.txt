@@ -1379,3 +1379,4 @@
 71538. perf: reduce image load time #71538
 43903. docs: update README with setup steps #43903
 2586. fix: prevent crash on empty input #2586
+37571. perf: cache repeated calculations #37571
