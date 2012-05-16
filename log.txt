@@ -365,3 +365,4 @@
 98403. docs: write FAQ section #98403
 7574. test: increase coverage on auth module #7574
 77912. chore: clean up unused files #77912
+19014. fix: fix null pointer exception on login #19014
