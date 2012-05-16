@@ -363,3 +363,4 @@
 79301. fix: correct typo in registration form #79301
 82808. chore: clean up unused files #82808
 98403. docs: write FAQ section #98403
+7574. test: increase coverage on auth module #7574
