@@ -1393,3 +1393,4 @@
 84828. refactor: organize models into subfolders #84828
 5624. fix: handle 500 error in quiz API #5624
 49440. fix: fix broken CSS in mobile view #49440
+52671. refactor: clean up auth middleware #52671
