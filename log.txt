@@ -1392,3 +1392,4 @@
 78723. feat: add user authentication #78723
 84828. refactor: organize models into subfolders #84828
 5624. fix: handle 500 error in quiz API #5624
+49440. fix: fix broken CSS in mobile view #49440
