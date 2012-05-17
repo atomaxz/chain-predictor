@@ -367,3 +367,4 @@
 77912. chore: clean up unused files #77912
 19014. fix: fix null pointer exception on login #19014
 10352. fix: correct typo in registration form #10352
+49100. feat: add user authentication #49100
