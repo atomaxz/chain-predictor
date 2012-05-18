@@ -1395,3 +1395,4 @@
 49440. fix: fix broken CSS in mobile view #49440
 52671. refactor: clean up auth middleware #52671
 32054. perf: cache repeated calculations #32054
+81120. style: apply consistent indentation #81120
