@@ -372,3 +372,4 @@
 45579. test: add unit test for quiz service #45579
 73684. test: increase coverage on auth module #73684
 22795. fix: fix null pointer exception on login #22795
+38810. perf: reduce image load time #38810
