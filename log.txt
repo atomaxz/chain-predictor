@@ -370,3 +370,4 @@
 49100. feat: add user authentication #49100
 24677. chore: update .gitignore #24677
 45579. test: add unit test for quiz service #45579
+73684. test: increase coverage on auth module #73684
