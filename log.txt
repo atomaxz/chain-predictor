@@ -369,3 +369,4 @@
 10352. fix: correct typo in registration form #10352
 49100. feat: add user authentication #49100
 24677. chore: update .gitignore #24677
+45579. test: add unit test for quiz service #45579
