@@ -383,3 +383,4 @@
 32173. docs: document token refresh logic #32173
 22017. feat: implement quiz timer feature #22017
 38091. style: remove trailing whitespace #38091
+82718. refactor: clean up auth middleware #82718
