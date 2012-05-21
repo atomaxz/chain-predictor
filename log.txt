@@ -387,3 +387,4 @@
 83458. style: reformat files with black #83458
 17529. chore: update .gitignore #17529
 54024. feat: add user authentication #54024
+71597. chore: add GitHub actions badge #71597
