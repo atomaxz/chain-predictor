@@ -388,3 +388,4 @@
 17529. chore: update .gitignore #17529
 54024. feat: add user authentication #54024
 71597. chore: add GitHub actions badge #71597
+71562. feat: support email verification #71562
