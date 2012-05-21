@@ -391,3 +391,4 @@
 71562. feat: support email verification #71562
 7103. refactor: refactor quiz grading logic #7103
 68150. feat: support email verification #68150
+94256. test: add unit test for quiz service #94256
