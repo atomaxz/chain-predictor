@@ -1400,3 +1400,4 @@
 10497. chore: rename env.example #10497
 66139. fix: fix null pointer exception on login #66139
 24797. refactor: remove redundant code blocks #24797
+70919. test: add unit test for quiz service #70919
