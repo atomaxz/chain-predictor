@@ -1402,3 +1402,4 @@
 24797. refactor: remove redundant code blocks #24797
 70919. test: add unit test for quiz service #70919
 42222. chore: clean up unused files #42222
+79981. refactor: clean up auth middleware #79981
