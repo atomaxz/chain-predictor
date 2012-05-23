@@ -1404,3 +1404,4 @@
 42222. chore: clean up unused files #42222
 79981. refactor: clean up auth middleware #79981
 6747. chore: bump dependencies #6747
+65897. perf: optimize database query for quiz results #65897
