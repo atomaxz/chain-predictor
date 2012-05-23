@@ -396,3 +396,4 @@
 17704. style: standardize quote style #17704
 28097. refactor: split large controller into smaller functions #28097
 89175. chore: update .gitignore #89175
+20538. refactor: clean up auth middleware #20538
