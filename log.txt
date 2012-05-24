@@ -1410,3 +1410,4 @@
 15974. feat: enable dark mode toggle #15974
 82459. chore: rename env.example #82459
 77237. chore: rename env.example #77237
+80100. fix: handle 500 error in quiz API #80100
