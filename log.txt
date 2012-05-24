@@ -399,3 +399,4 @@
 20538. refactor: clean up auth middleware #20538
 95658. perf: reduce image load time #95658
 17648. chore: clean up unused files #17648
+18685. style: remove trailing whitespace #18685
