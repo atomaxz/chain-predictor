@@ -403,3 +403,4 @@
 60305. test: add integration test for /submit endpoint #60305
 36770. test: add unit test for quiz service #36770
 71978. perf: reduce image load time #71978
+3180. chore: bump dependencies #3180
