@@ -405,3 +405,4 @@
 71978. perf: reduce image load time #71978
 3180. chore: bump dependencies #3180
 62119. style: rename variables for clarity #62119
+39049. chore: add GitHub actions badge #39049
