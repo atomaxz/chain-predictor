@@ -400,3 +400,4 @@
 95658. perf: reduce image load time #95658
 17648. chore: clean up unused files #17648
 18685. style: remove trailing whitespace #18685
+60305. test: add integration test for /submit endpoint #60305
