@@ -401,3 +401,4 @@
 17648. chore: clean up unused files #17648
 18685. style: remove trailing whitespace #18685
 60305. test: add integration test for /submit endpoint #60305
+36770. test: add unit test for quiz service #36770
