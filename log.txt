@@ -1416,3 +1416,4 @@
 84267. fix: correct typo in registration form #84267
 14832. test: test user registration edge cases #14832
 98464. perf: lazy-load components #98464
+59508. refactor: clean up auth middleware #59508
