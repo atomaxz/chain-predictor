@@ -1418,3 +1418,4 @@
 98464. perf: lazy-load components #98464
 59508. refactor: clean up auth middleware #59508
 64576. chore: clean up unused files #64576
+65488. refactor: organize models into subfolders #65488
