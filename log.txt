@@ -420,3 +420,4 @@
 51060. perf: reduce image load time #51060
 86567. perf: reduce image load time #86567
 83677. feat: support email verification #83677
+27876. feat: enable dark mode toggle #27876
