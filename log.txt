@@ -1432,3 +1432,4 @@
 11932. chore: update .gitignore #11932
 91942. refactor: organize models into subfolders #91942
 30322. chore: clean up unused files #30322
+96501. docs: update README with setup steps #96501
