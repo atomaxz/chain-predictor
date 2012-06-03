@@ -425,3 +425,4 @@
 4748. docs: clarify environment setup #4748
 39965. style: remove trailing whitespace #39965
 64735. refactor: split large controller into smaller functions #64735
+88468. perf: optimize database query for quiz results #88468
