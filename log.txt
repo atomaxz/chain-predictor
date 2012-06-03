@@ -422,3 +422,4 @@
 83677. feat: support email verification #83677
 27876. feat: enable dark mode toggle #27876
 75372. docs: update README with setup steps #75372
+4748. docs: clarify environment setup #4748
