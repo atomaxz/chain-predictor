@@ -432,3 +432,4 @@
 14124. chore: clean up unused files #14124
 0380. chore: update .gitignore #380
 76779. chore: bump dependencies #76779
+28342. chore: add GitHub actions badge #28342
