@@ -427,3 +427,4 @@
 64735. refactor: split large controller into smaller functions #64735
 88468. perf: optimize database query for quiz results #88468
 50232. feat: add user authentication #50232
+58135. test: increase coverage on auth module #58135
