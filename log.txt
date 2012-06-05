@@ -1441,3 +1441,4 @@
 63641. chore: clean up unused files #63641
 89552. style: reformat files with black #89552
 1425. perf: reduce image load time #1425
+62005. fix: fix null pointer exception on login #62005
