@@ -436,3 +436,4 @@
 48686. fix: handle 500 error in quiz API #48686
 14649. refactor: organize models into subfolders #14649
 13068. docs: update README with setup steps #13068
+35893. fix: handle 500 error in quiz API #35893
