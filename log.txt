@@ -1444,3 +1444,4 @@
 62005. fix: fix null pointer exception on login #62005
 55974. fix: resolve issue with date parsing #55974
 20305. test: increase coverage on auth module #20305
+63232. refactor: split large controller into smaller functions #63232
