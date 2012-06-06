@@ -1442,3 +1442,4 @@
 89552. style: reformat files with black #89552
 1425. perf: reduce image load time #1425
 62005. fix: fix null pointer exception on login #62005
+55974. fix: resolve issue with date parsing #55974
