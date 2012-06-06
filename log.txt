@@ -439,3 +439,4 @@
 35893. fix: handle 500 error in quiz API #35893
 66998. perf: lazy-load components #66998
 66722. refactor: refactor quiz grading logic #66722
+44888. test: increase coverage on auth module #44888
