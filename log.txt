@@ -442,3 +442,4 @@
 44888. test: increase coverage on auth module #44888
 54364. refactor: clean up auth middleware #54364
 1824. docs: improve code comments in utils #1824
+62832. test: test user registration edge cases #62832
