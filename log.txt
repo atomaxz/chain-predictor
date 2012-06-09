@@ -447,3 +447,4 @@
 29747. test: test user registration edge cases #29747
 28541. docs: write FAQ section #28541
 19219. chore: add GitHub actions badge #19219
+17025. refactor: remove redundant code blocks #17025
