@@ -1454,3 +1454,4 @@
 19059. chore: add GitHub actions badge #19059
 77658. style: remove trailing whitespace #77658
 96399. style: standardize quote style #96399
+88089. chore: update .gitignore #88089
