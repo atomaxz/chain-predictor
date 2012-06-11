@@ -458,3 +458,4 @@
 15422. docs: write FAQ section #15422
 32089. style: reformat files with black #32089
 47767. fix: fix null pointer exception on login #47767
+72702. test: increase coverage on auth module #72702
