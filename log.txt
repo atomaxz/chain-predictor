@@ -1456,3 +1456,4 @@
 96399. style: standardize quote style #96399
 88089. chore: update .gitignore #88089
 19343. feat: create admin dashboard #19343
+86280. test: mock database connection in test suite #86280
