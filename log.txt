@@ -457,3 +457,4 @@
 63648. docs: write FAQ section #63648
 15422. docs: write FAQ section #15422
 32089. style: reformat files with black #32089
+47767. fix: fix null pointer exception on login #47767
