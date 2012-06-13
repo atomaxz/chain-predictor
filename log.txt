@@ -1460,3 +1460,4 @@
 43412. feat: create admin dashboard #43412
 85472. refactor: remove redundant code blocks #85472
 26870. feat: add user authentication #26870
+56813. test: test user registration edge cases #56813
