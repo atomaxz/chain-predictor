@@ -466,3 +466,4 @@
 82073. feat: create admin dashboard #82073
 11436. fix: correct typo in registration form #11436
 17988. refactor: organize models into subfolders #17988
+95538. style: standardize quote style #95538
