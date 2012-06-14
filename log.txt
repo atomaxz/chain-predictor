@@ -1462,3 +1462,4 @@
 26870. feat: add user authentication #26870
 56813. test: test user registration edge cases #56813
 87932. test: add integration test for /submit endpoint #87932
+91354. chore: bump dependencies #91354
