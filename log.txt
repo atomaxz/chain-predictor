@@ -472,3 +472,4 @@
 4492. chore: update .gitignore #4492
 22402. refactor: refactor quiz grading logic #22402
 58275. feat: create admin dashboard #58275
+62093. style: remove trailing whitespace #62093
