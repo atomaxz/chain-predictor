@@ -474,3 +474,4 @@
 58275. feat: create admin dashboard #58275
 62093. style: remove trailing whitespace #62093
 10983. perf: reduce image load time #10983
+31379. refactor: remove redundant code blocks #31379
