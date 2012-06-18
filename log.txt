@@ -1472,3 +1472,4 @@
 54670. docs: document token refresh logic #54670
 18405. docs: add API usage examples #18405
 52895. docs: document token refresh logic #52895
+89529. perf: cache repeated calculations #89529
