@@ -479,3 +479,4 @@
 55455. feat: support email verification #55455
 82821. feat: create admin dashboard #82821
 38537. chore: bump dependencies #38537
+52435. chore: update .gitignore #52435
