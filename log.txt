@@ -1477,3 +1477,4 @@
 4395. refactor: refactor quiz grading logic #4395
 9354. test: add unit test for quiz service #9354
 61263. refactor: organize models into subfolders #61263
+78384. perf: lazy-load components #78384
