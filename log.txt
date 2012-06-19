@@ -482,3 +482,4 @@
 52435. chore: update .gitignore #52435
 92210. fix: handle 500 error in quiz API #92210
 2022. test: add integration test for /submit endpoint #2022
+64625. docs: write FAQ section #64625
