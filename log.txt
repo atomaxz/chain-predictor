@@ -1479,3 +1479,4 @@
 61263. refactor: organize models into subfolders #61263
 78384. perf: lazy-load components #78384
 27224. fix: fix broken CSS in mobile view #27224
+98102. style: reformat files with black #98102
