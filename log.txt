@@ -488,3 +488,4 @@
 71635. chore: add GitHub actions badge #71635
 37030. feat: create admin dashboard #37030
 77557. feat: implement quiz timer feature #77557
+2201. docs: write FAQ section #2201
