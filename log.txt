@@ -1481,3 +1481,4 @@
 27224. fix: fix broken CSS in mobile view #27224
 98102. style: reformat files with black #98102
 75736. perf: reduce image load time #75736
+13460. refactor: remove redundant code blocks #13460
