@@ -1484,3 +1484,4 @@
 13460. refactor: remove redundant code blocks #13460
 7098. docs: update README with setup steps #7098
 13126. fix: resolve issue with date parsing #13126
+91873. fix: fix broken CSS in mobile view #91873
