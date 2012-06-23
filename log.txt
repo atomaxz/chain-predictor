@@ -492,3 +492,4 @@
 80609. style: reformat files with black #80609
 49894. docs: clarify environment setup #49894
 16621. chore: rename env.example #16621
+80704. refactor: organize models into subfolders #80704
