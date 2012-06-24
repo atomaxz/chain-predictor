@@ -1490,3 +1490,4 @@
 91881. chore: bump dependencies #91881
 78032. feat: create admin dashboard #78032
 9404. perf: optimize database query for quiz results #9404
+35067. style: apply consistent indentation #35067
