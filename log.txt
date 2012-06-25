@@ -1493,3 +1493,4 @@
 35067. style: apply consistent indentation #35067
 11990. fix: fix broken CSS in mobile view #11990
 45710. fix: fix broken CSS in mobile view #45710
+81577. refactor: organize models into subfolders #81577
