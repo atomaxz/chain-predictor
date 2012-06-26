@@ -1495,3 +1495,4 @@
 45710. fix: fix broken CSS in mobile view #45710
 81577. refactor: organize models into subfolders #81577
 58614. test: increase coverage on auth module #58614
+18023. test: add integration test for /submit endpoint #18023
