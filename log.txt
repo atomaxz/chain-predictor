@@ -503,3 +503,4 @@
 89954. refactor: organize models into subfolders #89954
 99563. docs: clarify environment setup #99563
 44842. feat: add user authentication #44842
+69177. fix: correct typo in registration form #69177
