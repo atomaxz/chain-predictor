@@ -507,3 +507,4 @@
 94276. fix: handle 500 error in quiz API #94276
 86793. perf: optimize database query for quiz results #86793
 33657. style: apply consistent indentation #33657
+87263. feat: add export to CSV option #87263
