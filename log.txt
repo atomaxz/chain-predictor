@@ -1499,3 +1499,4 @@
 60516. feat: create admin dashboard #60516
 37398. chore: rename env.example #37398
 49437. chore: clean up unused files #49437
+98298. docs: update README with setup steps #98298
