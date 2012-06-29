@@ -1501,3 +1501,4 @@
 49437. chore: clean up unused files #49437
 98298. docs: update README with setup steps #98298
 91584. fix: handle 500 error in quiz API #91584
+88683. refactor: clean up auth middleware #88683
