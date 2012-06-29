@@ -1503,3 +1503,4 @@
 91584. fix: handle 500 error in quiz API #91584
 88683. refactor: clean up auth middleware #88683
 13170. feat: add user authentication #13170
+87172. feat: add user authentication #87172
