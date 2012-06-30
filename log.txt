@@ -1505,3 +1505,4 @@
 13170. feat: add user authentication #13170
 87172. feat: add user authentication #87172
 7737. feat: support email verification #7737
+57874. chore: bump dependencies #57874
