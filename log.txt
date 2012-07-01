@@ -514,3 +514,4 @@
 20403. perf: cache repeated calculations #20403
 15614. chore: update .gitignore #15614
 90640. refactor: split large controller into smaller functions #90640
+99836. fix: correct typo in registration form #99836
