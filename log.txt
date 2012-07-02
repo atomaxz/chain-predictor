@@ -516,3 +516,4 @@
 90640. refactor: split large controller into smaller functions #90640
 99836. fix: correct typo in registration form #99836
 87132. chore: bump dependencies #87132
+99789. refactor: remove redundant code blocks #99789
