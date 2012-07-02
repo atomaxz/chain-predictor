@@ -517,3 +517,4 @@
 99836. fix: correct typo in registration form #99836
 87132. chore: bump dependencies #87132
 99789. refactor: remove redundant code blocks #99789
+39276. perf: optimize database query for quiz results #39276
