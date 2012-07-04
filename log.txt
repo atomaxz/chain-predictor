@@ -1512,3 +1512,4 @@
 87621. test: add unit test for quiz service #87621
 58300. refactor: organize models into subfolders #58300
 24264. style: standardize quote style #24264
+61927. feat: enable dark mode toggle #61927
