@@ -522,3 +522,4 @@
 62854. refactor: clean up auth middleware #62854
 7108. docs: update README with setup steps #7108
 49571. refactor: remove redundant code blocks #49571
+50530. perf: optimize database query for quiz results #50530
