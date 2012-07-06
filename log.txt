@@ -1516,3 +1516,4 @@
 46358. fix: fix null pointer exception on login #46358
 34913. refactor: split large controller into smaller functions #34913
 11877. fix: resolve issue with date parsing #11877
+1286. chore: update .gitignore #1286
