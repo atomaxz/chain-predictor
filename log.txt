@@ -1518,3 +1518,4 @@
 11877. fix: resolve issue with date parsing #11877
 1286. chore: update .gitignore #1286
 22696. docs: improve code comments in utils #22696
+32720. perf: optimize database query for quiz results #32720
