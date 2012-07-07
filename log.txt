@@ -530,3 +530,4 @@
 3194. fix: resolve issue with date parsing #3194
 61209. perf: optimize database query for quiz results #61209
 68939. chore: add GitHub actions badge #68939
+34147. perf: lazy-load components #34147
