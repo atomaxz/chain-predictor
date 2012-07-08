@@ -1526,3 +1526,4 @@
 13505. perf: reduce image load time #13505
 91577. docs: add API usage examples #91577
 90947. docs: add API usage examples #90947
+72121. perf: reduce image load time #72121
