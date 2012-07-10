@@ -536,3 +536,4 @@
 6157. feat: implement quiz timer feature #6157
 32310. fix: fix null pointer exception on login #32310
 70666. fix: fix null pointer exception on login #70666
+88439. test: add integration test for /submit endpoint #88439
