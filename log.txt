@@ -1530,3 +1530,4 @@
 39359. style: standardize quote style #39359
 38765. docs: add API usage examples #38765
 58349. refactor: refactor quiz grading logic #58349
+45947. fix: fix null pointer exception on login #45947
