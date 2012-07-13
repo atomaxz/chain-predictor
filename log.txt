@@ -544,3 +544,4 @@
 98417. perf: optimize database query for quiz results #98417
 2563. test: mock database connection in test suite #2563
 13038. feat: implement quiz timer feature #13038
+21824. docs: add API usage examples #21824
