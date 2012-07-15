@@ -1541,3 +1541,4 @@
 73340. test: increase coverage on auth module #73340
 69451. fix: fix null pointer exception on login #69451
 6358. fix: fix null pointer exception on login #6358
+33253. fix: correct typo in registration form #33253
