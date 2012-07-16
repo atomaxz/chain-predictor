@@ -548,3 +548,4 @@
 97174. perf: cache repeated calculations #97174
 33314. style: remove trailing whitespace #33314
 50229. feat: enable dark mode toggle #50229
+90847. test: test user registration edge cases #90847
