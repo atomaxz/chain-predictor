@@ -1545,3 +1545,4 @@
 52228. docs: add API usage examples #52228
 63396. feat: enable dark mode toggle #63396
 82445. refactor: clean up auth middleware #82445
+44338. fix: prevent crash on empty input #44338
