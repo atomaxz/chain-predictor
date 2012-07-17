@@ -1547,3 +1547,4 @@
 82445. refactor: clean up auth middleware #82445
 44338. fix: prevent crash on empty input #44338
 19046. fix: resolve issue with date parsing #19046
+73866. fix: fix null pointer exception on login #73866
