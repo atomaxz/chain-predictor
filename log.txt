@@ -555,3 +555,4 @@
 18606. docs: add API usage examples #18606
 73237. test: test user registration edge cases #73237
 63284. fix: prevent crash on empty input #63284
+70221. refactor: organize models into subfolders #70221
