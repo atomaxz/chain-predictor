@@ -557,3 +557,4 @@
 63284. fix: prevent crash on empty input #63284
 70221. refactor: organize models into subfolders #70221
 91953. perf: reduce image load time #91953
+44626. refactor: clean up auth middleware #44626
