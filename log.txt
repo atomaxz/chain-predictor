@@ -563,3 +563,4 @@
 95159. fix: fix null pointer exception on login #95159
 27991. feat: enable dark mode toggle #27991
 49679. perf: reduce image load time #49679
+37070. refactor: clean up auth middleware #37070
