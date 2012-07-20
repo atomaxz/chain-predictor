@@ -560,3 +560,4 @@
 44626. refactor: clean up auth middleware #44626
 89358. feat: add user authentication #89358
 43510. test: add unit test for quiz service #43510
+95159. fix: fix null pointer exception on login #95159
