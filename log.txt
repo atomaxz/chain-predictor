@@ -569,3 +569,4 @@
 8197. docs: add API usage examples #8197
 47322. docs: document token refresh logic #47322
 0011. feat: create admin dashboard #11
+6011. docs: write FAQ section #6011
