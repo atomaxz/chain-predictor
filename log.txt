@@ -1561,3 +1561,4 @@
 81845. feat: create admin dashboard #81845
 5928. style: standardize quote style #5928
 49419. test: add unit test for quiz service #49419
+82108. fix: fix broken CSS in mobile view #82108
