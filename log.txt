@@ -1560,3 +1560,4 @@
 15279. refactor: remove redundant code blocks #15279
 81845. feat: create admin dashboard #81845
 5928. style: standardize quote style #5928
+49419. test: add unit test for quiz service #49419
