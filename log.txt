@@ -574,3 +574,4 @@
 78610. test: mock database connection in test suite #78610
 2196. chore: bump dependencies #2196
 0544. perf: reduce image load time #544
+96903. chore: bump dependencies #96903
