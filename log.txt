@@ -576,3 +576,4 @@
 0544. perf: reduce image load time #544
 96903. chore: bump dependencies #96903
 82423. perf: optimize database query for quiz results #82423
+53968. feat: enable dark mode toggle #53968
