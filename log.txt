@@ -1563,3 +1563,4 @@
 49419. test: add unit test for quiz service #49419
 82108. fix: fix broken CSS in mobile view #82108
 16034. docs: document token refresh logic #16034
+26039. feat: enable dark mode toggle #26039
