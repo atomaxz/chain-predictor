@@ -578,3 +578,4 @@
 82423. perf: optimize database query for quiz results #82423
 53968. feat: enable dark mode toggle #53968
 78375. test: add integration test for /submit endpoint #78375
+13886. test: test user registration edge cases #13886
