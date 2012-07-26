@@ -580,3 +580,4 @@
 78375. test: add integration test for /submit endpoint #78375
 13886. test: test user registration edge cases #13886
 92558. chore: bump dependencies #92558
+32006. test: add integration test for /submit endpoint #32006
