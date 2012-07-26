@@ -1567,3 +1567,4 @@
 43012. refactor: organize models into subfolders #43012
 36746. docs: document token refresh logic #36746
 44131. chore: bump dependencies #44131
+32062. refactor: clean up auth middleware #32062
