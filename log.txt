@@ -589,3 +589,4 @@
 74707. refactor: refactor quiz grading logic #74707
 5852. feat: implement quiz timer feature #5852
 90408. fix: resolve issue with date parsing #90408
+11655. test: test user registration edge cases #11655
