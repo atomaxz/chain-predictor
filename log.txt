@@ -591,3 +591,4 @@
 90408. fix: resolve issue with date parsing #90408
 11655. test: test user registration edge cases #11655
 67604. docs: add API usage examples #67604
+72213. fix: handle 500 error in quiz API #72213
