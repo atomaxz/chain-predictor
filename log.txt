@@ -592,3 +592,4 @@
 11655. test: test user registration edge cases #11655
 67604. docs: add API usage examples #67604
 72213. fix: handle 500 error in quiz API #72213
+69598. refactor: clean up auth middleware #69598
