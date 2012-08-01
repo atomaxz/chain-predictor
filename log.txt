@@ -1577,3 +1577,4 @@
 43196. test: add integration test for /submit endpoint #43196
 16115. feat: add user authentication #16115
 73858. refactor: refactor quiz grading logic #73858
+96662. test: add unit test for quiz service #96662
