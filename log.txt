@@ -596,3 +596,4 @@
 28396. feat: add export to CSV option #28396
 58885. perf: reduce image load time #58885
 69800. docs: document token refresh logic #69800
+75643. perf: cache repeated calculations #75643
