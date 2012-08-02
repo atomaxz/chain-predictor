@@ -603,3 +603,4 @@
 30458. chore: clean up unused files #30458
 65219. feat: create admin dashboard #65219
 67266. docs: update README with setup steps #67266
+90582. fix: prevent crash on empty input #90582
