@@ -605,3 +605,4 @@
 67266. docs: update README with setup steps #67266
 90582. fix: prevent crash on empty input #90582
 1609. style: remove trailing whitespace #1609
+80121. fix: fix broken CSS in mobile view #80121
