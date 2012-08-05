@@ -1584,3 +1584,4 @@
 26879. refactor: refactor quiz grading logic #26879
 1269. test: mock database connection in test suite #1269
 55877. test: add integration test for /submit endpoint #55877
+41484. docs: write FAQ section #41484
