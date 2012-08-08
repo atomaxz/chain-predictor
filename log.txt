@@ -621,3 +621,4 @@
 11228. feat: add user authentication #11228
 37803. test: increase coverage on auth module #37803
 23981. docs: write FAQ section #23981
+80135. feat: enable dark mode toggle #80135
