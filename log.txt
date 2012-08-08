@@ -619,3 +619,4 @@
 98428. feat: add user authentication #98428
 57364. refactor: organize models into subfolders #57364
 11228. feat: add user authentication #11228
+37803. test: increase coverage on auth module #37803
