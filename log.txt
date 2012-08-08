@@ -1587,3 +1587,4 @@
 41484. docs: write FAQ section #41484
 24171. refactor: clean up auth middleware #24171
 83867. style: rename variables for clarity #83867
+22644. perf: reduce image load time #22644
