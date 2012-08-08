@@ -618,3 +618,4 @@
 6486. chore: bump dependencies #6486
 98428. feat: add user authentication #98428
 57364. refactor: organize models into subfolders #57364
+11228. feat: add user authentication #11228
