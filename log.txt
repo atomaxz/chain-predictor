@@ -626,3 +626,4 @@
 51355. refactor: remove redundant code blocks #51355
 76712. chore: rename env.example #76712
 38920. refactor: split large controller into smaller functions #38920
+31928. perf: optimize database query for quiz results #31928
