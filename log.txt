@@ -629,3 +629,4 @@
 31928. perf: optimize database query for quiz results #31928
 76437. refactor: clean up auth middleware #76437
 79124. fix: handle 500 error in quiz API #79124
+83123. fix: resolve issue with date parsing #83123
