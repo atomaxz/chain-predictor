@@ -628,3 +628,4 @@
 38920. refactor: split large controller into smaller functions #38920
 31928. perf: optimize database query for quiz results #31928
 76437. refactor: clean up auth middleware #76437
+79124. fix: handle 500 error in quiz API #79124
