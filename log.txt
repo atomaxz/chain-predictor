@@ -632,3 +632,4 @@
 83123. fix: resolve issue with date parsing #83123
 60318. style: reformat files with black #60318
 66497. docs: write FAQ section #66497
+69547. refactor: organize models into subfolders #69547
