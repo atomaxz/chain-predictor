@@ -635,3 +635,4 @@
 69547. refactor: organize models into subfolders #69547
 59062. fix: fix broken CSS in mobile view #59062
 93871. style: apply consistent indentation #93871
+80658. feat: add user authentication #80658
