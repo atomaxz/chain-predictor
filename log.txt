@@ -1600,3 +1600,4 @@
 30441. feat: support email verification #30441
 76976. style: rename variables for clarity #76976
 34101. refactor: split large controller into smaller functions #34101
+52528. test: test user registration edge cases #52528
