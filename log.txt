@@ -1604,3 +1604,4 @@
 31075. style: standardize quote style #31075
 73159. perf: reduce image load time #73159
 23892. test: test user registration edge cases #23892
+80708. perf: reduce image load time #80708
