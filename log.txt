@@ -1607,3 +1607,4 @@
 80708. perf: reduce image load time #80708
 96260. style: rename variables for clarity #96260
 99328. style: rename variables for clarity #99328
+86849. chore: add GitHub actions badge #86849
