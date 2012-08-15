@@ -642,3 +642,4 @@
 34979. docs: write FAQ section #34979
 29769. style: apply consistent indentation #29769
 77249. perf: optimize database query for quiz results #77249
+78097. feat: enable dark mode toggle #78097
