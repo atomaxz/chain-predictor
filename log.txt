@@ -645,3 +645,4 @@
 78097. feat: enable dark mode toggle #78097
 99338. test: add unit test for quiz service #99338
 2464. docs: update README with setup steps #2464
+24281. chore: add GitHub actions badge #24281
