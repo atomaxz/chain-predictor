@@ -646,3 +646,4 @@
 99338. test: add unit test for quiz service #99338
 2464. docs: update README with setup steps #2464
 24281. chore: add GitHub actions badge #24281
+85161. fix: handle 500 error in quiz API #85161
