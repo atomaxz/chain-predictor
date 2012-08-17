@@ -650,3 +650,4 @@
 73924. fix: resolve issue with date parsing #73924
 21097. chore: update .gitignore #21097
 45823. perf: reduce image load time #45823
+10662. fix: correct typo in registration form #10662
