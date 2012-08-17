@@ -649,3 +649,4 @@
 85161. fix: handle 500 error in quiz API #85161
 73924. fix: resolve issue with date parsing #73924
 21097. chore: update .gitignore #21097
+45823. perf: reduce image load time #45823
