@@ -1613,3 +1613,4 @@
 50275. refactor: organize models into subfolders #50275
 50344. perf: reduce image load time #50344
 64188. test: test user registration edge cases #64188
+84503. chore: add GitHub actions badge #84503
