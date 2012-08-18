@@ -1614,3 +1614,4 @@
 50344. perf: reduce image load time #50344
 64188. test: test user registration edge cases #64188
 84503. chore: add GitHub actions badge #84503
+76931. style: reformat files with black #76931
