@@ -1615,3 +1615,4 @@
 64188. test: test user registration edge cases #64188
 84503. chore: add GitHub actions badge #84503
 76931. style: reformat files with black #76931
+99030. refactor: organize models into subfolders #99030
