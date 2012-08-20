@@ -653,3 +653,4 @@
 10662. fix: correct typo in registration form #10662
 45872. style: reformat files with black #45872
 70244. fix: prevent crash on empty input #70244
+36860. chore: add GitHub actions badge #36860
