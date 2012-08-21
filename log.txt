@@ -1622,3 +1622,4 @@
 68201. chore: rename env.example #68201
 2907. feat: support email verification #2907
 47986. test: mock database connection in test suite #47986
+87365. style: remove trailing whitespace #87365
