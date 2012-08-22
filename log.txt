@@ -656,3 +656,4 @@
 36860. chore: add GitHub actions badge #36860
 14694. test: add integration test for /submit endpoint #14694
 55015. perf: optimize database query for quiz results #55015
+12234. fix: handle 500 error in quiz API #12234
