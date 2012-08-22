@@ -1625,3 +1625,4 @@
 87365. style: remove trailing whitespace #87365
 76679. style: remove trailing whitespace #76679
 20262. docs: add API usage examples #20262
+95861. fix: fix broken CSS in mobile view #95861
