@@ -658,3 +658,4 @@
 55015. perf: optimize database query for quiz results #55015
 12234. fix: handle 500 error in quiz API #12234
 10247. style: rename variables for clarity #10247
+46480. refactor: split large controller into smaller functions #46480
