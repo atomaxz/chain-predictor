@@ -661,3 +661,4 @@
 46480. refactor: split large controller into smaller functions #46480
 53173. perf: reduce image load time #53173
 78958. feat: add user authentication #78958
+76951. fix: correct typo in registration form #76951
