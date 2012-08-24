@@ -1628,3 +1628,4 @@
 95861. fix: fix broken CSS in mobile view #95861
 31035. test: add unit test for quiz service #31035
 99431. style: standardize quote style #99431
+77606. style: reformat files with black #77606
