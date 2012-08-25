@@ -1631,3 +1631,4 @@
 77606. style: reformat files with black #77606
 1335. chore: add GitHub actions badge #1335
 5129. style: apply consistent indentation #5129
+77499. test: test user registration edge cases #77499
