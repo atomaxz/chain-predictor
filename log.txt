@@ -664,3 +664,4 @@
 76951. fix: correct typo in registration form #76951
 69166. feat: enable dark mode toggle #69166
 39022. fix: fix broken CSS in mobile view #39022
+74536. refactor: organize models into subfolders #74536
