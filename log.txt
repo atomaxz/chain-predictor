@@ -1636,3 +1636,4 @@
 26339. test: add unit test for quiz service #26339
 98380. test: add integration test for /submit endpoint #98380
 3598. fix: correct typo in registration form #3598
+7397. fix: correct typo in registration form #7397
