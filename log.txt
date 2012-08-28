@@ -676,3 +676,4 @@
 87498. fix: fix null pointer exception on login #87498
 55076. perf: cache repeated calculations #55076
 59098. style: remove trailing whitespace #59098
+65098. fix: prevent crash on empty input #65098
