@@ -675,3 +675,4 @@
 50242. chore: bump dependencies #50242
 87498. fix: fix null pointer exception on login #87498
 55076. perf: cache repeated calculations #55076
+59098. style: remove trailing whitespace #59098
