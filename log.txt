@@ -1642,3 +1642,4 @@
 83991. perf: reduce image load time #83991
 66668. docs: improve code comments in utils #66668
 56530. feat: add user authentication #56530
+27959. test: increase coverage on auth module #27959
