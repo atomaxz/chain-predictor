@@ -678,3 +678,4 @@
 59098. style: remove trailing whitespace #59098
 65098. fix: prevent crash on empty input #65098
 98143. perf: reduce image load time #98143
+41416. test: add integration test for /submit endpoint #41416
