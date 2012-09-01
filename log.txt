@@ -1651,3 +1651,4 @@
 94603. chore: clean up unused files #94603
 42100. chore: update .gitignore #42100
 45082. docs: add API usage examples #45082
+95188. test: increase coverage on auth module #95188
