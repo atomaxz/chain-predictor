@@ -688,3 +688,4 @@
 4093. chore: add GitHub actions badge #4093
 60423. test: add unit test for quiz service #60423
 14032. feat: enable dark mode toggle #14032
+40892. perf: optimize database query for quiz results #40892
