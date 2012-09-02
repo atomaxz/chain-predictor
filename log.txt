@@ -684,3 +684,4 @@
 16442. chore: bump dependencies #16442
 69906. refactor: split large controller into smaller functions #69906
 12281. feat: enable dark mode toggle #12281
+24202. docs: document token refresh logic #24202
