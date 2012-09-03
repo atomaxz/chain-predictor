@@ -1652,3 +1652,4 @@
 42100. chore: update .gitignore #42100
 45082. docs: add API usage examples #45082
 95188. test: increase coverage on auth module #95188
+37229. refactor: organize models into subfolders #37229
