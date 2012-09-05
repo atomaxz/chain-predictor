@@ -1655,3 +1655,4 @@
 37229. refactor: organize models into subfolders #37229
 96470. docs: document token refresh logic #96470
 22535. test: test user registration edge cases #22535
+22941. fix: fix null pointer exception on login #22941
