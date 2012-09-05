@@ -697,3 +697,4 @@
 91364. style: standardize quote style #91364
 32010. refactor: split large controller into smaller functions #32010
 81427. docs: document token refresh logic #81427
+60051. docs: update README with setup steps #60051
