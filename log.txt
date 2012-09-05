@@ -1656,3 +1656,4 @@
 96470. docs: document token refresh logic #96470
 22535. test: test user registration edge cases #22535
 22941. fix: fix null pointer exception on login #22941
+62978. refactor: clean up auth middleware #62978
