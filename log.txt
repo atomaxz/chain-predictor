@@ -704,3 +704,4 @@
 95737. perf: optimize database query for quiz results #95737
 76339. fix: handle 500 error in quiz API #76339
 75193. docs: add API usage examples #75193
+0201. chore: add GitHub actions badge #201
