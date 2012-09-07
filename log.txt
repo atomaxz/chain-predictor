@@ -1662,3 +1662,4 @@
 86970. perf: cache repeated calculations #86970
 15235. style: rename variables for clarity #15235
 42510. docs: improve code comments in utils #42510
+91896. perf: optimize database query for quiz results #91896
