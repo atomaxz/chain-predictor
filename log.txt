@@ -1665,3 +1665,4 @@
 91896. perf: optimize database query for quiz results #91896
 47216. style: reformat files with black #47216
 99093. perf: cache repeated calculations #99093
+30195. perf: reduce image load time #30195
