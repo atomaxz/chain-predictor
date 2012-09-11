@@ -707,3 +707,4 @@
 0201. chore: add GitHub actions badge #201
 6576. style: apply consistent indentation #6576
 32015. perf: optimize database query for quiz results #32015
+6476. feat: add user authentication #6476
