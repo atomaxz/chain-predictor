@@ -708,3 +708,4 @@
 6576. style: apply consistent indentation #6576
 32015. perf: optimize database query for quiz results #32015
 6476. feat: add user authentication #6476
+12824. test: mock database connection in test suite #12824
