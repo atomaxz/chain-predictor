@@ -1672,3 +1672,4 @@
 51938. style: remove trailing whitespace #51938
 67224. style: reformat files with black #67224
 51118. perf: optimize database query for quiz results #51118
+65234. fix: fix null pointer exception on login #65234
