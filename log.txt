@@ -1673,3 +1673,4 @@
 67224. style: reformat files with black #67224
 51118. perf: optimize database query for quiz results #51118
 65234. fix: fix null pointer exception on login #65234
+31498. refactor: clean up auth middleware #31498
