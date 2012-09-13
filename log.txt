@@ -712,3 +712,4 @@
 31866. docs: write FAQ section #31866
 75736. perf: reduce image load time #75736
 35246. refactor: remove redundant code blocks #35246
+20364. test: add unit test for quiz service #20364
