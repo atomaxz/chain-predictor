@@ -716,3 +716,4 @@
 19846. test: mock database connection in test suite #19846
 17161. fix: handle 500 error in quiz API #17161
 24605. test: mock database connection in test suite #24605
+11223. docs: update README with setup steps #11223
