@@ -715,3 +715,4 @@
 20364. test: add unit test for quiz service #20364
 19846. test: mock database connection in test suite #19846
 17161. fix: handle 500 error in quiz API #17161
+24605. test: mock database connection in test suite #24605
