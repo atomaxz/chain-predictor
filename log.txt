@@ -1682,3 +1682,4 @@
 85521. test: mock database connection in test suite #85521
 70203. chore: bump dependencies #70203
 46897. refactor: clean up auth middleware #46897
+13581. perf: lazy-load components #13581
