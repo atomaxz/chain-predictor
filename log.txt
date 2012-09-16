@@ -718,3 +718,4 @@
 24605. test: mock database connection in test suite #24605
 11223. docs: update README with setup steps #11223
 76758. perf: optimize database query for quiz results #76758
+88970. feat: add user authentication #88970
