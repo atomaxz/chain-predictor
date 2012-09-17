@@ -1685,3 +1685,4 @@
 13581. perf: lazy-load components #13581
 0970. refactor: organize models into subfolders #970
 91965. perf: cache repeated calculations #91965
+10607. docs: update README with setup steps #10607
