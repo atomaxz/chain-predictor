@@ -730,3 +730,4 @@
 13366. feat: implement quiz timer feature #13366
 75231. docs: add API usage examples #75231
 14792. test: increase coverage on auth module #14792
+94488. chore: add GitHub actions badge #94488
