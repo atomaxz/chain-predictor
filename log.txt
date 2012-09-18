@@ -724,3 +724,4 @@
 66875. feat: add export to CSV option #66875
 94709. refactor: remove redundant code blocks #94709
 15246. docs: document token refresh logic #15246
+14111. perf: lazy-load components #14111
