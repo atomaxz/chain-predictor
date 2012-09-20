@@ -1691,3 +1691,4 @@
 73761. refactor: refactor quiz grading logic #73761
 38445. docs: write FAQ section #38445
 95205. style: apply consistent indentation #95205
+52898. fix: fix null pointer exception on login #52898
