@@ -732,3 +732,4 @@
 14792. test: increase coverage on auth module #14792
 94488. chore: add GitHub actions badge #94488
 53786. docs: clarify environment setup #53786
+72574. refactor: clean up auth middleware #72574
