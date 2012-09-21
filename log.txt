@@ -1696,3 +1696,4 @@
 74677. chore: add GitHub actions badge #74677
 18494. test: test user registration edge cases #18494
 64826. feat: create admin dashboard #64826
+35225. docs: update README with setup steps #35225
