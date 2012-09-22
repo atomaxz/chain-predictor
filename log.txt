@@ -1700,3 +1700,4 @@
 26363. feat: implement quiz timer feature #26363
 94951. perf: optimize database query for quiz results #94951
 87699. chore: rename env.example #87699
+16748. fix: fix broken CSS in mobile view #16748
