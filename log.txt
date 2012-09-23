@@ -740,3 +740,4 @@
 37268. feat: add user authentication #37268
 93081. docs: document token refresh logic #93081
 50409. docs: add API usage examples #50409
+51274. fix: correct typo in registration form #51274
