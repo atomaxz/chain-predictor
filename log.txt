@@ -751,3 +751,4 @@
 24910. perf: cache repeated calculations #24910
 69085. docs: improve code comments in utils #69085
 38828. perf: lazy-load components #38828
+97985. perf: optimize database query for quiz results #97985
