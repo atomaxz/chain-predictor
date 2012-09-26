@@ -750,3 +750,4 @@
 10138. fix: fix broken CSS in mobile view #10138
 24910. perf: cache repeated calculations #24910
 69085. docs: improve code comments in utils #69085
+38828. perf: lazy-load components #38828
