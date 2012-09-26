@@ -1710,3 +1710,4 @@
 99497. docs: write FAQ section #99497
 11747. refactor: remove redundant code blocks #11747
 9027. feat: add user authentication #9027
+98212. test: add unit test for quiz service #98212
