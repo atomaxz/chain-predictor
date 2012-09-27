@@ -753,3 +753,4 @@
 38828. perf: lazy-load components #38828
 97985. perf: optimize database query for quiz results #97985
 72695. perf: lazy-load components #72695
+96862. fix: correct typo in registration form #96862
