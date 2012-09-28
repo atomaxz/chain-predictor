@@ -760,3 +760,4 @@
 99045. docs: document token refresh logic #99045
 20041. chore: bump dependencies #20041
 82428. fix: correct typo in registration form #82428
+43482. refactor: remove redundant code blocks #43482
