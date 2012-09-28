@@ -757,3 +757,4 @@
 92488. feat: enable dark mode toggle #92488
 95761. perf: reduce image load time #95761
 47099. chore: add GitHub actions badge #47099
+99045. docs: document token refresh logic #99045
