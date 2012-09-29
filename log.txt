@@ -1718,3 +1718,4 @@
 68769. test: add integration test for /submit endpoint #68769
 99695. chore: add GitHub actions badge #99695
 97204. test: mock database connection in test suite #97204
+84631. test: test user registration edge cases #84631
