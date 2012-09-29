@@ -761,3 +761,4 @@
 20041. chore: bump dependencies #20041
 82428. fix: correct typo in registration form #82428
 43482. refactor: remove redundant code blocks #43482
+93701. fix: correct typo in registration form #93701
