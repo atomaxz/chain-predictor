@@ -1716,3 +1716,4 @@
 23384. chore: update .gitignore #23384
 26252. refactor: organize models into subfolders #26252
 68769. test: add integration test for /submit endpoint #68769
+99695. chore: add GitHub actions badge #99695
