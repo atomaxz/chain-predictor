@@ -763,3 +763,4 @@
 43482. refactor: remove redundant code blocks #43482
 93701. fix: correct typo in registration form #93701
 2342. style: apply consistent indentation #2342
+81600. perf: lazy-load components #81600
