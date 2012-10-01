@@ -1722,3 +1722,4 @@
 45537. feat: create admin dashboard #45537
 48628. refactor: refactor quiz grading logic #48628
 69329. refactor: refactor quiz grading logic #69329
+67777. test: increase coverage on auth module #67777
