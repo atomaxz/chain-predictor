@@ -1723,3 +1723,4 @@
 48628. refactor: refactor quiz grading logic #48628
 69329. refactor: refactor quiz grading logic #69329
 67777. test: increase coverage on auth module #67777
+47406. fix: correct typo in registration form #47406
