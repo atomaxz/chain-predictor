@@ -772,3 +772,4 @@
 40373. feat: enable dark mode toggle #40373
 55567. chore: update .gitignore #55567
 96051. docs: document token refresh logic #96051
+52175. style: reformat files with black #52175
