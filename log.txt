@@ -773,3 +773,4 @@
 55567. chore: update .gitignore #55567
 96051. docs: document token refresh logic #96051
 52175. style: reformat files with black #52175
+4344. style: rename variables for clarity #4344
