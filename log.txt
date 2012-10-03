@@ -1731,3 +1731,4 @@
 52873. perf: optimize database query for quiz results #52873
 24263. test: add integration test for /submit endpoint #24263
 55692. fix: fix broken CSS in mobile view #55692
+65280. test: increase coverage on auth module #65280
