@@ -1729,3 +1729,4 @@
 15159. test: increase coverage on auth module #15159
 79258. test: add integration test for /submit endpoint #79258
 52873. perf: optimize database query for quiz results #52873
+24263. test: add integration test for /submit endpoint #24263
