@@ -1733,3 +1733,4 @@
 55692. fix: fix broken CSS in mobile view #55692
 65280. test: increase coverage on auth module #65280
 52363. chore: rename env.example #52363
+43055. test: test user registration edge cases #43055
