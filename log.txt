@@ -777,3 +777,4 @@
 26356. docs: update README with setup steps #26356
 1973. perf: cache repeated calculations #1973
 31780. style: standardize quote style #31780
+43899. fix: prevent crash on empty input #43899
