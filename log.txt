@@ -779,3 +779,4 @@
 31780. style: standardize quote style #31780
 43899. fix: prevent crash on empty input #43899
 70224. style: apply consistent indentation #70224
+40665. perf: reduce image load time #40665
