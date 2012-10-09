@@ -1739,3 +1739,4 @@
 99891. chore: bump dependencies #99891
 80049. style: apply consistent indentation #80049
 64107. feat: support email verification #64107
+28959. test: increase coverage on auth module #28959
