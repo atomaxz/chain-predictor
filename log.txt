@@ -789,3 +789,4 @@
 22087. chore: clean up unused files #22087
 55647. style: standardize quote style #55647
 23475. feat: enable dark mode toggle #23475
+20861. feat: support email verification #20861
