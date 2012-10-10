@@ -1742,3 +1742,4 @@
 28959. test: increase coverage on auth module #28959
 96105. chore: update .gitignore #96105
 9582. docs: clarify environment setup #9582
+43268. fix: correct typo in registration form #43268
