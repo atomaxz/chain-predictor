@@ -1747,3 +1747,4 @@
 52482. chore: update .gitignore #52482
 99609. perf: reduce image load time #99609
 26199. perf: reduce image load time #26199
+48449. test: test user registration edge cases #48449
