@@ -800,3 +800,4 @@
 79339. docs: add API usage examples #79339
 73480. chore: clean up unused files #73480
 71295. refactor: refactor quiz grading logic #71295
+26517. feat: support email verification #26517
