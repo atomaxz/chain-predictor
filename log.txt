@@ -803,3 +803,4 @@
 26517. feat: support email verification #26517
 19691. refactor: split large controller into smaller functions #19691
 32034. style: standardize quote style #32034
+76341. chore: bump dependencies #76341
