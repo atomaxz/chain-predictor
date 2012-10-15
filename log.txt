@@ -806,3 +806,4 @@
 76341. chore: bump dependencies #76341
 76295. chore: update .gitignore #76295
 96769. perf: lazy-load components #96769
+94103. perf: reduce image load time #94103
