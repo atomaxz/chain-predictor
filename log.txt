@@ -804,3 +804,4 @@
 19691. refactor: split large controller into smaller functions #19691
 32034. style: standardize quote style #32034
 76341. chore: bump dependencies #76341
+76295. chore: update .gitignore #76295
