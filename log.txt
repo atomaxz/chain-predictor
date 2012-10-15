@@ -1753,3 +1753,4 @@
 23459. perf: optimize database query for quiz results #23459
 71733. chore: rename env.example #71733
 80750. refactor: split large controller into smaller functions #80750
+73473. chore: add GitHub actions badge #73473
