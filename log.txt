@@ -809,3 +809,4 @@
 94103. perf: reduce image load time #94103
 20715. test: test user registration edge cases #20715
 28104. refactor: remove redundant code blocks #28104
+74863. feat: support email verification #74863
