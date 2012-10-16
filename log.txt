@@ -811,3 +811,4 @@
 28104. refactor: remove redundant code blocks #28104
 74863. feat: support email verification #74863
 48992. style: reformat files with black #48992
+14168. perf: lazy-load components #14168
