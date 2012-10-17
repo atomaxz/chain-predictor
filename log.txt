@@ -1763,3 +1763,4 @@
 58571. perf: reduce image load time #58571
 54024. feat: add user authentication #54024
 38529. chore: clean up unused files #38529
+36677. docs: update README with setup steps #36677
