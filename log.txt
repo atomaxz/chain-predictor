@@ -813,3 +813,4 @@
 48992. style: reformat files with black #48992
 14168. perf: lazy-load components #14168
 39673. feat: add export to CSV option #39673
+23459. perf: optimize database query for quiz results #23459
