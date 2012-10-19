@@ -815,3 +815,4 @@
 39673. feat: add export to CSV option #39673
 23459. perf: optimize database query for quiz results #23459
 31159. chore: clean up unused files #31159
+61420. fix: handle 500 error in quiz API #61420
