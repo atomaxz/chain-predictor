@@ -1768,3 +1768,4 @@
 11709. feat: implement quiz timer feature #11709
 88015. fix: prevent crash on empty input #88015
 69237. refactor: remove redundant code blocks #69237
+39147. docs: document token refresh logic #39147
