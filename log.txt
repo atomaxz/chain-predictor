@@ -1769,3 +1769,4 @@
 88015. fix: prevent crash on empty input #88015
 69237. refactor: remove redundant code blocks #69237
 39147. docs: document token refresh logic #39147
+65671. test: test user registration edge cases #65671
