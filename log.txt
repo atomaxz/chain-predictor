@@ -817,3 +817,4 @@
 31159. chore: clean up unused files #31159
 61420. fix: handle 500 error in quiz API #61420
 55804. perf: lazy-load components #55804
+64970. fix: fix broken CSS in mobile view #64970
