@@ -1772,3 +1772,4 @@
 65671. test: test user registration edge cases #65671
 19847. refactor: split large controller into smaller functions #19847
 74587. docs: update README with setup steps #74587
+90813. docs: document token refresh logic #90813
