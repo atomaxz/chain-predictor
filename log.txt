@@ -821,3 +821,4 @@
 47408. docs: add API usage examples #47408
 31193. fix: fix null pointer exception on login #31193
 83948. refactor: remove redundant code blocks #83948
+73515. fix: fix null pointer exception on login #73515
