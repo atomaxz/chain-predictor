@@ -822,3 +822,4 @@
 31193. fix: fix null pointer exception on login #31193
 83948. refactor: remove redundant code blocks #83948
 73515. fix: fix null pointer exception on login #73515
+20369. fix: prevent crash on empty input #20369
