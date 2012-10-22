@@ -824,3 +824,4 @@
 73515. fix: fix null pointer exception on login #73515
 20369. fix: prevent crash on empty input #20369
 74460. refactor: remove redundant code blocks #74460
+65249. refactor: organize models into subfolders #65249
