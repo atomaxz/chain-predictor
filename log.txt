@@ -826,3 +826,4 @@
 74460. refactor: remove redundant code blocks #74460
 65249. refactor: organize models into subfolders #65249
 8750. refactor: split large controller into smaller functions #8750
+36799. docs: add API usage examples #36799
