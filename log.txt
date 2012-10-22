@@ -1775,3 +1775,4 @@
 90813. docs: document token refresh logic #90813
 78950. refactor: refactor quiz grading logic #78950
 74982. style: apply consistent indentation #74982
+88213. perf: lazy-load components #88213
