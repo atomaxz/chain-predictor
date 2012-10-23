@@ -1776,3 +1776,4 @@
 78950. refactor: refactor quiz grading logic #78950
 74982. style: apply consistent indentation #74982
 88213. perf: lazy-load components #88213
+69885. feat: add user authentication #69885
