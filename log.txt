@@ -1783,3 +1783,4 @@
 14376. docs: clarify environment setup #14376
 48702. chore: add GitHub actions badge #48702
 2672. fix: fix broken CSS in mobile view #2672
+94871. feat: support email verification #94871
