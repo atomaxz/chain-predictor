@@ -829,3 +829,4 @@
 36799. docs: add API usage examples #36799
 81171. chore: clean up unused files #81171
 85158. test: increase coverage on auth module #85158
+6221. fix: resolve issue with date parsing #6221
