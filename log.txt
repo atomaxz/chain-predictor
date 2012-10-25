@@ -831,3 +831,4 @@
 85158. test: increase coverage on auth module #85158
 6221. fix: resolve issue with date parsing #6221
 31659. refactor: remove redundant code blocks #31659
+49881. test: mock database connection in test suite #49881
