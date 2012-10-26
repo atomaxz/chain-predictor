@@ -1788,3 +1788,4 @@
 73809. fix: fix null pointer exception on login #73809
 47043. fix: fix null pointer exception on login #47043
 93835. test: add unit test for quiz service #93835
+50634. feat: enable dark mode toggle #50634
