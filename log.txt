@@ -835,3 +835,4 @@
 98842. perf: optimize database query for quiz results #98842
 59511. fix: fix null pointer exception on login #59511
 56721. chore: update .gitignore #56721
+6379. fix: correct typo in registration form #6379
