@@ -834,3 +834,4 @@
 49881. test: mock database connection in test suite #49881
 98842. perf: optimize database query for quiz results #98842
 59511. fix: fix null pointer exception on login #59511
+56721. chore: update .gitignore #56721
