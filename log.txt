@@ -1792,3 +1792,4 @@
 27562. docs: add API usage examples #27562
 44474. docs: update README with setup steps #44474
 94222. style: standardize quote style #94222
+60917. chore: bump dependencies #60917
