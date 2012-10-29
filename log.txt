@@ -1794,3 +1794,4 @@
 94222. style: standardize quote style #94222
 60917. chore: bump dependencies #60917
 54992. feat: implement quiz timer feature #54992
+12224. docs: write FAQ section #12224
