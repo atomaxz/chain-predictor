@@ -842,3 +842,4 @@
 50903. perf: reduce image load time #50903
 23371. feat: add export to CSV option #23371
 56583. perf: reduce image load time #56583
+71322. refactor: clean up auth middleware #71322
