@@ -1800,3 +1800,4 @@
 93784. fix: resolve issue with date parsing #93784
 26504. fix: fix broken CSS in mobile view #26504
 2339. feat: create admin dashboard #2339
+71952. chore: add GitHub actions badge #71952
