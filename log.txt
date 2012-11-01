@@ -1805,3 +1805,4 @@
 62681. refactor: refactor quiz grading logic #62681
 53748. chore: add GitHub actions badge #53748
 15400. docs: write FAQ section #15400
+84102. feat: add user authentication #84102
