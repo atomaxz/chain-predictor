@@ -851,3 +851,4 @@
 46550. feat: enable dark mode toggle #46550
 53006. test: increase coverage on auth module #53006
 73549. chore: add GitHub actions badge #73549
+15173. feat: add user authentication #15173
