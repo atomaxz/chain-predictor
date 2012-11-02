@@ -1808,3 +1808,4 @@
 84102. feat: add user authentication #84102
 48621. docs: write FAQ section #48621
 59145. perf: optimize database query for quiz results #59145
+79725. refactor: clean up auth middleware #79725
