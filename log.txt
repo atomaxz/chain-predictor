@@ -849,3 +849,4 @@
 30729. style: apply consistent indentation #30729
 26624. docs: document token refresh logic #26624
 46550. feat: enable dark mode toggle #46550
+53006. test: increase coverage on auth module #53006
