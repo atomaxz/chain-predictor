@@ -850,3 +850,4 @@
 26624. docs: document token refresh logic #26624
 46550. feat: enable dark mode toggle #46550
 53006. test: increase coverage on auth module #53006
+73549. chore: add GitHub actions badge #73549
