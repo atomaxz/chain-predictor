@@ -854,3 +854,4 @@
 15173. feat: add user authentication #15173
 14135. chore: update .gitignore #14135
 62216. style: standardize quote style #62216
+1454. docs: write FAQ section #1454
