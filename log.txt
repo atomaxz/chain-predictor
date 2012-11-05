@@ -856,3 +856,4 @@
 62216. style: standardize quote style #62216
 1454. docs: write FAQ section #1454
 37387. style: remove trailing whitespace #37387
+70578. refactor: remove redundant code blocks #70578
