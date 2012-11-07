@@ -862,3 +862,4 @@
 81426. feat: enable dark mode toggle #81426
 53729. docs: update README with setup steps #53729
 17056. refactor: organize models into subfolders #17056
+55433. fix: fix broken CSS in mobile view #55433
