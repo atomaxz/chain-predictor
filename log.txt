@@ -1825,3 +1825,4 @@
 66907. refactor: remove redundant code blocks #66907
 87145. test: add unit test for quiz service #87145
 88142. fix: correct typo in registration form #88142
+33930. fix: prevent crash on empty input #33930
