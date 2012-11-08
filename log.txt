@@ -1836,3 +1836,4 @@
 45927. test: increase coverage on auth module #45927
 81182. test: add integration test for /submit endpoint #81182
 93334. chore: add GitHub actions badge #93334
+35826. test: test user registration edge cases #35826
