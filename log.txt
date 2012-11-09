@@ -1840,3 +1840,4 @@
 27370. feat: create admin dashboard #27370
 0578. chore: update .gitignore #578
 66622. refactor: split large controller into smaller functions #66622
+53824. feat: add user authentication #53824
