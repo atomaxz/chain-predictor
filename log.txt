@@ -1843,3 +1843,4 @@
 53824. feat: add user authentication #53824
 38319. test: add integration test for /submit endpoint #38319
 92442. fix: fix broken CSS in mobile view #92442
+75090. feat: support email verification #75090
