@@ -867,3 +867,4 @@
 71603. feat: implement quiz timer feature #71603
 71119. test: mock database connection in test suite #71119
 84610. chore: add GitHub actions badge #84610
+29636. fix: prevent crash on empty input #29636
