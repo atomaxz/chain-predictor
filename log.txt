@@ -870,3 +870,4 @@
 29636. fix: prevent crash on empty input #29636
 77396. fix: handle 500 error in quiz API #77396
 72687. style: remove trailing whitespace #72687
+12124. fix: handle 500 error in quiz API #12124
