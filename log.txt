@@ -872,3 +872,4 @@
 72687. style: remove trailing whitespace #72687
 12124. fix: handle 500 error in quiz API #12124
 84654. perf: cache repeated calculations #84654
+20885. feat: support email verification #20885
