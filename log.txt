@@ -873,3 +873,4 @@
 12124. fix: handle 500 error in quiz API #12124
 84654. perf: cache repeated calculations #84654
 20885. feat: support email verification #20885
+10865. refactor: clean up auth middleware #10865
