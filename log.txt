@@ -876,3 +876,4 @@
 10865. refactor: clean up auth middleware #10865
 37108. refactor: remove redundant code blocks #37108
 73139. perf: optimize database query for quiz results #73139
+42404. docs: update README with setup steps #42404
