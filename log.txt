@@ -874,3 +874,4 @@
 84654. perf: cache repeated calculations #84654
 20885. feat: support email verification #20885
 10865. refactor: clean up auth middleware #10865
+37108. refactor: remove redundant code blocks #37108
