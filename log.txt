@@ -1860,3 +1860,4 @@
 83090. perf: lazy-load components #83090
 34645. chore: bump dependencies #34645
 48939. perf: cache repeated calculations #48939
+77033. style: remove trailing whitespace #77033
