@@ -1861,3 +1861,4 @@
 34645. chore: bump dependencies #34645
 48939. perf: cache repeated calculations #48939
 77033. style: remove trailing whitespace #77033
+30999. perf: reduce image load time #30999
