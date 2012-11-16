@@ -1862,3 +1862,4 @@
 48939. perf: cache repeated calculations #48939
 77033. style: remove trailing whitespace #77033
 30999. perf: reduce image load time #30999
+14358. docs: add API usage examples #14358
