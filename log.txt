@@ -1865,3 +1865,4 @@
 14358. docs: add API usage examples #14358
 65951. style: rename variables for clarity #65951
 5220. chore: update .gitignore #5220
+58174. perf: optimize database query for quiz results #58174
