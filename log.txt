@@ -1867,3 +1867,4 @@
 5220. chore: update .gitignore #5220
 58174. perf: optimize database query for quiz results #58174
 40397. fix: correct typo in registration form #40397
+34237. feat: create admin dashboard #34237
