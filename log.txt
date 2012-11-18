@@ -1869,3 +1869,4 @@
 40397. fix: correct typo in registration form #40397
 34237. feat: create admin dashboard #34237
 11515. test: test user registration edge cases #11515
+0462. test: add unit test for quiz service #462
