@@ -1878,3 +1878,4 @@
 62887. refactor: organize models into subfolders #62887
 79139. feat: support email verification #79139
 7406. docs: clarify environment setup #7406
+94964. refactor: clean up auth middleware #94964
