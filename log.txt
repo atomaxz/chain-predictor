@@ -1876,3 +1876,4 @@
 12465. feat: implement quiz timer feature #12465
 38720. docs: document token refresh logic #38720
 62887. refactor: organize models into subfolders #62887
+79139. feat: support email verification #79139
