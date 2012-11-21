@@ -894,3 +894,4 @@
 30537. perf: reduce image load time #30537
 74587. docs: update README with setup steps #74587
 50781. perf: cache repeated calculations #50781
+75102. docs: update README with setup steps #75102
