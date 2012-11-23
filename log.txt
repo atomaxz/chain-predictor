@@ -1888,3 +1888,4 @@
 15055. refactor: refactor quiz grading logic #15055
 45904. fix: handle 500 error in quiz API #45904
 38511. fix: prevent crash on empty input #38511
+62740. fix: fix null pointer exception on login #62740
