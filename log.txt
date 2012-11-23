@@ -1892,3 +1892,4 @@
 80447. fix: prevent crash on empty input #80447
 18059. test: mock database connection in test suite #18059
 97808. style: remove trailing whitespace #97808
+44098. feat: add export to CSV option #44098
