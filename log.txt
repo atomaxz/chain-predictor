@@ -1895,3 +1895,4 @@
 44098. feat: add export to CSV option #44098
 64507. feat: create admin dashboard #64507
 58302. refactor: organize models into subfolders #58302
+43193. style: standardize quote style #43193
