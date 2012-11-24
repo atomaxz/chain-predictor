@@ -903,3 +903,4 @@
 59806. docs: improve code comments in utils #59806
 93615. docs: document token refresh logic #93615
 8036. style: remove trailing whitespace #8036
+38740. perf: lazy-load components #38740
