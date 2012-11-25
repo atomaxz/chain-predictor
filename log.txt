@@ -905,3 +905,4 @@
 8036. style: remove trailing whitespace #8036
 38740. perf: lazy-load components #38740
 83494. docs: clarify environment setup #83494
+60368. feat: support email verification #60368
