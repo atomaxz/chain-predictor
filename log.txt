@@ -908,3 +908,4 @@
 60368. feat: support email verification #60368
 58865. perf: optimize database query for quiz results #58865
 98284. style: reformat files with black #98284
+56239. chore: bump dependencies #56239
