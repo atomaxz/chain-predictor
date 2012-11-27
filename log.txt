@@ -915,3 +915,4 @@
 5394. refactor: remove redundant code blocks #5394
 32949. style: rename variables for clarity #32949
 97808. style: remove trailing whitespace #97808
+34672. style: reformat files with black #34672
