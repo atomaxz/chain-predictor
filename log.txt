@@ -917,3 +917,4 @@
 97808. style: remove trailing whitespace #97808
 34672. style: reformat files with black #34672
 83644. feat: create admin dashboard #83644
+66824. fix: resolve issue with date parsing #66824
