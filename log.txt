@@ -921,3 +921,4 @@
 98477. refactor: remove redundant code blocks #98477
 56508. docs: improve code comments in utils #56508
 60707. test: increase coverage on auth module #60707
+12956. style: apply consistent indentation #12956
