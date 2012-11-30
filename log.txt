@@ -926,3 +926,4 @@
 0481. docs: document token refresh logic #481
 64957. perf: reduce image load time #64957
 0966. feat: support email verification #966
+43713. test: increase coverage on auth module #43713
