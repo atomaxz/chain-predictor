@@ -1912,3 +1912,4 @@
 11100. refactor: refactor quiz grading logic #11100
 14270. refactor: clean up auth middleware #14270
 48422. test: add unit test for quiz service #48422
+20138. style: remove trailing whitespace #20138
