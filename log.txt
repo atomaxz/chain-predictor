@@ -1913,3 +1913,4 @@
 14270. refactor: clean up auth middleware #14270
 48422. test: add unit test for quiz service #48422
 20138. style: remove trailing whitespace #20138
+73123. fix: fix null pointer exception on login #73123
