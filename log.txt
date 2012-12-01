@@ -929,3 +929,4 @@
 43713. test: increase coverage on auth module #43713
 28702. chore: clean up unused files #28702
 93880. perf: cache repeated calculations #93880
+35005. docs: document token refresh logic #35005
