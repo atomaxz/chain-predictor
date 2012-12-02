@@ -1917,3 +1917,4 @@
 48305. chore: bump dependencies #48305
 78310. style: apply consistent indentation #78310
 89830. test: increase coverage on auth module #89830
+25755. test: mock database connection in test suite #25755
