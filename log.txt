@@ -934,3 +934,4 @@
 5325. refactor: clean up auth middleware #5325
 1431. chore: rename env.example #1431
 40138. fix: handle 500 error in quiz API #40138
+49123. perf: cache repeated calculations #49123
