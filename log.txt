@@ -1919,3 +1919,4 @@
 89830. test: increase coverage on auth module #89830
 25755. test: mock database connection in test suite #25755
 7784. style: remove trailing whitespace #7784
+68237. test: test user registration edge cases #68237
