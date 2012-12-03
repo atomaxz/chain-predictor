@@ -1921,3 +1921,4 @@
 7784. style: remove trailing whitespace #7784
 68237. test: test user registration edge cases #68237
 81214. refactor: clean up auth middleware #81214
+89308. test: increase coverage on auth module #89308
