@@ -1925,3 +1925,4 @@
 60710. refactor: refactor quiz grading logic #60710
 47756. perf: optimize database query for quiz results #47756
 36658. style: apply consistent indentation #36658
+59267. fix: prevent crash on empty input #59267
