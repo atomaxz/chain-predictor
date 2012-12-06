@@ -1932,3 +1932,4 @@
 72575. refactor: split large controller into smaller functions #72575
 54194. docs: update README with setup steps #54194
 25107. style: apply consistent indentation #25107
+72076. docs: document token refresh logic #72076
