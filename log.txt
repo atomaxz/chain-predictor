@@ -1936,3 +1936,4 @@
 71442. feat: support email verification #71442
 98337. perf: reduce image load time #98337
 15396. style: standardize quote style #15396
+39865. refactor: clean up auth middleware #39865
