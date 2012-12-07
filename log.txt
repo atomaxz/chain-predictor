@@ -940,3 +940,4 @@
 1951. chore: clean up unused files #1951
 55214. chore: rename env.example #55214
 8176. refactor: split large controller into smaller functions #8176
+53943. fix: correct typo in registration form #53943
