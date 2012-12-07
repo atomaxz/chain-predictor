@@ -1937,3 +1937,4 @@
 98337. perf: reduce image load time #98337
 15396. style: standardize quote style #15396
 39865. refactor: clean up auth middleware #39865
+45382. perf: lazy-load components #45382
