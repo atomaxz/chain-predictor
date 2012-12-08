@@ -1941,3 +1941,4 @@
 97769. style: rename variables for clarity #97769
 19612. test: test user registration edge cases #19612
 39125. test: mock database connection in test suite #39125
+10377. test: increase coverage on auth module #10377
