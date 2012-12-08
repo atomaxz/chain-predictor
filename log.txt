@@ -1939,3 +1939,4 @@
 39865. refactor: clean up auth middleware #39865
 45382. perf: lazy-load components #45382
 97769. style: rename variables for clarity #97769
+19612. test: test user registration edge cases #19612
