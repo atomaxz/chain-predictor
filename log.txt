@@ -1944,3 +1944,4 @@
 10377. test: increase coverage on auth module #10377
 6169. style: reformat files with black #6169
 65763. perf: cache repeated calculations #65763
+12985. perf: lazy-load components #12985
