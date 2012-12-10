@@ -947,3 +947,4 @@
 31562. perf: lazy-load components #31562
 35251. style: standardize quote style #35251
 92613. test: mock database connection in test suite #92613
+69608. test: increase coverage on auth module #69608
