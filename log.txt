@@ -1945,3 +1945,4 @@
 6169. style: reformat files with black #6169
 65763. perf: cache repeated calculations #65763
 12985. perf: lazy-load components #12985
+8086. feat: support email verification #8086
