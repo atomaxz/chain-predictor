@@ -955,3 +955,4 @@
 59312. refactor: remove redundant code blocks #59312
 49027. fix: fix broken CSS in mobile view #49027
 54243. refactor: remove redundant code blocks #54243
+84774. refactor: organize models into subfolders #84774
