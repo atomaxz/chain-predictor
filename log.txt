@@ -959,3 +959,4 @@
 23249. fix: handle 500 error in quiz API #23249
 95208. perf: optimize database query for quiz results #95208
 0022. chore: bump dependencies #22
+23869. test: add integration test for /submit endpoint #23869
