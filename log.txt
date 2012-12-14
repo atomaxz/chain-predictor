@@ -1950,3 +1950,4 @@
 43787. refactor: organize models into subfolders #43787
 58221. style: apply consistent indentation #58221
 91413. perf: reduce image load time #91413
+4213. perf: optimize database query for quiz results #4213
