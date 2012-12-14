@@ -1951,3 +1951,4 @@
 58221. style: apply consistent indentation #58221
 91413. perf: reduce image load time #91413
 4213. perf: optimize database query for quiz results #4213
+20821. docs: document token refresh logic #20821
