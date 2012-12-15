@@ -1954,3 +1954,4 @@
 20821. docs: document token refresh logic #20821
 8750. refactor: split large controller into smaller functions #8750
 77566. style: apply consistent indentation #77566
+46701. refactor: clean up auth middleware #46701
