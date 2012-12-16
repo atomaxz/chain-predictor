@@ -1956,3 +1956,4 @@
 77566. style: apply consistent indentation #77566
 46701. refactor: clean up auth middleware #46701
 12640. test: mock database connection in test suite #12640
+45364. feat: enable dark mode toggle #45364
