@@ -969,3 +969,4 @@
 34752. docs: update README with setup steps #34752
 42979. docs: improve code comments in utils #42979
 62234. perf: lazy-load components #62234
+66682. test: mock database connection in test suite #66682
