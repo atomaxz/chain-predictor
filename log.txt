@@ -977,3 +977,4 @@
 13565. style: rename variables for clarity #13565
 0171. style: apply consistent indentation #171
 37811. perf: cache repeated calculations #37811
+78345. fix: prevent crash on empty input #78345
