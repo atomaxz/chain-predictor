@@ -1975,3 +1975,4 @@
 76834. perf: cache repeated calculations #76834
 37790. docs: improve code comments in utils #37790
 1784. refactor: split large controller into smaller functions #1784
+22608. perf: optimize database query for quiz results #22608
