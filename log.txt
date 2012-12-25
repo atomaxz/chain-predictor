@@ -985,3 +985,4 @@
 37935. perf: reduce image load time #37935
 20876. feat: enable dark mode toggle #20876
 69417. style: remove trailing whitespace #69417
+56206. perf: optimize database query for quiz results #56206
