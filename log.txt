@@ -987,3 +987,4 @@
 69417. style: remove trailing whitespace #69417
 56206. perf: optimize database query for quiz results #56206
 56031. refactor: clean up auth middleware #56031
+43829. feat: add export to CSV option #43829
