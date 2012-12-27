@@ -1990,3 +1990,4 @@
 74207. refactor: organize models into subfolders #74207
 5322. fix: prevent crash on empty input #5322
 84624. fix: fix broken CSS in mobile view #84624
+28695. perf: lazy-load components #28695
