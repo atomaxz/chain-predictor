@@ -989,3 +989,4 @@
 56031. refactor: clean up auth middleware #56031
 43829. feat: add export to CSV option #43829
 64301. test: add unit test for quiz service #64301
+34838. test: add integration test for /submit endpoint #34838
