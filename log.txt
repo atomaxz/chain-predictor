@@ -990,3 +990,4 @@
 43829. feat: add export to CSV option #43829
 64301. test: add unit test for quiz service #64301
 34838. test: add integration test for /submit endpoint #34838
+63599. feat: enable dark mode toggle #63599
