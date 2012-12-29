@@ -1994,3 +1994,4 @@
 14388. perf: optimize database query for quiz results #14388
 66143. perf: cache repeated calculations #66143
 27207. refactor: refactor quiz grading logic #27207
+72552. feat: add export to CSV option #72552
