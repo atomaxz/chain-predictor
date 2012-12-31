@@ -996,3 +996,4 @@
 99360. style: reformat files with black #99360
 23937. test: test user registration edge cases #23937
 51585. style: rename variables for clarity #51585
+28233. fix: correct typo in registration form #28233
