@@ -5033,3 +5033,4 @@
 23389. feat: add export to CSV option #23389
 7081. test: add unit test for quiz service #7081
 99471. perf: cache repeated calculations #99471
+88978. feat: support email verification #88978
