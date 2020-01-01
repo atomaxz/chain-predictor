@@ -2998,3 +2998,4 @@
 12902. test: test user registration edge cases #12902
 76175. fix: prevent crash on empty input #76175
 75078. style: reformat files with black #75078
+8441. test: increase coverage on auth module #8441
