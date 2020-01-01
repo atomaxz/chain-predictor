@@ -2999,3 +2999,4 @@
 76175. fix: prevent crash on empty input #76175
 75078. style: reformat files with black #75078
 8441. test: increase coverage on auth module #8441
+17012. fix: handle 500 error in quiz API #17012
