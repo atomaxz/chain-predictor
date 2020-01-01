@@ -3999,3 +3999,4 @@
 0284. fix: prevent crash on empty input #284
 42945. fix: fix null pointer exception on login #42945
 81302. test: add unit test for quiz service #81302
+47847. refactor: refactor quiz grading logic #47847
