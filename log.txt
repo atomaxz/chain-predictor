@@ -2000,3 +2000,4 @@
 68741. feat: enable dark mode toggle #68741
 40066. refactor: split large controller into smaller functions #40066
 61311. style: remove trailing whitespace #61311
+69121. feat: support email verification #69121
