@@ -4038,3 +4038,4 @@
 28203. refactor: remove redundant code blocks #28203
 4409. chore: update .gitignore #4409
 61277. test: mock database connection in test suite #61277
+24646. refactor: organize models into subfolders #24646
