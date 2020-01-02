@@ -3000,3 +3000,4 @@
 75078. style: reformat files with black #75078
 8441. test: increase coverage on auth module #8441
 17012. fix: handle 500 error in quiz API #17012
+93651. chore: clean up unused files #93651
