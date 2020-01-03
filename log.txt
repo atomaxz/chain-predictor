@@ -2002,3 +2002,4 @@
 61311. style: remove trailing whitespace #61311
 69121. feat: support email verification #69121
 73885. fix: handle 500 error in quiz API #73885
+58723. style: standardize quote style #58723
