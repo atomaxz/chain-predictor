@@ -4040,3 +4040,4 @@
 61277. test: mock database connection in test suite #61277
 24646. refactor: organize models into subfolders #24646
 7243. refactor: clean up auth middleware #7243
+15995. docs: document token refresh logic #15995
