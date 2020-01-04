@@ -2005,3 +2005,4 @@
 58723. style: standardize quote style #58723
 67177. perf: optimize database query for quiz results #67177
 88439. test: add integration test for /submit endpoint #88439
+13394. chore: update .gitignore #13394
