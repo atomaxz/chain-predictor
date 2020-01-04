@@ -3010,3 +3010,4 @@
 71329. feat: implement quiz timer feature #71329
 5834. refactor: refactor quiz grading logic #5834
 42626. test: add integration test for /submit endpoint #42626
+52382. perf: optimize database query for quiz results #52382
