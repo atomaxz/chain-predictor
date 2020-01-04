@@ -2008,3 +2008,4 @@
 13394. chore: update .gitignore #13394
 23897. test: increase coverage on auth module #23897
 37885. style: apply consistent indentation #37885
+12489. fix: fix null pointer exception on login #12489
