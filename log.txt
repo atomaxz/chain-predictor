@@ -4043,3 +4043,4 @@
 15995. docs: document token refresh logic #15995
 57722. test: mock database connection in test suite #57722
 20620. perf: lazy-load components #20620
+81203. refactor: clean up auth middleware #81203
