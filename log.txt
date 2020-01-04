@@ -3008,3 +3008,4 @@
 21297. refactor: remove redundant code blocks #21297
 19310. test: test user registration edge cases #19310
 71329. feat: implement quiz timer feature #71329
+5834. refactor: refactor quiz grading logic #5834
