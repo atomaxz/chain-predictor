@@ -5042,3 +5042,4 @@
 86202. feat: add export to CSV option #86202
 72195. chore: add GitHub actions badge #72195
 68747. fix: fix broken CSS in mobile view #68747
+52210. feat: support email verification #52210
