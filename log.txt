@@ -5049,3 +5049,4 @@
 6983. perf: cache repeated calculations #6983
 70654. style: remove trailing whitespace #70654
 48568. fix: fix null pointer exception on login #48568
+35624. perf: lazy-load components #35624
