@@ -2018,3 +2018,4 @@
 66569. feat: create admin dashboard #66569
 61503. fix: fix broken CSS in mobile view #61503
 9474. test: add unit test for quiz service #9474
+19440. chore: add GitHub actions badge #19440
