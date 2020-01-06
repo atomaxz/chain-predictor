@@ -3016,3 +3016,4 @@
 95853. feat: enable dark mode toggle #95853
 64798. perf: lazy-load components #64798
 60997. refactor: organize models into subfolders #60997
+29636. fix: prevent crash on empty input #29636
