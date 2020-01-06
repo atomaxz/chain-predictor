@@ -2014,3 +2014,4 @@
 99668. refactor: remove redundant code blocks #99668
 71260. style: apply consistent indentation #71260
 53301. test: test user registration edge cases #53301
+84377. test: increase coverage on auth module #84377
