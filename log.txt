@@ -2016,3 +2016,4 @@
 53301. test: test user registration edge cases #53301
 84377. test: increase coverage on auth module #84377
 66569. feat: create admin dashboard #66569
+61503. fix: fix broken CSS in mobile view #61503
