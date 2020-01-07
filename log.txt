@@ -5054,3 +5054,4 @@
 12503. chore: add GitHub actions badge #12503
 8879. test: increase coverage on auth module #8879
 86441. docs: write FAQ section #86441
+17136. style: remove trailing whitespace #17136
