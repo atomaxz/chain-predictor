@@ -5053,3 +5053,4 @@
 35366. style: rename variables for clarity #35366
 12503. chore: add GitHub actions badge #12503
 8879. test: increase coverage on auth module #8879
+86441. docs: write FAQ section #86441
