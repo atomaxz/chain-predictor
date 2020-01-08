@@ -5056,3 +5056,4 @@
 86441. docs: write FAQ section #86441
 17136. style: remove trailing whitespace #17136
 38690. fix: resolve issue with date parsing #38690
+19199. chore: add GitHub actions badge #19199
