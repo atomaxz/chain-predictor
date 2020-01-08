@@ -2019,3 +2019,4 @@
 61503. fix: fix broken CSS in mobile view #61503
 9474. test: add unit test for quiz service #9474
 19440. chore: add GitHub actions badge #19440
+41970. refactor: organize models into subfolders #41970
