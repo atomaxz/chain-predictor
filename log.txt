@@ -2022,3 +2022,4 @@
 41970. refactor: organize models into subfolders #41970
 36356. feat: add user authentication #36356
 17923. refactor: split large controller into smaller functions #17923
+90833. test: increase coverage on auth module #90833
