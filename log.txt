@@ -4057,3 +4057,4 @@
 64168. docs: update README with setup steps #64168
 2576. refactor: refactor quiz grading logic #2576
 44027. test: add unit test for quiz service #44027
+28705. perf: lazy-load components #28705
