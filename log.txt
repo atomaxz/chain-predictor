@@ -5062,3 +5062,4 @@
 80917. perf: lazy-load components #80917
 14696. fix: correct typo in registration form #14696
 58907. feat: support email verification #58907
+13565. style: rename variables for clarity #13565
