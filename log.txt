@@ -3021,3 +3021,4 @@
 93333. chore: update .gitignore #93333
 97282. perf: cache repeated calculations #97282
 46936. test: add integration test for /submit endpoint #46936
+15280. fix: fix null pointer exception on login #15280
