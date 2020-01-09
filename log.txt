@@ -5061,3 +5061,4 @@
 69161. docs: document token refresh logic #69161
 80917. perf: lazy-load components #80917
 14696. fix: correct typo in registration form #14696
+58907. feat: support email verification #58907
