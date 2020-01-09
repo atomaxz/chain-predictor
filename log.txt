@@ -3022,3 +3022,4 @@
 97282. perf: cache repeated calculations #97282
 46936. test: add integration test for /submit endpoint #46936
 15280. fix: fix null pointer exception on login #15280
+48115. style: remove trailing whitespace #48115
