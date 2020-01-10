@@ -2027,3 +2027,4 @@
 86149. feat: create admin dashboard #86149
 89782. style: rename variables for clarity #89782
 18979. test: increase coverage on auth module #18979
+92456. test: increase coverage on auth module #92456
