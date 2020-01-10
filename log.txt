@@ -4059,3 +4059,4 @@
 44027. test: add unit test for quiz service #44027
 28705. perf: lazy-load components #28705
 58075. test: test user registration edge cases #58075
+17794. perf: optimize database query for quiz results #17794
