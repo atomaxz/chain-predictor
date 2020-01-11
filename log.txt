@@ -2034,3 +2034,4 @@
 0216. docs: add API usage examples #216
 22762. test: add integration test for /submit endpoint #22762
 33985. style: standardize quote style #33985
+7094. feat: support email verification #7094
