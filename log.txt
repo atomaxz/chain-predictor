@@ -2029,3 +2029,4 @@
 18979. test: increase coverage on auth module #18979
 92456. test: increase coverage on auth module #92456
 8271. docs: update README with setup steps #8271
+56429. chore: bump dependencies #56429
