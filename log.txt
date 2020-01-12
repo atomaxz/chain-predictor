@@ -4065,3 +4065,4 @@
 73502. style: rename variables for clarity #73502
 71756. perf: reduce image load time #71756
 50688. style: reformat files with black #50688
+64957. perf: reduce image load time #64957
