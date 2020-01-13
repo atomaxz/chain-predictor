@@ -4066,3 +4066,4 @@
 71756. perf: reduce image load time #71756
 50688. style: reformat files with black #50688
 64957. perf: reduce image load time #64957
+1118. perf: optimize database query for quiz results #1118
