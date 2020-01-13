@@ -4030,3 +4030,4 @@
 59377. docs: update README with setup steps #59377
 50185. fix: handle 500 error in quiz API #50185
 55393. feat: add export to CSV option #55393
+28034. refactor: clean up auth middleware #28034
