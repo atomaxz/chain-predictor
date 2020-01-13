@@ -5069,3 +5069,4 @@
 87127. docs: document token refresh logic #87127
 25487. feat: create admin dashboard #25487
 82286. feat: create admin dashboard #82286
+28456. fix: prevent crash on empty input #28456
