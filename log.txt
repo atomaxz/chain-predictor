@@ -3031,3 +3031,4 @@
 91213. refactor: refactor quiz grading logic #91213
 54137. refactor: split large controller into smaller functions #54137
 73500. perf: cache repeated calculations #73500
+36336. fix: fix null pointer exception on login #36336
