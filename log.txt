@@ -3036,3 +3036,4 @@
 67486. docs: write FAQ section #67486
 73599. style: apply consistent indentation #73599
 69687. perf: lazy-load components #69687
+84545. docs: add API usage examples #84545
