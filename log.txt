@@ -3035,3 +3035,4 @@
 57945. refactor: organize models into subfolders #57945
 67486. docs: write FAQ section #67486
 73599. style: apply consistent indentation #73599
+69687. perf: lazy-load components #69687
