@@ -2038,3 +2038,4 @@
 61015. feat: add export to CSV option #61015
 66810. refactor: refactor quiz grading logic #66810
 76070. docs: write FAQ section #76070
+84486. chore: rename env.example #84486
