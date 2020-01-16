@@ -3041,3 +3041,4 @@
 16165. perf: cache repeated calculations #16165
 73327. test: increase coverage on auth module #73327
 10928. docs: add API usage examples #10928
+48444. fix: fix null pointer exception on login #48444
