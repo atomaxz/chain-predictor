@@ -4072,3 +4072,4 @@
 4575. perf: lazy-load components #4575
 84385. refactor: split large controller into smaller functions #84385
 76457. perf: cache repeated calculations #76457
+8729. style: apply consistent indentation #8729
