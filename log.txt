@@ -5085,3 +5085,4 @@
 39830. fix: fix null pointer exception on login #39830
 81782. feat: enable dark mode toggle #81782
 33757. fix: correct typo in registration form #33757
+55708. test: increase coverage on auth module #55708
