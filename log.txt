@@ -5081,3 +5081,4 @@
 20711. refactor: clean up auth middleware #20711
 30205. docs: clarify environment setup #30205
 3964. chore: bump dependencies #3964
+9625. chore: update .gitignore #9625
