@@ -4075,3 +4075,4 @@
 8729. style: apply consistent indentation #8729
 51269. test: add integration test for /submit endpoint #51269
 60563. perf: lazy-load components #60563
+57155. fix: correct typo in registration form #57155
