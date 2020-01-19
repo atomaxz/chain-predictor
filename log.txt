@@ -5088,3 +5088,4 @@
 55708. test: increase coverage on auth module #55708
 24014. docs: clarify environment setup #24014
 83381. refactor: organize models into subfolders #83381
+46421. test: increase coverage on auth module #46421
