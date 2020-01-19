@@ -4077,3 +4077,4 @@
 60563. perf: lazy-load components #60563
 57155. fix: correct typo in registration form #57155
 54014. style: standardize quote style #54014
+67703. perf: reduce image load time #67703
