@@ -4078,3 +4078,4 @@
 57155. fix: correct typo in registration form #57155
 54014. style: standardize quote style #54014
 67703. perf: reduce image load time #67703
+79315. style: standardize quote style #79315
