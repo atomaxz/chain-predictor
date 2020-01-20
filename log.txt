@@ -4083,3 +4083,4 @@
 5605. fix: handle 500 error in quiz API #5605
 11314. feat: add user authentication #11314
 61325. refactor: organize models into subfolders #61325
+0338. feat: add user authentication #338
