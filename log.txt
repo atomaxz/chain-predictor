@@ -3049,3 +3049,4 @@
 9334. docs: update README with setup steps #9334
 8261. perf: lazy-load components #8261
 77867. refactor: remove redundant code blocks #77867
+5985. docs: write FAQ section #5985
