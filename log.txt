@@ -3052,3 +3052,4 @@
 5985. docs: write FAQ section #5985
 90911. refactor: refactor quiz grading logic #90911
 10798. feat: create admin dashboard #10798
+33892. style: remove trailing whitespace #33892
