@@ -4086,3 +4086,4 @@
 0338. feat: add user authentication #338
 16172. feat: add user authentication #16172
 88844. test: mock database connection in test suite #88844
+48101. fix: correct typo in registration form #48101
