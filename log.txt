@@ -3054,3 +3054,4 @@
 10798. feat: create admin dashboard #10798
 33892. style: remove trailing whitespace #33892
 73759. refactor: organize models into subfolders #73759
+23522. fix: handle 500 error in quiz API #23522
