@@ -3061,3 +3061,4 @@
 94431. perf: optimize database query for quiz results #94431
 77616. docs: document token refresh logic #77616
 52482. chore: update .gitignore #52482
+48606. fix: fix null pointer exception on login #48606
