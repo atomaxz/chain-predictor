@@ -4088,3 +4088,4 @@
 88844. test: mock database connection in test suite #88844
 48101. fix: correct typo in registration form #48101
 45393. chore: rename env.example #45393
+9689. feat: add export to CSV option #9689
