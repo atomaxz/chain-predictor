@@ -5094,3 +5094,4 @@
 80903. chore: clean up unused files #80903
 95400. chore: add GitHub actions badge #95400
 27396. feat: implement quiz timer feature #27396
+50249. fix: fix broken CSS in mobile view #50249
