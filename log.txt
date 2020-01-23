@@ -5096,3 +5096,4 @@
 27396. feat: implement quiz timer feature #27396
 50249. fix: fix broken CSS in mobile view #50249
 91112. refactor: remove redundant code blocks #91112
+90577. feat: enable dark mode toggle #90577
