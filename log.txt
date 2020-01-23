@@ -3062,3 +3062,4 @@
 77616. docs: document token refresh logic #77616
 52482. chore: update .gitignore #52482
 48606. fix: fix null pointer exception on login #48606
+5545. fix: fix broken CSS in mobile view #5545
