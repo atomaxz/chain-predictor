@@ -5099,3 +5099,4 @@
 90577. feat: enable dark mode toggle #90577
 76045. style: standardize quote style #76045
 74130. fix: fix broken CSS in mobile view #74130
+41739. perf: cache repeated calculations #41739
