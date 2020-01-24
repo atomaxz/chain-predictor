@@ -2058,3 +2058,4 @@
 77320. fix: handle 500 error in quiz API #77320
 84958. refactor: refactor quiz grading logic #84958
 17970. test: add unit test for quiz service #17970
+45161. test: add unit test for quiz service #45161
