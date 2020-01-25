@@ -2066,3 +2066,4 @@
 66053. refactor: remove redundant code blocks #66053
 74235. fix: fix broken CSS in mobile view #74235
 10751. chore: update .gitignore #10751
+73445. feat: create admin dashboard #73445
