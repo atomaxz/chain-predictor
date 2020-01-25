@@ -5100,3 +5100,4 @@
 76045. style: standardize quote style #76045
 74130. fix: fix broken CSS in mobile view #74130
 41739. perf: cache repeated calculations #41739
+60772. fix: handle 500 error in quiz API #60772
