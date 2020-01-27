@@ -5104,3 +5104,4 @@
 43104. refactor: split large controller into smaller functions #43104
 57952. perf: cache repeated calculations #57952
 71227. refactor: remove redundant code blocks #71227
+2479. fix: correct typo in registration form #2479
