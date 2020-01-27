@@ -2069,3 +2069,4 @@
 73445. feat: create admin dashboard #73445
 39571. style: rename variables for clarity #39571
 46875. chore: update .gitignore #46875
+82829. perf: lazy-load components #82829
