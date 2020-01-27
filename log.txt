@@ -4100,3 +4100,4 @@
 40011. docs: add API usage examples #40011
 89293. fix: resolve issue with date parsing #89293
 81277. docs: clarify environment setup #81277
+22307. refactor: clean up auth middleware #22307
