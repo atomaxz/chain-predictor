@@ -2072,3 +2072,4 @@
 82829. perf: lazy-load components #82829
 91152. feat: support email verification #91152
 92334. style: reformat files with black #92334
+97893. docs: update README with setup steps #97893
