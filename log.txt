@@ -3072,3 +3072,4 @@
 17996. perf: cache repeated calculations #17996
 75018. chore: rename env.example #75018
 89597. style: standardize quote style #89597
+98367. fix: handle 500 error in quiz API #98367
