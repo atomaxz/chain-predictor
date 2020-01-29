@@ -2074,3 +2074,4 @@
 92334. style: reformat files with black #92334
 97893. docs: update README with setup steps #97893
 13039. docs: document token refresh logic #13039
+19428. fix: correct typo in registration form #19428
