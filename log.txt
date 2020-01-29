@@ -4110,3 +4110,4 @@
 63682. docs: add API usage examples #63682
 29158. style: remove trailing whitespace #29158
 80869. docs: improve code comments in utils #80869
+11288. fix: fix broken CSS in mobile view #11288
