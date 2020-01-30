@@ -5112,3 +5112,4 @@
 89010. perf: lazy-load components #89010
 46874. test: increase coverage on auth module #46874
 69164. docs: update README with setup steps #69164
+67827. style: remove trailing whitespace #67827
