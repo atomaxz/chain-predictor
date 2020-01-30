@@ -4115,3 +4115,4 @@
 73914. chore: update .gitignore #73914
 26714. docs: document token refresh logic #26714
 42206. fix: handle 500 error in quiz API #42206
+47697. docs: write FAQ section #47697
