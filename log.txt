@@ -4112,3 +4112,4 @@
 80869. docs: improve code comments in utils #80869
 11288. fix: fix broken CSS in mobile view #11288
 51738. perf: lazy-load components #51738
+73914. chore: update .gitignore #73914
