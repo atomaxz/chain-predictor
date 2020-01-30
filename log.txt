@@ -4113,3 +4113,4 @@
 11288. fix: fix broken CSS in mobile view #11288
 51738. perf: lazy-load components #51738
 73914. chore: update .gitignore #73914
+26714. docs: document token refresh logic #26714
