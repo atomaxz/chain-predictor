@@ -2077,3 +2077,4 @@
 19428. fix: correct typo in registration form #19428
 29955. docs: write FAQ section #29955
 25343. chore: clean up unused files #25343
+82563. style: reformat files with black #82563
