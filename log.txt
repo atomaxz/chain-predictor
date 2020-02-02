@@ -4123,3 +4123,4 @@
 68201. chore: rename env.example #68201
 94704. fix: prevent crash on empty input #94704
 45795. perf: reduce image load time #45795
+36852. feat: support email verification #36852
