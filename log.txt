@@ -4124,3 +4124,4 @@
 94704. fix: prevent crash on empty input #94704
 45795. perf: reduce image load time #45795
 36852. feat: support email verification #36852
+69193. perf: optimize database query for quiz results #69193
