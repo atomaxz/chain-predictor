@@ -2083,3 +2083,4 @@
 12937. docs: update README with setup steps #12937
 14724. fix: handle 500 error in quiz API #14724
 64757. chore: bump dependencies #64757
+78170. feat: support email verification #78170
