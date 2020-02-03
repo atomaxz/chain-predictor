@@ -4126,3 +4126,4 @@
 36852. feat: support email verification #36852
 69193. perf: optimize database query for quiz results #69193
 64319. fix: fix null pointer exception on login #64319
+21104. fix: handle 500 error in quiz API #21104
