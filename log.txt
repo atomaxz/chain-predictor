@@ -2086,3 +2086,4 @@
 78170. feat: support email verification #78170
 24793. fix: correct typo in registration form #24793
 90670. fix: resolve issue with date parsing #90670
+86051. feat: support email verification #86051
