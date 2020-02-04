@@ -2087,3 +2087,4 @@
 24793. fix: correct typo in registration form #24793
 90670. fix: resolve issue with date parsing #90670
 86051. feat: support email verification #86051
+26551. chore: bump dependencies #26551
