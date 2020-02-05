@@ -5129,3 +5129,4 @@
 76842. docs: update README with setup steps #76842
 94620. perf: lazy-load components #94620
 77268. chore: update .gitignore #77268
+68121. feat: add user authentication #68121
