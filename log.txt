@@ -5126,3 +5126,4 @@
 86342. test: add integration test for /submit endpoint #86342
 97697. refactor: remove redundant code blocks #97697
 15547. chore: add GitHub actions badge #15547
+76842. docs: update README with setup steps #76842
