@@ -2093,3 +2093,4 @@
 80463. style: reformat files with black #80463
 62692. chore: bump dependencies #62692
 71879. chore: clean up unused files #71879
+52078. feat: support email verification #52078
