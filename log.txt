@@ -4131,3 +4131,4 @@
 66387. fix: prevent crash on empty input #66387
 68097. refactor: clean up auth middleware #68097
 51701. chore: update .gitignore #51701
+31876. fix: prevent crash on empty input #31876
