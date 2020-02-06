@@ -5132,3 +5132,4 @@
 68121. feat: add user authentication #68121
 63792. refactor: refactor quiz grading logic #63792
 83040. fix: resolve issue with date parsing #83040
+98534. test: increase coverage on auth module #98534
