@@ -3083,3 +3083,4 @@
 70145. chore: clean up unused files #70145
 71442. feat: support email verification #71442
 54506. refactor: clean up auth middleware #54506
+6228. fix: handle 500 error in quiz API #6228
