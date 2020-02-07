@@ -2100,3 +2100,4 @@
 42654. fix: fix null pointer exception on login #42654
 68032. style: apply consistent indentation #68032
 67896. fix: fix null pointer exception on login #67896
+98826. fix: correct typo in registration form #98826
