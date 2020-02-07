@@ -5136,3 +5136,4 @@
 16192. chore: bump dependencies #16192
 42425. docs: add API usage examples #42425
 85937. docs: write FAQ section #85937
+19672. refactor: clean up auth middleware #19672
