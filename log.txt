@@ -3084,3 +3084,4 @@
 71442. feat: support email verification #71442
 54506. refactor: clean up auth middleware #54506
 6228. fix: handle 500 error in quiz API #6228
+24001. fix: prevent crash on empty input #24001
