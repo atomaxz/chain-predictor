@@ -5138,3 +5138,4 @@
 85937. docs: write FAQ section #85937
 19672. refactor: clean up auth middleware #19672
 79995. style: apply consistent indentation #79995
+24300. style: remove trailing whitespace #24300
