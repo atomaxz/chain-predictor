@@ -2099,3 +2099,4 @@
 24556. test: add unit test for quiz service #24556
 42654. fix: fix null pointer exception on login #42654
 68032. style: apply consistent indentation #68032
+67896. fix: fix null pointer exception on login #67896
