@@ -4139,3 +4139,4 @@
 27765. style: rename variables for clarity #27765
 60441. feat: add export to CSV option #60441
 48550. chore: update .gitignore #48550
+34805. style: remove trailing whitespace #34805
