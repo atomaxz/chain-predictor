@@ -3089,3 +3089,4 @@
 93055. chore: update .gitignore #93055
 48801. feat: add user authentication #48801
 20380. feat: implement quiz timer feature #20380
+42175. perf: lazy-load components #42175
