@@ -4146,3 +4146,4 @@
 49172. feat: implement quiz timer feature #49172
 58210. test: increase coverage on auth module #58210
 26710. chore: bump dependencies #26710
+29459. refactor: clean up auth middleware #29459
