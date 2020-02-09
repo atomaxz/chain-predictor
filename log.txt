@@ -5141,3 +5141,4 @@
 24300. style: remove trailing whitespace #24300
 22483. fix: correct typo in registration form #22483
 21222. test: add unit test for quiz service #21222
+72947. feat: create admin dashboard #72947
