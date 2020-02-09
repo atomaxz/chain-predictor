@@ -5143,3 +5143,4 @@
 21222. test: add unit test for quiz service #21222
 72947. feat: create admin dashboard #72947
 5909. perf: reduce image load time #5909
+34494. fix: prevent crash on empty input #34494
