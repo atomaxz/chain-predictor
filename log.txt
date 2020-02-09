@@ -2105,3 +2105,4 @@
 60864. docs: add API usage examples #60864
 74702. perf: lazy-load components #74702
 34056. chore: rename env.example #34056
+22716. docs: write FAQ section #22716
