@@ -2108,3 +2108,4 @@
 22716. docs: write FAQ section #22716
 31728. docs: add API usage examples #31728
 53946. feat: support email verification #53946
+52231. refactor: clean up auth middleware #52231
