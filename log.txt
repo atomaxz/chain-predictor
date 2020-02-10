@@ -3091,3 +3091,4 @@
 20380. feat: implement quiz timer feature #20380
 42175. perf: lazy-load components #42175
 17041. chore: clean up unused files #17041
+89632. chore: update .gitignore #89632
