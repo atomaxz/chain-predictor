@@ -4148,3 +4148,4 @@
 26710. chore: bump dependencies #26710
 29459. refactor: clean up auth middleware #29459
 44728. perf: reduce image load time #44728
+87844. fix: correct typo in registration form #87844
