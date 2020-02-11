@@ -4152,3 +4152,4 @@
 72757. test: add unit test for quiz service #72757
 63517. perf: optimize database query for quiz results #63517
 92180. style: apply consistent indentation #92180
+96845. refactor: refactor quiz grading logic #96845
