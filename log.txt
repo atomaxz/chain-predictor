@@ -5149,3 +5149,4 @@
 37752. feat: support email verification #37752
 65320. docs: write FAQ section #65320
 55818. style: apply consistent indentation #55818
+42130. perf: reduce image load time #42130
