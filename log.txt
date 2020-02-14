@@ -2121,3 +2121,4 @@
 19803. test: add integration test for /submit endpoint #19803
 12893. docs: write FAQ section #12893
 33641. perf: cache repeated calculations #33641
+86391. fix: fix broken CSS in mobile view #86391
