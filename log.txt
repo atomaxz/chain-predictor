@@ -4155,3 +4155,4 @@
 96845. refactor: refactor quiz grading logic #96845
 60326. test: mock database connection in test suite #60326
 24693. test: mock database connection in test suite #24693
+17831. test: increase coverage on auth module #17831
