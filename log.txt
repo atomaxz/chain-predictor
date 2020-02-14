@@ -5154,3 +5154,4 @@
 95419. docs: write FAQ section #95419
 49956. docs: clarify environment setup #49956
 13591. perf: reduce image load time #13591
+96120. fix: fix broken CSS in mobile view #96120
