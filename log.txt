@@ -3105,3 +3105,4 @@
 43389. style: standardize quote style #43389
 34024. fix: correct typo in registration form #34024
 90733. refactor: split large controller into smaller functions #90733
+11741. fix: correct typo in registration form #11741
