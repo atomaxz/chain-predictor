@@ -2123,3 +2123,4 @@
 33641. perf: cache repeated calculations #33641
 86391. fix: fix broken CSS in mobile view #86391
 76338. refactor: refactor quiz grading logic #76338
+99438. feat: add export to CSV option #99438
