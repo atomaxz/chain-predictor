@@ -4160,3 +4160,4 @@
 97801. test: test user registration edge cases #97801
 23733. style: reformat files with black #23733
 19579. chore: update .gitignore #19579
+15330. fix: fix broken CSS in mobile view #15330
