@@ -5157,3 +5157,4 @@
 96120. fix: fix broken CSS in mobile view #96120
 66888. fix: fix null pointer exception on login #66888
 51264. style: remove trailing whitespace #51264
+51587. refactor: organize models into subfolders #51587
