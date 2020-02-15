@@ -4159,3 +4159,4 @@
 11266. style: reformat files with black #11266
 97801. test: test user registration edge cases #97801
 23733. style: reformat files with black #23733
+19579. chore: update .gitignore #19579
