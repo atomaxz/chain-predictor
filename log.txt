@@ -5159,3 +5159,4 @@
 51264. style: remove trailing whitespace #51264
 51587. refactor: organize models into subfolders #51587
 87854. perf: cache repeated calculations #87854
+49232. perf: optimize database query for quiz results #49232
