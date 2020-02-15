@@ -2125,3 +2125,4 @@
 76338. refactor: refactor quiz grading logic #76338
 99438. feat: add export to CSV option #99438
 67848. fix: fix null pointer exception on login #67848
+6850. fix: resolve issue with date parsing #6850
