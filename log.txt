@@ -3107,3 +3107,4 @@
 90733. refactor: split large controller into smaller functions #90733
 11741. fix: correct typo in registration form #11741
 50025. test: increase coverage on auth module #50025
+65410. docs: write FAQ section #65410
