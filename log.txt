@@ -3111,3 +3111,4 @@
 92503. style: rename variables for clarity #92503
 53939. feat: create admin dashboard #53939
 8078. fix: prevent crash on empty input #8078
+35522. style: remove trailing whitespace #35522
