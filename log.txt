@@ -4162,3 +4162,4 @@
 19579. chore: update .gitignore #19579
 15330. fix: fix broken CSS in mobile view #15330
 95381. docs: improve code comments in utils #95381
+15458. chore: bump dependencies #15458
