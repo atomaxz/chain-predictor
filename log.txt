@@ -5167,3 +5167,4 @@
 69221. chore: update .gitignore #69221
 58963. refactor: clean up auth middleware #58963
 52920. feat: add user authentication #52920
+90217. docs: write FAQ section #90217
