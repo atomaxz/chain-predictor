@@ -5168,3 +5168,4 @@
 58963. refactor: clean up auth middleware #58963
 52920. feat: add user authentication #52920
 90217. docs: write FAQ section #90217
+56445. perf: lazy-load components #56445
