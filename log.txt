@@ -2132,3 +2132,4 @@
 22414. refactor: refactor quiz grading logic #22414
 90420. chore: add GitHub actions badge #90420
 42649. style: apply consistent indentation #42649
+62916. test: add unit test for quiz service #62916
