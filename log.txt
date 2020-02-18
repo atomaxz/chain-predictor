@@ -3115,3 +3115,4 @@
 17911. test: add integration test for /submit endpoint #17911
 27053. perf: cache repeated calculations #27053
 49677. docs: improve code comments in utils #49677
+48812. refactor: clean up auth middleware #48812
