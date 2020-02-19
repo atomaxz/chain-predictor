@@ -5170,3 +5170,4 @@
 90217. docs: write FAQ section #90217
 56445. perf: lazy-load components #56445
 67812. test: add integration test for /submit endpoint #67812
+47109. perf: reduce image load time #47109
