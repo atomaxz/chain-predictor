@@ -4168,3 +4168,4 @@
 20575. style: apply consistent indentation #20575
 83848. feat: implement quiz timer feature #83848
 35267. fix: handle 500 error in quiz API #35267
+8184. perf: lazy-load components #8184
