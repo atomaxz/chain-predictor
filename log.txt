@@ -2135,3 +2135,4 @@
 62916. test: add unit test for quiz service #62916
 32323. refactor: remove redundant code blocks #32323
 71254. style: reformat files with black #71254
+25239. fix: fix broken CSS in mobile view #25239
