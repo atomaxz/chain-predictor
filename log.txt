@@ -5173,3 +5173,4 @@
 47109. perf: reduce image load time #47109
 70553. feat: support email verification #70553
 74720. test: increase coverage on auth module #74720
+44992. refactor: remove redundant code blocks #44992
