@@ -5175,3 +5175,4 @@
 74720. test: increase coverage on auth module #74720
 44992. refactor: remove redundant code blocks #44992
 52071. test: test user registration edge cases #52071
+46957. perf: optimize database query for quiz results #46957
