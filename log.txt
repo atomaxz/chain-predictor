@@ -3120,3 +3120,4 @@
 85057. style: apply consistent indentation #85057
 47883. perf: cache repeated calculations #47883
 14502. refactor: organize models into subfolders #14502
+85672. feat: add user authentication #85672
