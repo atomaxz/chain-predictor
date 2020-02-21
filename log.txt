@@ -4173,3 +4173,4 @@
 60765. feat: enable dark mode toggle #60765
 23498. fix: fix null pointer exception on login #23498
 61876. perf: reduce image load time #61876
+23842. refactor: organize models into subfolders #23842
