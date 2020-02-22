@@ -5182,3 +5182,4 @@
 47311. style: reformat files with black #47311
 62519. perf: reduce image load time #62519
 45497. test: increase coverage on auth module #45497
+39478. fix: handle 500 error in quiz API #39478
