@@ -4175,3 +4175,4 @@
 61876. perf: reduce image load time #61876
 23842. refactor: organize models into subfolders #23842
 86053. feat: create admin dashboard #86053
+78900. fix: prevent crash on empty input #78900
