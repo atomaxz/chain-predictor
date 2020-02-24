@@ -4178,3 +4178,4 @@
 78900. fix: prevent crash on empty input #78900
 12421. test: add integration test for /submit endpoint #12421
 54123. test: mock database connection in test suite #54123
+50755. chore: update .gitignore #50755
