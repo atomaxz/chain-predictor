@@ -2145,3 +2145,4 @@
 48203. fix: fix broken CSS in mobile view #48203
 27023. feat: implement quiz timer feature #27023
 36447. refactor: refactor quiz grading logic #36447
+66102. test: test user registration edge cases #66102
