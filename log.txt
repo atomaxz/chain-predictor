@@ -3129,3 +3129,4 @@
 87808. refactor: remove redundant code blocks #87808
 19407. refactor: split large controller into smaller functions #19407
 10662. fix: correct typo in registration form #10662
+11569. style: remove trailing whitespace #11569
