@@ -2150,3 +2150,4 @@
 99007. test: add unit test for quiz service #99007
 64367. refactor: refactor quiz grading logic #64367
 99375. fix: prevent crash on empty input #99375
+45390. fix: handle 500 error in quiz API #45390
