@@ -4180,3 +4180,4 @@
 54123. test: mock database connection in test suite #54123
 50755. chore: update .gitignore #50755
 36223. docs: clarify environment setup #36223
+72487. fix: fix broken CSS in mobile view #72487
