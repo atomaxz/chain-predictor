@@ -4184,3 +4184,4 @@
 53449. chore: clean up unused files #53449
 88031. refactor: remove redundant code blocks #88031
 36029. perf: reduce image load time #36029
+37736. refactor: split large controller into smaller functions #37736
