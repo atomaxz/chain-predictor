@@ -4186,3 +4186,4 @@
 36029. perf: reduce image load time #36029
 37736. refactor: split large controller into smaller functions #37736
 74654. fix: fix broken CSS in mobile view #74654
+19577. style: standardize quote style #19577
