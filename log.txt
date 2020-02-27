@@ -4187,3 +4187,4 @@
 37736. refactor: split large controller into smaller functions #37736
 74654. fix: fix broken CSS in mobile view #74654
 19577. style: standardize quote style #19577
+5378. fix: correct typo in registration form #5378
