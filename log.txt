@@ -3136,3 +3136,4 @@
 13237. perf: lazy-load components #13237
 52262. chore: bump dependencies #52262
 37363. chore: update .gitignore #37363
+3134. feat: add export to CSV option #3134
