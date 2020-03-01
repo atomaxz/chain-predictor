@@ -5203,3 +5203,4 @@
 9268. chore: bump dependencies #9268
 55313. style: rename variables for clarity #55313
 20057. fix: correct typo in registration form #20057
+76075. chore: update .gitignore #76075
