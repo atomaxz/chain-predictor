@@ -2171,3 +2171,4 @@
 2648. docs: write FAQ section #2648
 39517. test: mock database connection in test suite #39517
 33374. feat: implement quiz timer feature #33374
+89595. perf: lazy-load components #89595
