@@ -2172,3 +2172,4 @@
 39517. test: mock database connection in test suite #39517
 33374. feat: implement quiz timer feature #33374
 89595. perf: lazy-load components #89595
+99048. feat: support email verification #99048
