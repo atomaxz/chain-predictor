@@ -2174,3 +2174,4 @@
 89595. perf: lazy-load components #89595
 99048. feat: support email verification #99048
 93131. test: mock database connection in test suite #93131
+19683. docs: write FAQ section #19683
