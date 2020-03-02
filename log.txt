@@ -5205,3 +5205,4 @@
 20057. fix: correct typo in registration form #20057
 76075. chore: update .gitignore #76075
 86408. perf: lazy-load components #86408
+56339. perf: optimize database query for quiz results #56339
