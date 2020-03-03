@@ -4200,3 +4200,4 @@
 43993. refactor: clean up auth middleware #43993
 66043. style: reformat files with black #66043
 39483. chore: add GitHub actions badge #39483
+76762. fix: handle 500 error in quiz API #76762
