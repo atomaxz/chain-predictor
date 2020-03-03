@@ -5211,3 +5211,4 @@
 38932. refactor: remove redundant code blocks #38932
 53048. test: add integration test for /submit endpoint #53048
 29085. fix: correct typo in registration form #29085
+6009. perf: lazy-load components #6009
