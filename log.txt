@@ -5209,3 +5209,4 @@
 48936. fix: prevent crash on empty input #48936
 78489. refactor: remove redundant code blocks #78489
 38932. refactor: remove redundant code blocks #38932
+53048. test: add integration test for /submit endpoint #53048
