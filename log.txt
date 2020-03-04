@@ -3145,3 +3145,4 @@
 72074. docs: add API usage examples #72074
 28311. chore: update .gitignore #28311
 87427. perf: cache repeated calculations #87427
+35419. perf: reduce image load time #35419
