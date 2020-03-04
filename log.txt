@@ -2183,3 +2183,4 @@
 53346. fix: handle 500 error in quiz API #53346
 54816. docs: write FAQ section #54816
 34034. chore: update .gitignore #34034
+4571. feat: add export to CSV option #4571
