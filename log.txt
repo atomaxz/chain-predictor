@@ -4204,3 +4204,4 @@
 49806. fix: fix null pointer exception on login #49806
 31471. docs: update README with setup steps #31471
 16445. docs: clarify environment setup #16445
+76675. test: add integration test for /submit endpoint #76675
