@@ -4210,3 +4210,4 @@
 67401. perf: optimize database query for quiz results #67401
 40073. feat: create admin dashboard #40073
 63425. feat: support email verification #63425
+4812. fix: resolve issue with date parsing #4812
