@@ -4209,3 +4209,4 @@
 29035. perf: reduce image load time #29035
 67401. perf: optimize database query for quiz results #67401
 40073. feat: create admin dashboard #40073
+63425. feat: support email verification #63425
