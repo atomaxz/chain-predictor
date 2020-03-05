@@ -5214,3 +5214,4 @@
 6009. perf: lazy-load components #6009
 10423. refactor: split large controller into smaller functions #10423
 22460. refactor: organize models into subfolders #22460
+27880. chore: bump dependencies #27880
