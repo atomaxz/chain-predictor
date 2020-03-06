@@ -3151,3 +3151,4 @@
 34829. docs: document token refresh logic #34829
 99248. docs: clarify environment setup #99248
 99369. style: apply consistent indentation #99369
+70317. refactor: clean up auth middleware #70317
