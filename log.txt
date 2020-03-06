@@ -3152,3 +3152,4 @@
 99248. docs: clarify environment setup #99248
 99369. style: apply consistent indentation #99369
 70317. refactor: clean up auth middleware #70317
+2209. style: remove trailing whitespace #2209
