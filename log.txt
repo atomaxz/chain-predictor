@@ -3155,3 +3155,4 @@
 2209. style: remove trailing whitespace #2209
 8272. perf: cache repeated calculations #8272
 67905. style: remove trailing whitespace #67905
+58590. perf: cache repeated calculations #58590
