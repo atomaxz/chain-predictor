@@ -2191,3 +2191,4 @@
 95634. style: apply consistent indentation #95634
 42069. test: test user registration edge cases #42069
 82949. chore: add GitHub actions badge #82949
+50477. perf: reduce image load time #50477
