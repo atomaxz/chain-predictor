@@ -4213,3 +4213,4 @@
 4812. fix: resolve issue with date parsing #4812
 28681. refactor: refactor quiz grading logic #28681
 84950. fix: resolve issue with date parsing #84950
+36519. chore: bump dependencies #36519
