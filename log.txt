@@ -2192,3 +2192,4 @@
 42069. test: test user registration edge cases #42069
 82949. chore: add GitHub actions badge #82949
 50477. perf: reduce image load time #50477
+44571. style: standardize quote style #44571
