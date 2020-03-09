@@ -3158,3 +3158,4 @@
 58590. perf: cache repeated calculations #58590
 31868. perf: optimize database query for quiz results #31868
 31287. docs: improve code comments in utils #31287
+50950. test: increase coverage on auth module #50950
