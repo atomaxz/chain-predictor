@@ -2194,3 +2194,4 @@
 50477. perf: reduce image load time #50477
 44571. style: standardize quote style #44571
 3837. fix: fix broken CSS in mobile view #3837
+31579. refactor: organize models into subfolders #31579
