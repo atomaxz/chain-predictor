@@ -4220,3 +4220,4 @@
 80361. feat: implement quiz timer feature #80361
 67235. perf: reduce image load time #67235
 15827. test: add integration test for /submit endpoint #15827
+13612. feat: enable dark mode toggle #13612
