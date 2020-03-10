@@ -5222,3 +5222,4 @@
 33022. perf: lazy-load components #33022
 84460. test: mock database connection in test suite #84460
 3978. chore: update .gitignore #3978
+6277. perf: optimize database query for quiz results #6277
