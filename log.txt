@@ -3159,3 +3159,4 @@
 31868. perf: optimize database query for quiz results #31868
 31287. docs: improve code comments in utils #31287
 50950. test: increase coverage on auth module #50950
+90278. chore: update .gitignore #90278
