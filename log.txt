@@ -4226,3 +4226,4 @@
 97437. test: add unit test for quiz service #97437
 14347. chore: rename env.example #14347
 79168. style: standardize quote style #79168
+65152. perf: optimize database query for quiz results #65152
