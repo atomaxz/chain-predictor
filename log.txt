@@ -2197,3 +2197,4 @@
 31579. refactor: organize models into subfolders #31579
 83051. style: rename variables for clarity #83051
 6065. chore: add GitHub actions badge #6065
+35312. test: increase coverage on auth module #35312
