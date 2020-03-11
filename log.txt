@@ -2198,3 +2198,4 @@
 83051. style: rename variables for clarity #83051
 6065. chore: add GitHub actions badge #6065
 35312. test: increase coverage on auth module #35312
+63549. fix: prevent crash on empty input #63549
