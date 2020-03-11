@@ -5224,3 +5224,4 @@
 3978. chore: update .gitignore #3978
 6277. perf: optimize database query for quiz results #6277
 82098. docs: improve code comments in utils #82098
+64997. fix: prevent crash on empty input #64997
