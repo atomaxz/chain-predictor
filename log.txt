@@ -5225,3 +5225,4 @@
 6277. perf: optimize database query for quiz results #6277
 82098. docs: improve code comments in utils #82098
 64997. fix: prevent crash on empty input #64997
+90433. fix: resolve issue with date parsing #90433
