@@ -5233,3 +5233,4 @@
 77451. refactor: remove redundant code blocks #77451
 74416. fix: fix null pointer exception on login #74416
 6320. perf: reduce image load time #6320
+19585. test: test user registration edge cases #19585
