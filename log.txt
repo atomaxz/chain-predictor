@@ -5232,3 +5232,4 @@
 79420. feat: add export to CSV option #79420
 77451. refactor: remove redundant code blocks #77451
 74416. fix: fix null pointer exception on login #74416
+6320. perf: reduce image load time #6320
