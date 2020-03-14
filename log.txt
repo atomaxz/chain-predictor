@@ -5235,3 +5235,4 @@
 6320. perf: reduce image load time #6320
 19585. test: test user registration edge cases #19585
 29821. style: remove trailing whitespace #29821
+45234. fix: fix broken CSS in mobile view #45234
