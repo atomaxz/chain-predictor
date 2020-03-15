@@ -3171,3 +3171,4 @@
 62409. chore: add GitHub actions badge #62409
 19564. refactor: clean up auth middleware #19564
 57506. fix: correct typo in registration form #57506
+68896. fix: fix null pointer exception on login #68896
