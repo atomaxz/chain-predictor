@@ -2213,3 +2213,4 @@
 74766. fix: fix broken CSS in mobile view #74766
 84953. style: standardize quote style #84953
 84228. feat: implement quiz timer feature #84228
+14813. feat: add user authentication #14813
