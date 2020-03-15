@@ -2214,3 +2214,4 @@
 84953. style: standardize quote style #84953
 84228. feat: implement quiz timer feature #84228
 14813. feat: add user authentication #14813
+97876. docs: write FAQ section #97876
