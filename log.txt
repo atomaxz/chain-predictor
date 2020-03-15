@@ -2211,3 +2211,4 @@
 85841. perf: lazy-load components #85841
 66672. chore: add GitHub actions badge #66672
 74766. fix: fix broken CSS in mobile view #74766
+84953. style: standardize quote style #84953
