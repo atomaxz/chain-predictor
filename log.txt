@@ -5241,3 +5241,4 @@
 91020. feat: add user authentication #91020
 19461. docs: write FAQ section #19461
 20926. chore: rename env.example #20926
+6585. refactor: clean up auth middleware #6585
