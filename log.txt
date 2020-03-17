@@ -5244,3 +5244,4 @@
 6585. refactor: clean up auth middleware #6585
 6836. perf: reduce image load time #6836
 99791. chore: rename env.example #99791
+45782. feat: add user authentication #45782
