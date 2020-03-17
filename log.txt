@@ -3174,3 +3174,4 @@
 68896. fix: fix null pointer exception on login #68896
 92986. feat: enable dark mode toggle #92986
 80204. style: reformat files with black #80204
+58291. perf: reduce image load time #58291
