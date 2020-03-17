@@ -2220,3 +2220,4 @@
 90491. docs: write FAQ section #90491
 40308. test: test user registration edge cases #40308
 71813. perf: cache repeated calculations #71813
+25262. feat: create admin dashboard #25262
