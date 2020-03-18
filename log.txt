@@ -2222,3 +2222,4 @@
 71813. perf: cache repeated calculations #71813
 25262. feat: create admin dashboard #25262
 78236. refactor: remove redundant code blocks #78236
+23630. fix: fix null pointer exception on login #23630
