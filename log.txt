@@ -4238,3 +4238,4 @@
 2154. chore: add GitHub actions badge #2154
 55390. fix: resolve issue with date parsing #55390
 72721. perf: cache repeated calculations #72721
+29914. test: test user registration edge cases #29914
