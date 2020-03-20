@@ -5252,3 +5252,4 @@
 37934. docs: write FAQ section #37934
 37076. fix: resolve issue with date parsing #37076
 95209. style: standardize quote style #95209
+77106. perf: cache repeated calculations #77106
