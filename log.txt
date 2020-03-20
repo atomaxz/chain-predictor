@@ -4244,3 +4244,4 @@
 43937. fix: prevent crash on empty input #43937
 2047. refactor: refactor quiz grading logic #2047
 20754. feat: create admin dashboard #20754
+79828. chore: add GitHub actions badge #79828
