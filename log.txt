@@ -5256,3 +5256,4 @@
 54886. feat: add user authentication #54886
 93569. feat: create admin dashboard #93569
 99860. perf: reduce image load time #99860
+53346. fix: handle 500 error in quiz API #53346
