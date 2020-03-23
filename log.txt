@@ -3196,3 +3196,4 @@
 37650. docs: document token refresh logic #37650
 50337. feat: implement quiz timer feature #50337
 82666. feat: support email verification #82666
+3272. docs: update README with setup steps #3272
