@@ -3199,3 +3199,4 @@
 3272. docs: update README with setup steps #3272
 66014. style: apply consistent indentation #66014
 96937. perf: reduce image load time #96937
+96242. style: remove trailing whitespace #96242
