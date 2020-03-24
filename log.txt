@@ -3200,3 +3200,4 @@
 66014. style: apply consistent indentation #66014
 96937. perf: reduce image load time #96937
 96242. style: remove trailing whitespace #96242
+13929. chore: bump dependencies #13929
