@@ -5262,3 +5262,4 @@
 29576. perf: reduce image load time #29576
 30529. test: increase coverage on auth module #30529
 81578. style: standardize quote style #81578
+76250. test: add integration test for /submit endpoint #76250
