@@ -3203,3 +3203,4 @@
 13929. chore: bump dependencies #13929
 95511. perf: lazy-load components #95511
 46732. chore: clean up unused files #46732
+36665. test: mock database connection in test suite #36665
