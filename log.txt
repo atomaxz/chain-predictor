@@ -3205,3 +3205,4 @@
 46732. chore: clean up unused files #46732
 36665. test: mock database connection in test suite #36665
 68461. perf: cache repeated calculations #68461
+66803. test: test user registration edge cases #66803
