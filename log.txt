@@ -5272,3 +5272,4 @@
 99385. fix: fix broken CSS in mobile view #99385
 83080. perf: lazy-load components #83080
 88363. test: mock database connection in test suite #88363
+96232. style: reformat files with black #96232
