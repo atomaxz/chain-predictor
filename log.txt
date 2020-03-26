@@ -2237,3 +2237,4 @@
 63591. refactor: refactor quiz grading logic #63591
 10857. docs: improve code comments in utils #10857
 30550. docs: document token refresh logic #30550
+18550. perf: lazy-load components #18550
