@@ -2241,3 +2241,4 @@
 94217. fix: fix null pointer exception on login #94217
 46993. docs: add API usage examples #46993
 54098. chore: rename env.example #54098
+7437. perf: lazy-load components #7437
