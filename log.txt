@@ -2245,3 +2245,4 @@
 34445. docs: document token refresh logic #34445
 85685. docs: add API usage examples #85685
 66293. test: add unit test for quiz service #66293
+4819. feat: support email verification #4819
