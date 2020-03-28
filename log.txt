@@ -5279,3 +5279,4 @@
 12527. test: test user registration edge cases #12527
 96841. perf: cache repeated calculations #96841
 74634. fix: resolve issue with date parsing #74634
+77965. test: test user registration edge cases #77965
