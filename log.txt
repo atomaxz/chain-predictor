@@ -5275,3 +5275,4 @@
 96232. style: reformat files with black #96232
 75874. perf: optimize database query for quiz results #75874
 33583. feat: support email verification #33583
+73788. style: remove trailing whitespace #73788
