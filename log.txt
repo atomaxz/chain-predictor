@@ -5276,3 +5276,4 @@
 75874. perf: optimize database query for quiz results #75874
 33583. feat: support email verification #33583
 73788. style: remove trailing whitespace #73788
+12527. test: test user registration edge cases #12527
