@@ -5277,3 +5277,4 @@
 33583. feat: support email verification #33583
 73788. style: remove trailing whitespace #73788
 12527. test: test user registration edge cases #12527
+96841. perf: cache repeated calculations #96841
