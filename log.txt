@@ -2250,3 +2250,4 @@
 83285. fix: fix null pointer exception on login #83285
 5697. feat: create admin dashboard #5697
 21579. docs: improve code comments in utils #21579
+68995. chore: bump dependencies #68995
