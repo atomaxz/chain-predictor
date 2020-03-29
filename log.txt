@@ -2247,3 +2247,4 @@
 66293. test: add unit test for quiz service #66293
 4819. feat: support email verification #4819
 84899. fix: handle 500 error in quiz API #84899
+83285. fix: fix null pointer exception on login #83285
