@@ -5281,3 +5281,4 @@
 74634. fix: resolve issue with date parsing #74634
 77965. test: test user registration edge cases #77965
 58446. refactor: remove redundant code blocks #58446
+39878. test: mock database connection in test suite #39878
