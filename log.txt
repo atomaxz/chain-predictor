@@ -4270,3 +4270,4 @@
 86274. refactor: remove redundant code blocks #86274
 94592. test: add integration test for /submit endpoint #94592
 52747. chore: bump dependencies #52747
+66152. fix: handle 500 error in quiz API #66152
