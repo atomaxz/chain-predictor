@@ -2256,3 +2256,4 @@
 49093. perf: cache repeated calculations #49093
 12376. perf: optimize database query for quiz results #12376
 99558. fix: correct typo in registration form #99558
+38146. docs: update README with setup steps #38146
