@@ -5290,3 +5290,4 @@
 34896. feat: add user authentication #34896
 1911. docs: add API usage examples #1911
 48108. feat: support email verification #48108
+91815. chore: bump dependencies #91815
