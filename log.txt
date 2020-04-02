@@ -5296,3 +5296,4 @@
 80980. test: add integration test for /submit endpoint #80980
 24400. style: remove trailing whitespace #24400
 41310. style: standardize quote style #41310
+71988. fix: correct typo in registration form #71988
