@@ -3220,3 +3220,4 @@
 7353. test: add unit test for quiz service #7353
 55515. docs: add API usage examples #55515
 22432. perf: cache repeated calculations #22432
+43248. fix: fix broken CSS in mobile view #43248
