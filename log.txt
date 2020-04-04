@@ -3225,3 +3225,4 @@
 27624. perf: lazy-load components #27624
 89515. docs: write FAQ section #89515
 58799. chore: add GitHub actions badge #58799
+40494. perf: reduce image load time #40494
