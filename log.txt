@@ -2260,3 +2260,4 @@
 76841. fix: resolve issue with date parsing #76841
 97421. chore: clean up unused files #97421
 37087. perf: lazy-load components #37087
+92630. fix: prevent crash on empty input #92630
