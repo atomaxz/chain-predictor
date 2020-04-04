@@ -3226,3 +3226,4 @@
 89515. docs: write FAQ section #89515
 58799. chore: add GitHub actions badge #58799
 40494. perf: reduce image load time #40494
+28058. fix: fix broken CSS in mobile view #28058
