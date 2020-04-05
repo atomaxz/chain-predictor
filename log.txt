@@ -3229,3 +3229,4 @@
 28058. fix: fix broken CSS in mobile view #28058
 32709. refactor: clean up auth middleware #32709
 83004. fix: handle 500 error in quiz API #83004
+60714. feat: enable dark mode toggle #60714
