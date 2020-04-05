@@ -2264,3 +2264,4 @@
 86225. test: test user registration edge cases #86225
 3539. test: test user registration edge cases #3539
 79735. refactor: remove redundant code blocks #79735
+26762. chore: bump dependencies #26762
