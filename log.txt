@@ -4278,3 +4278,4 @@
 79494. chore: bump dependencies #79494
 58551. feat: add user authentication #58551
 87599. feat: enable dark mode toggle #87599
+78017. docs: document token refresh logic #78017
