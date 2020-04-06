@@ -3230,3 +3230,4 @@
 32709. refactor: clean up auth middleware #32709
 83004. fix: handle 500 error in quiz API #83004
 60714. feat: enable dark mode toggle #60714
+47021. refactor: organize models into subfolders #47021
