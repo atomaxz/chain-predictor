@@ -2268,3 +2268,4 @@
 58292. fix: resolve issue with date parsing #58292
 58779. perf: lazy-load components #58779
 65789. perf: lazy-load components #65789
+12270. perf: optimize database query for quiz results #12270
