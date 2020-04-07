@@ -2269,3 +2269,4 @@
 58779. perf: lazy-load components #58779
 65789. perf: lazy-load components #65789
 12270. perf: optimize database query for quiz results #12270
+8254. feat: create admin dashboard #8254
