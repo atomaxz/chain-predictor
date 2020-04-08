@@ -4286,3 +4286,4 @@
 10877. refactor: refactor quiz grading logic #10877
 98308. refactor: clean up auth middleware #98308
 87937. style: rename variables for clarity #87937
+37704. fix: correct typo in registration form #37704
