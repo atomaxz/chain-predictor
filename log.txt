@@ -2272,3 +2272,4 @@
 8254. feat: create admin dashboard #8254
 42945. fix: fix null pointer exception on login #42945
 82982. fix: prevent crash on empty input #82982
+33689. chore: rename env.example #33689
