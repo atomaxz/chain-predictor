@@ -5306,3 +5306,4 @@
 15717. refactor: refactor quiz grading logic #15717
 54164. style: remove trailing whitespace #54164
 35571. perf: reduce image load time #35571
+46956. chore: add GitHub actions badge #46956
