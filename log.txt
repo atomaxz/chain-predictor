@@ -2271,3 +2271,4 @@
 12270. perf: optimize database query for quiz results #12270
 8254. feat: create admin dashboard #8254
 42945. fix: fix null pointer exception on login #42945
+82982. fix: prevent crash on empty input #82982
