@@ -5308,3 +5308,4 @@
 35571. perf: reduce image load time #35571
 46956. chore: add GitHub actions badge #46956
 71488. fix: correct typo in registration form #71488
+56843. chore: clean up unused files #56843
