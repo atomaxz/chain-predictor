@@ -3236,3 +3236,4 @@
 71937. refactor: clean up auth middleware #71937
 71551. feat: add export to CSV option #71551
 25523. test: increase coverage on auth module #25523
+69711. test: mock database connection in test suite #69711
