@@ -4288,3 +4288,4 @@
 87937. style: rename variables for clarity #87937
 37704. fix: correct typo in registration form #37704
 24511. style: remove trailing whitespace #24511
+26208. docs: clarify environment setup #26208
