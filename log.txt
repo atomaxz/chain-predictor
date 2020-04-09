@@ -3235,3 +3235,4 @@
 97524. style: rename variables for clarity #97524
 71937. refactor: clean up auth middleware #71937
 71551. feat: add export to CSV option #71551
+25523. test: increase coverage on auth module #25523
