@@ -5315,3 +5315,4 @@
 59389. refactor: refactor quiz grading logic #59389
 77292. test: add unit test for quiz service #77292
 64503. docs: update README with setup steps #64503
+90449. fix: handle 500 error in quiz API #90449
