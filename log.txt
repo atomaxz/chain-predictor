@@ -3241,3 +3241,4 @@
 35927. docs: improve code comments in utils #35927
 36212. style: reformat files with black #36212
 31416. chore: update .gitignore #31416
+63525. perf: lazy-load components #63525
