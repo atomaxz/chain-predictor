@@ -4298,3 +4298,4 @@
 5893. feat: add export to CSV option #5893
 65227. fix: handle 500 error in quiz API #65227
 40801. style: remove trailing whitespace #40801
+39244. fix: correct typo in registration form #39244
