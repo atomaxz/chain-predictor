@@ -4296,3 +4296,4 @@
 1241. chore: bump dependencies #1241
 16340. chore: clean up unused files #16340
 5893. feat: add export to CSV option #5893
+65227. fix: handle 500 error in quiz API #65227
