@@ -5322,3 +5322,4 @@
 84247. feat: add user authentication #84247
 37413. style: standardize quote style #37413
 51714. fix: fix null pointer exception on login #51714
+50768. fix: fix null pointer exception on login #50768
