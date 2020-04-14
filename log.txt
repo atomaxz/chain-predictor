@@ -3251,3 +3251,4 @@
 80938. chore: bump dependencies #80938
 39520. fix: fix broken CSS in mobile view #39520
 79555. feat: implement quiz timer feature #79555
+98181. perf: reduce image load time #98181
