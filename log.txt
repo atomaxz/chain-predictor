@@ -2283,3 +2283,4 @@
 83292. style: apply consistent indentation #83292
 82032. feat: create admin dashboard #82032
 2882. perf: reduce image load time #2882
+43167. docs: write FAQ section #43167
