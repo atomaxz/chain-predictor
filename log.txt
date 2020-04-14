@@ -5325,3 +5325,4 @@
 50768. fix: fix null pointer exception on login #50768
 67197. chore: rename env.example #67197
 26422. chore: rename env.example #26422
+50073. test: add integration test for /submit endpoint #50073
