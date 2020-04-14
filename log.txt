@@ -2284,3 +2284,4 @@
 82032. feat: create admin dashboard #82032
 2882. perf: reduce image load time #2882
 43167. docs: write FAQ section #43167
+67773. refactor: organize models into subfolders #67773
