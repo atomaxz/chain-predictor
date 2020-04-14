@@ -4309,3 +4309,4 @@
 51932. test: increase coverage on auth module #51932
 5814. feat: create admin dashboard #5814
 28066. perf: cache repeated calculations #28066
+33121. refactor: clean up auth middleware #33121
