@@ -5331,3 +5331,4 @@
 73089. docs: write FAQ section #73089
 4272. refactor: organize models into subfolders #4272
 41766. perf: cache repeated calculations #41766
+89202. perf: cache repeated calculations #89202
