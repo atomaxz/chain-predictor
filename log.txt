@@ -5332,3 +5332,4 @@
 4272. refactor: organize models into subfolders #4272
 41766. perf: cache repeated calculations #41766
 89202. perf: cache repeated calculations #89202
+66284. fix: fix broken CSS in mobile view #66284
