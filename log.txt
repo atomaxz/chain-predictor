@@ -2290,3 +2290,4 @@
 0033. test: add integration test for /submit endpoint #33
 85789. test: add integration test for /submit endpoint #85789
 23477. refactor: refactor quiz grading logic #23477
+10408. refactor: remove redundant code blocks #10408
