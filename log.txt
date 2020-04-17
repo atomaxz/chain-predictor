@@ -5335,3 +5335,4 @@
 66284. fix: fix broken CSS in mobile view #66284
 17338. perf: cache repeated calculations #17338
 49379. fix: handle 500 error in quiz API #49379
+69326. style: standardize quote style #69326
