@@ -4315,3 +4315,4 @@
 92425. fix: correct typo in registration form #92425
 29678. feat: implement quiz timer feature #29678
 49275. chore: update .gitignore #49275
+67435. docs: clarify environment setup #67435
