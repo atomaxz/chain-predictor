@@ -4314,3 +4314,4 @@
 26979. refactor: organize models into subfolders #26979
 92425. fix: correct typo in registration form #92425
 29678. feat: implement quiz timer feature #29678
+49275. chore: update .gitignore #49275
