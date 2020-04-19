@@ -2296,3 +2296,4 @@
 73386. test: test user registration edge cases #73386
 98497. style: remove trailing whitespace #98497
 26264. docs: write FAQ section #26264
+20755. docs: document token refresh logic #20755
