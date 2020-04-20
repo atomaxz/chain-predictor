@@ -5340,3 +5340,4 @@
 10894. fix: resolve issue with date parsing #10894
 94090. refactor: refactor quiz grading logic #94090
 15068. chore: bump dependencies #15068
+14002. fix: handle 500 error in quiz API #14002
