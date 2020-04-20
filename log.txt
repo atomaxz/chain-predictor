@@ -2301,3 +2301,4 @@
 71341. fix: prevent crash on empty input #71341
 68714. refactor: organize models into subfolders #68714
 65996. style: apply consistent indentation #65996
+43545. fix: prevent crash on empty input #43545
