@@ -2303,3 +2303,4 @@
 65996. style: apply consistent indentation #65996
 43545. fix: prevent crash on empty input #43545
 70548. chore: update .gitignore #70548
+8684. perf: optimize database query for quiz results #8684
