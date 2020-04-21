@@ -5341,3 +5341,4 @@
 94090. refactor: refactor quiz grading logic #94090
 15068. chore: bump dependencies #15068
 14002. fix: handle 500 error in quiz API #14002
+82969. feat: enable dark mode toggle #82969
