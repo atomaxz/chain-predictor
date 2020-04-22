@@ -4321,3 +4321,4 @@
 24408. refactor: split large controller into smaller functions #24408
 1501. style: standardize quote style #1501
 82379. perf: cache repeated calculations #82379
+44835. perf: lazy-load components #44835
