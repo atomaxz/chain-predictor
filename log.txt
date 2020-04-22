@@ -2308,3 +2308,4 @@
 58191. docs: update README with setup steps #58191
 42961. chore: add GitHub actions badge #42961
 32050. perf: cache repeated calculations #32050
+6402. perf: reduce image load time #6402
