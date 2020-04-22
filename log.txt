@@ -2306,3 +2306,4 @@
 8684. perf: optimize database query for quiz results #8684
 8232. docs: add API usage examples #8232
 58191. docs: update README with setup steps #58191
+42961. chore: add GitHub actions badge #42961
