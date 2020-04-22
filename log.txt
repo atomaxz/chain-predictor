@@ -5343,3 +5343,4 @@
 14002. fix: handle 500 error in quiz API #14002
 82969. feat: enable dark mode toggle #82969
 48439. style: reformat files with black #48439
+27929. docs: update README with setup steps #27929
