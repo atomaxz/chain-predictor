@@ -2310,3 +2310,4 @@
 32050. perf: cache repeated calculations #32050
 6402. perf: reduce image load time #6402
 50576. perf: cache repeated calculations #50576
+99719. feat: support email verification #99719
