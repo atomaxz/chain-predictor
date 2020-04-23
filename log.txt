@@ -5345,3 +5345,4 @@
 48439. style: reformat files with black #48439
 27929. docs: update README with setup steps #27929
 86013. perf: lazy-load components #86013
+2352. docs: clarify environment setup #2352
