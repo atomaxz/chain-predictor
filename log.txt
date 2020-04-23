@@ -3272,3 +3272,4 @@
 63829. perf: reduce image load time #63829
 73505. fix: prevent crash on empty input #73505
 8427. feat: support email verification #8427
+11949. docs: add API usage examples #11949
