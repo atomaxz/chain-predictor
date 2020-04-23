@@ -3273,3 +3273,4 @@
 73505. fix: prevent crash on empty input #73505
 8427. feat: support email verification #8427
 11949. docs: add API usage examples #11949
+52043. test: test user registration edge cases #52043
