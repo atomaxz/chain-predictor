@@ -2312,3 +2312,4 @@
 50576. perf: cache repeated calculations #50576
 99719. feat: support email verification #99719
 41822. style: remove trailing whitespace #41822
+80073. perf: optimize database query for quiz results #80073
