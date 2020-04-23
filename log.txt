@@ -2311,3 +2311,4 @@
 6402. perf: reduce image load time #6402
 50576. perf: cache repeated calculations #50576
 99719. feat: support email verification #99719
+41822. style: remove trailing whitespace #41822
