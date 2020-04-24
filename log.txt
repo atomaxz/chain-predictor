@@ -4330,3 +4330,4 @@
 2795. feat: implement quiz timer feature #2795
 88966. style: reformat files with black #88966
 64589. test: add integration test for /submit endpoint #64589
+7656. perf: cache repeated calculations #7656
