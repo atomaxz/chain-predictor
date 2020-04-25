@@ -4335,3 +4335,4 @@
 67383. docs: document token refresh logic #67383
 24567. style: remove trailing whitespace #24567
 3300. feat: implement quiz timer feature #3300
+65804. fix: prevent crash on empty input #65804
