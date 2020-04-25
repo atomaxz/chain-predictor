@@ -2315,3 +2315,4 @@
 80073. perf: optimize database query for quiz results #80073
 46670. style: remove trailing whitespace #46670
 88589. refactor: clean up auth middleware #88589
+38867. test: test user registration edge cases #38867
