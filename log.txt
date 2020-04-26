@@ -4340,3 +4340,4 @@
 73067. chore: rename env.example #73067
 1095. docs: clarify environment setup #1095
 88228. perf: cache repeated calculations #88228
+57157. perf: optimize database query for quiz results #57157
