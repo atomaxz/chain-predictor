@@ -3277,3 +3277,4 @@
 38863. chore: add GitHub actions badge #38863
 61585. chore: add GitHub actions badge #61585
 97291. docs: improve code comments in utils #97291
+33380. fix: fix broken CSS in mobile view #33380
