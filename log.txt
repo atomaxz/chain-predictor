@@ -3281,3 +3281,4 @@
 37159. fix: prevent crash on empty input #37159
 78216. style: rename variables for clarity #78216
 4642. chore: bump dependencies #4642
+18824. feat: add export to CSV option #18824
