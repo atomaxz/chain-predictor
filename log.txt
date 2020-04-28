@@ -3284,3 +3284,4 @@
 18824. feat: add export to CSV option #18824
 97535. feat: add user authentication #97535
 80973. chore: add GitHub actions badge #80973
+48806. fix: handle 500 error in quiz API #48806
