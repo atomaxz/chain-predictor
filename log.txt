@@ -3285,3 +3285,4 @@
 97535. feat: add user authentication #97535
 80973. chore: add GitHub actions badge #80973
 48806. fix: handle 500 error in quiz API #48806
+13756. perf: reduce image load time #13756
