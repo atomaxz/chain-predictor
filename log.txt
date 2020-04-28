@@ -2318,3 +2318,4 @@
 38867. test: test user registration edge cases #38867
 79818. refactor: organize models into subfolders #79818
 73950. refactor: split large controller into smaller functions #73950
+15236. fix: fix null pointer exception on login #15236
