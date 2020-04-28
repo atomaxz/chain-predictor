@@ -3287,3 +3287,4 @@
 48806. fix: handle 500 error in quiz API #48806
 13756. perf: reduce image load time #13756
 84359. refactor: refactor quiz grading logic #84359
+82202. test: add integration test for /submit endpoint #82202
