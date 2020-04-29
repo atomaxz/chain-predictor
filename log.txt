@@ -2320,3 +2320,4 @@
 73950. refactor: split large controller into smaller functions #73950
 15236. fix: fix null pointer exception on login #15236
 14925. perf: reduce image load time #14925
+19437. feat: enable dark mode toggle #19437
