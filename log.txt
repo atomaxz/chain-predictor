@@ -3298,3 +3298,4 @@
 13951. test: test user registration edge cases #13951
 25693. docs: clarify environment setup #25693
 81715. test: add integration test for /submit endpoint #81715
+93803. fix: correct typo in registration form #93803
