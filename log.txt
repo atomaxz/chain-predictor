@@ -5365,3 +5365,4 @@
 73196. docs: update README with setup steps #73196
 33898. feat: support email verification #33898
 96068. docs: write FAQ section #96068
+68218. chore: rename env.example #68218
