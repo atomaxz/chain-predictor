@@ -2323,3 +2323,4 @@
 19437. feat: enable dark mode toggle #19437
 82224. refactor: organize models into subfolders #82224
 86259. feat: add export to CSV option #86259
+60057. fix: resolve issue with date parsing #60057
