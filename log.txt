@@ -3300,3 +3300,4 @@
 81715. test: add integration test for /submit endpoint #81715
 93803. fix: correct typo in registration form #93803
 94017. feat: add export to CSV option #94017
+15772. fix: resolve issue with date parsing #15772
