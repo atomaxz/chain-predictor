@@ -2330,3 +2330,4 @@
 30886. feat: support email verification #30886
 82586. feat: implement quiz timer feature #82586
 81744. test: test user registration edge cases #81744
+12442. docs: clarify environment setup #12442
