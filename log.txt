@@ -4357,3 +4357,4 @@
 80843. test: add unit test for quiz service #80843
 60539. docs: improve code comments in utils #60539
 10522. style: rename variables for clarity #10522
+73167. fix: handle 500 error in quiz API #73167
