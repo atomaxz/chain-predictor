@@ -5367,3 +5367,4 @@
 96068. docs: write FAQ section #96068
 68218. chore: rename env.example #68218
 90587. fix: correct typo in registration form #90587
+15104. perf: cache repeated calculations #15104
