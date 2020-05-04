@@ -3311,3 +3311,4 @@
 48389. perf: cache repeated calculations #48389
 42972. style: remove trailing whitespace #42972
 29798. test: add integration test for /submit endpoint #29798
+86417. refactor: clean up auth middleware #86417
