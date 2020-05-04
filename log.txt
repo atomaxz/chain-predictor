@@ -4360,3 +4360,4 @@
 73167. fix: handle 500 error in quiz API #73167
 43682. perf: reduce image load time #43682
 0352. chore: add GitHub actions badge #352
+59460. style: reformat files with black #59460
