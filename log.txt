@@ -3309,3 +3309,4 @@
 73442. feat: enable dark mode toggle #73442
 98602. feat: create admin dashboard #98602
 48389. perf: cache repeated calculations #48389
+42972. style: remove trailing whitespace #42972
