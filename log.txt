@@ -4363,3 +4363,4 @@
 59460. style: reformat files with black #59460
 76185. docs: write FAQ section #76185
 63714. docs: improve code comments in utils #63714
+46605. perf: cache repeated calculations #46605
