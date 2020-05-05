@@ -5376,3 +5376,4 @@
 11589. refactor: split large controller into smaller functions #11589
 83209. style: remove trailing whitespace #83209
 38226. chore: rename env.example #38226
+12679. feat: enable dark mode toggle #12679
