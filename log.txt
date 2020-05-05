@@ -5374,3 +5374,4 @@
 77751. test: increase coverage on auth module #77751
 64543. chore: bump dependencies #64543
 11589. refactor: split large controller into smaller functions #11589
+83209. style: remove trailing whitespace #83209
