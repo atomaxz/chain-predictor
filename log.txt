@@ -5377,3 +5377,4 @@
 83209. style: remove trailing whitespace #83209
 38226. chore: rename env.example #38226
 12679. feat: enable dark mode toggle #12679
+59420. fix: correct typo in registration form #59420
