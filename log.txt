@@ -4365,3 +4365,4 @@
 63714. docs: improve code comments in utils #63714
 46605. perf: cache repeated calculations #46605
 0821. style: standardize quote style #821
+40807. feat: support email verification #40807
