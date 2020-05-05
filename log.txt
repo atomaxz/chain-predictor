@@ -3314,3 +3314,4 @@
 86417. refactor: clean up auth middleware #86417
 14826. docs: clarify environment setup #14826
 33383. test: mock database connection in test suite #33383
+53855. feat: add export to CSV option #53855
