@@ -4366,3 +4366,4 @@
 46605. perf: cache repeated calculations #46605
 0821. style: standardize quote style #821
 40807. feat: support email verification #40807
+95612. test: add unit test for quiz service #95612
