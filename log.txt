@@ -5380,3 +5380,4 @@
 59420. fix: correct typo in registration form #59420
 57916. test: test user registration edge cases #57916
 90372. perf: optimize database query for quiz results #90372
+64607. fix: prevent crash on empty input #64607
