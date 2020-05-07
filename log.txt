@@ -4373,3 +4373,4 @@
 99971. test: add integration test for /submit endpoint #99971
 30035. docs: add API usage examples #30035
 22897. style: apply consistent indentation #22897
+9903. docs: document token refresh logic #9903
