@@ -2343,3 +2343,4 @@
 62067. refactor: split large controller into smaller functions #62067
 41925. style: reformat files with black #41925
 74574. test: increase coverage on auth module #74574
+7023. docs: add API usage examples #7023
