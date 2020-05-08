@@ -4377,3 +4377,4 @@
 47457. feat: create admin dashboard #47457
 61755. docs: improve code comments in utils #61755
 85251. perf: optimize database query for quiz results #85251
+94073. perf: lazy-load components #94073
