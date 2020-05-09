@@ -2348,3 +2348,4 @@
 89277. refactor: split large controller into smaller functions #89277
 92489. refactor: split large controller into smaller functions #92489
 64006. style: remove trailing whitespace #64006
+10566. feat: support email verification #10566
