@@ -3324,3 +3324,4 @@
 75118. docs: add API usage examples #75118
 7762. perf: reduce image load time #7762
 19522. style: apply consistent indentation #19522
+64575. test: test user registration edge cases #64575
