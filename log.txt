@@ -5391,3 +5391,4 @@
 24183. fix: handle 500 error in quiz API #24183
 52841. refactor: organize models into subfolders #52841
 86375. feat: implement quiz timer feature #86375
+97472. feat: enable dark mode toggle #97472
