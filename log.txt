@@ -4392,3 +4392,4 @@
 88843. docs: write FAQ section #88843
 34068. refactor: organize models into subfolders #34068
 41968. chore: rename env.example #41968
+70940. docs: update README with setup steps #70940
