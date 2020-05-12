@@ -2356,3 +2356,4 @@
 2564. feat: support email verification #2564
 5019. fix: prevent crash on empty input #5019
 42127. style: standardize quote style #42127
+53462. test: add integration test for /submit endpoint #53462
