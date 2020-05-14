@@ -5395,3 +5395,4 @@
 0070. perf: optimize database query for quiz results #70
 96888. test: test user registration edge cases #96888
 21679. style: reformat files with black #21679
+38813. perf: optimize database query for quiz results #38813
