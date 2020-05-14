@@ -3330,3 +3330,4 @@
 85945. docs: document token refresh logic #85945
 39898. style: standardize quote style #39898
 50809. docs: add API usage examples #50809
+70117. perf: cache repeated calculations #70117
