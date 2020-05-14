@@ -5396,3 +5396,4 @@
 96888. test: test user registration edge cases #96888
 21679. style: reformat files with black #21679
 38813. perf: optimize database query for quiz results #38813
+2204. test: mock database connection in test suite #2204
