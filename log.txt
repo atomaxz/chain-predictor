@@ -4400,3 +4400,4 @@
 66693. feat: add user authentication #66693
 82518. style: apply consistent indentation #82518
 20632. perf: cache repeated calculations #20632
+9486. perf: optimize database query for quiz results #9486
