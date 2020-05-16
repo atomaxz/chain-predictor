@@ -5402,3 +5402,4 @@
 11963. docs: write FAQ section #11963
 8590. perf: lazy-load components #8590
 98231. chore: add GitHub actions badge #98231
+84357. style: reformat files with black #84357
