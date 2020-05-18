@@ -2368,3 +2368,4 @@
 59904. docs: add API usage examples #59904
 82144. feat: add export to CSV option #82144
 46403. perf: reduce image load time #46403
+15648. fix: prevent crash on empty input #15648
