@@ -5406,3 +5406,4 @@
 94878. fix: resolve issue with date parsing #94878
 85025. style: standardize quote style #85025
 59914. fix: correct typo in registration form #59914
+37721. docs: write FAQ section #37721
