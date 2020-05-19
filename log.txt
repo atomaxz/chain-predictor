@@ -2375,3 +2375,4 @@
 63527. docs: clarify environment setup #63527
 23791. style: standardize quote style #23791
 36166. refactor: remove redundant code blocks #36166
+83432. perf: lazy-load components #83432
