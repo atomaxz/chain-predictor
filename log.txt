@@ -5413,3 +5413,4 @@
 63629. docs: add API usage examples #63629
 99248. docs: clarify environment setup #99248
 61833. refactor: remove redundant code blocks #61833
+35769. feat: support email verification #35769
