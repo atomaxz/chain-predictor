@@ -3349,3 +3349,4 @@
 82638. style: reformat files with black #82638
 23541. test: test user registration edge cases #23541
 16632. style: standardize quote style #16632
+91580. style: reformat files with black #91580
