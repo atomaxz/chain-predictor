@@ -3347,3 +3347,4 @@
 86162. refactor: refactor quiz grading logic #86162
 45163. perf: optimize database query for quiz results #45163
 82638. style: reformat files with black #82638
+23541. test: test user registration edge cases #23541
