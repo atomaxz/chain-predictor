@@ -3352,3 +3352,4 @@
 91580. style: reformat files with black #91580
 82181. fix: correct typo in registration form #82181
 62293. fix: resolve issue with date parsing #62293
+27683. test: mock database connection in test suite #27683
