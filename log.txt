@@ -3353,3 +3353,4 @@
 82181. fix: correct typo in registration form #82181
 62293. fix: resolve issue with date parsing #62293
 27683. test: mock database connection in test suite #27683
+17898. perf: optimize database query for quiz results #17898
