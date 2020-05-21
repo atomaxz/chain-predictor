@@ -2378,3 +2378,4 @@
 83432. perf: lazy-load components #83432
 63135. refactor: refactor quiz grading logic #63135
 64175. refactor: organize models into subfolders #64175
+4655. fix: fix broken CSS in mobile view #4655
