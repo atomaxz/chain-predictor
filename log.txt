@@ -4415,3 +4415,4 @@
 45939. docs: update README with setup steps #45939
 76538. perf: lazy-load components #76538
 1781. feat: implement quiz timer feature #1781
+42079. chore: add GitHub actions badge #42079
