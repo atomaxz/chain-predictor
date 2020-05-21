@@ -4413,3 +4413,4 @@
 31652. style: standardize quote style #31652
 54835. style: reformat files with black #54835
 45939. docs: update README with setup steps #45939
+76538. perf: lazy-load components #76538
