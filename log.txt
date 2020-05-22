@@ -4418,3 +4418,4 @@
 42079. chore: add GitHub actions badge #42079
 20393. feat: support email verification #20393
 65280. test: increase coverage on auth module #65280
+98390. refactor: clean up auth middleware #98390
