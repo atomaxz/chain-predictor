@@ -4417,3 +4417,4 @@
 1781. feat: implement quiz timer feature #1781
 42079. chore: add GitHub actions badge #42079
 20393. feat: support email verification #20393
+65280. test: increase coverage on auth module #65280
