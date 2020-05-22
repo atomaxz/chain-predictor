@@ -4419,3 +4419,4 @@
 20393. feat: support email verification #20393
 65280. test: increase coverage on auth module #65280
 98390. refactor: clean up auth middleware #98390
+71488. fix: correct typo in registration form #71488
