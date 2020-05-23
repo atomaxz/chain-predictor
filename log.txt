@@ -2386,3 +2386,4 @@
 2679. perf: reduce image load time #2679
 0219. feat: implement quiz timer feature #219
 80943. fix: resolve issue with date parsing #80943
+77010. refactor: refactor quiz grading logic #77010
