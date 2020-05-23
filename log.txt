@@ -3361,3 +3361,4 @@
 47377. test: test user registration edge cases #47377
 64893. perf: lazy-load components #64893
 52107. perf: cache repeated calculations #52107
+67274. docs: write FAQ section #67274
