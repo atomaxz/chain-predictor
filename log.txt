@@ -3358,3 +3358,4 @@
 78143. feat: implement quiz timer feature #78143
 69466. fix: fix null pointer exception on login #69466
 65662. style: remove trailing whitespace #65662
+47377. test: test user registration edge cases #47377
