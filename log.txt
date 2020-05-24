@@ -5423,3 +5423,4 @@
 22402. refactor: refactor quiz grading logic #22402
 33862. docs: add API usage examples #33862
 84864. refactor: organize models into subfolders #84864
+52960. fix: prevent crash on empty input #52960
