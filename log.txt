@@ -5424,3 +5424,4 @@
 33862. docs: add API usage examples #33862
 84864. refactor: organize models into subfolders #84864
 52960. fix: prevent crash on empty input #52960
+72586. test: add integration test for /submit endpoint #72586
