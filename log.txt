@@ -4425,3 +4425,4 @@
 42850. refactor: split large controller into smaller functions #42850
 41598. test: add unit test for quiz service #41598
 4616. style: remove trailing whitespace #4616
+45970. docs: write FAQ section #45970
