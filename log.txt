@@ -3371,3 +3371,4 @@
 82226. test: add integration test for /submit endpoint #82226
 52976. feat: implement quiz timer feature #52976
 51807. fix: fix null pointer exception on login #51807
+83855. test: mock database connection in test suite #83855
