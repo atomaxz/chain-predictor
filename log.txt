@@ -3375,3 +3375,4 @@
 24687. chore: clean up unused files #24687
 38164. style: standardize quote style #38164
 17388. feat: create admin dashboard #17388
+61144. chore: add GitHub actions badge #61144
