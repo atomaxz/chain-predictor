@@ -3372,3 +3372,4 @@
 52976. feat: implement quiz timer feature #52976
 51807. fix: fix null pointer exception on login #51807
 83855. test: mock database connection in test suite #83855
+24687. chore: clean up unused files #24687
