@@ -2406,3 +2406,4 @@
 29617. docs: write FAQ section #29617
 63370. docs: write FAQ section #63370
 28868. test: add integration test for /submit endpoint #28868
+21990. docs: clarify environment setup #21990
