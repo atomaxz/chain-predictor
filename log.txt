@@ -2402,3 +2402,4 @@
 20198. feat: create admin dashboard #20198
 80847. docs: update README with setup steps #80847
 91924. perf: cache repeated calculations #91924
+27123. perf: reduce image load time #27123
