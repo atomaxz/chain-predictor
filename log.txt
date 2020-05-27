@@ -2407,3 +2407,4 @@
 63370. docs: write FAQ section #63370
 28868. test: add integration test for /submit endpoint #28868
 21990. docs: clarify environment setup #21990
+58442. test: mock database connection in test suite #58442
