@@ -4437,3 +4437,4 @@
 21186. test: increase coverage on auth module #21186
 64470. style: standardize quote style #64470
 28350. fix: fix null pointer exception on login #28350
+32874. test: increase coverage on auth module #32874
