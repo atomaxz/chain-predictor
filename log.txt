@@ -4435,3 +4435,4 @@
 60615. style: reformat files with black #60615
 44393. style: apply consistent indentation #44393
 21186. test: increase coverage on auth module #21186
+64470. style: standardize quote style #64470
