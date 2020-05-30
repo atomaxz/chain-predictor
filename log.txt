@@ -4436,3 +4436,4 @@
 44393. style: apply consistent indentation #44393
 21186. test: increase coverage on auth module #21186
 64470. style: standardize quote style #64470
+28350. fix: fix null pointer exception on login #28350
