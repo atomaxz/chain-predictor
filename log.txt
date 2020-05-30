@@ -3390,3 +3390,4 @@
 15665. style: reformat files with black #15665
 30674. chore: add GitHub actions badge #30674
 9874. style: standardize quote style #9874
+35182. refactor: remove redundant code blocks #35182
