@@ -3389,3 +3389,4 @@
 0929. style: reformat files with black #929
 15665. style: reformat files with black #15665
 30674. chore: add GitHub actions badge #30674
+9874. style: standardize quote style #9874
