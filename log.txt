@@ -3391,3 +3391,4 @@
 30674. chore: add GitHub actions badge #30674
 9874. style: standardize quote style #9874
 35182. refactor: remove redundant code blocks #35182
+26883. docs: update README with setup steps #26883
