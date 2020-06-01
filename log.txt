@@ -2418,3 +2418,4 @@
 12342. test: add integration test for /submit endpoint #12342
 57456. feat: create admin dashboard #57456
 72938. chore: rename env.example #72938
+38548. test: mock database connection in test suite #38548
