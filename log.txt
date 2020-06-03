@@ -4450,3 +4450,4 @@
 75612. docs: document token refresh logic #75612
 18217. perf: cache repeated calculations #18217
 38242. style: reformat files with black #38242
+24164. fix: fix broken CSS in mobile view #24164
