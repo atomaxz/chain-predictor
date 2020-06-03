@@ -2421,3 +2421,4 @@
 38548. test: mock database connection in test suite #38548
 10130. test: add unit test for quiz service #10130
 24331. refactor: remove redundant code blocks #24331
+25739. refactor: split large controller into smaller functions #25739
