@@ -2420,3 +2420,4 @@
 72938. chore: rename env.example #72938
 38548. test: mock database connection in test suite #38548
 10130. test: add unit test for quiz service #10130
+24331. refactor: remove redundant code blocks #24331
