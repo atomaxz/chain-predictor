@@ -4452,3 +4452,4 @@
 38242. style: reformat files with black #38242
 24164. fix: fix broken CSS in mobile view #24164
 20552. chore: add GitHub actions badge #20552
+7639. feat: create admin dashboard #7639
