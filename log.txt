@@ -3405,3 +3405,4 @@
 0566. perf: lazy-load components #566
 18544. perf: lazy-load components #18544
 2695. test: test user registration edge cases #2695
+26751. perf: optimize database query for quiz results #26751
