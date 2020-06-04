@@ -2422,3 +2422,4 @@
 10130. test: add unit test for quiz service #10130
 24331. refactor: remove redundant code blocks #24331
 25739. refactor: split large controller into smaller functions #25739
+1273. fix: correct typo in registration form #1273
