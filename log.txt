@@ -4455,3 +4455,4 @@
 7639. feat: create admin dashboard #7639
 16786. feat: enable dark mode toggle #16786
 33816. docs: clarify environment setup #33816
+45490. docs: document token refresh logic #45490
