@@ -2425,3 +2425,4 @@
 1273. fix: correct typo in registration form #1273
 76834. perf: cache repeated calculations #76834
 82484. chore: clean up unused files #82484
+71649. perf: lazy-load components #71649
