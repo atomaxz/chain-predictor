@@ -3409,3 +3409,4 @@
 58801. test: test user registration edge cases #58801
 83305. feat: enable dark mode toggle #83305
 25915. docs: improve code comments in utils #25915
+76016. fix: handle 500 error in quiz API #76016
