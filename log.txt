@@ -3410,3 +3410,4 @@
 83305. feat: enable dark mode toggle #83305
 25915. docs: improve code comments in utils #25915
 76016. fix: handle 500 error in quiz API #76016
+14853. chore: update .gitignore #14853
