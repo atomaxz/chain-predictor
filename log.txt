@@ -3414,3 +3414,4 @@
 55387. chore: bump dependencies #55387
 60171. docs: write FAQ section #60171
 37865. fix: resolve issue with date parsing #37865
+56062. chore: rename env.example #56062
