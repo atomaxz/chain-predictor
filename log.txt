@@ -3412,3 +3412,4 @@
 76016. fix: handle 500 error in quiz API #76016
 14853. chore: update .gitignore #14853
 55387. chore: bump dependencies #55387
+60171. docs: write FAQ section #60171
