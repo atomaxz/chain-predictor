@@ -2427,3 +2427,4 @@
 82484. chore: clean up unused files #82484
 71649. perf: lazy-load components #71649
 95793. chore: clean up unused files #95793
+45938. perf: lazy-load components #45938
