@@ -4464,3 +4464,4 @@
 84154. fix: handle 500 error in quiz API #84154
 43482. refactor: remove redundant code blocks #43482
 39413. feat: add export to CSV option #39413
+6575. chore: add GitHub actions badge #6575
