@@ -4468,3 +4468,4 @@
 89578. docs: document token refresh logic #89578
 8611. docs: write FAQ section #8611
 53435. feat: support email verification #53435
+13453. test: increase coverage on auth module #13453
