@@ -4471,3 +4471,4 @@
 13453. test: increase coverage on auth module #13453
 47826. fix: fix null pointer exception on login #47826
 23112. docs: improve code comments in utils #23112
+98803. test: increase coverage on auth module #98803
