@@ -3422,3 +3422,4 @@
 56598. fix: handle 500 error in quiz API #56598
 25685. fix: fix null pointer exception on login #25685
 59342. style: reformat files with black #59342
+58877. test: increase coverage on auth module #58877
