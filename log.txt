@@ -5464,3 +5464,4 @@
 34305. fix: fix broken CSS in mobile view #34305
 95235. feat: implement quiz timer feature #95235
 42731. test: increase coverage on auth module #42731
+16089. chore: clean up unused files #16089
