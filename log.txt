@@ -2439,3 +2439,4 @@
 3076. style: remove trailing whitespace #3076
 92282. chore: update .gitignore #92282
 64553. feat: add export to CSV option #64553
+47684. perf: cache repeated calculations #47684
