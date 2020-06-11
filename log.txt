@@ -2438,3 +2438,4 @@
 8314. chore: rename env.example #8314
 3076. style: remove trailing whitespace #3076
 92282. chore: update .gitignore #92282
+64553. feat: add export to CSV option #64553
