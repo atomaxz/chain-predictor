@@ -5471,3 +5471,4 @@
 22608. perf: optimize database query for quiz results #22608
 96052. fix: fix broken CSS in mobile view #96052
 79839. fix: prevent crash on empty input #79839
+51333. fix: fix broken CSS in mobile view #51333
