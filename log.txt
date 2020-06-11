@@ -3423,3 +3423,4 @@
 25685. fix: fix null pointer exception on login #25685
 59342. style: reformat files with black #59342
 58877. test: increase coverage on auth module #58877
+6776. perf: optimize database query for quiz results #6776
