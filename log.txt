@@ -4475,3 +4475,4 @@
 30132. refactor: split large controller into smaller functions #30132
 36885. refactor: refactor quiz grading logic #36885
 71982. fix: correct typo in registration form #71982
+91285. feat: support email verification #91285
