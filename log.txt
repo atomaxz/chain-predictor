@@ -4476,3 +4476,4 @@
 36885. refactor: refactor quiz grading logic #36885
 71982. fix: correct typo in registration form #71982
 91285. feat: support email verification #91285
+45344. chore: bump dependencies #45344
