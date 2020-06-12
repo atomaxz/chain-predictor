@@ -3424,3 +3424,4 @@
 59342. style: reformat files with black #59342
 58877. test: increase coverage on auth module #58877
 6776. perf: optimize database query for quiz results #6776
+91370. test: add integration test for /submit endpoint #91370
