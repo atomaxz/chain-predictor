@@ -4478,3 +4478,4 @@
 91285. feat: support email verification #91285
 45344. chore: bump dependencies #45344
 7791. fix: fix null pointer exception on login #7791
+8715. docs: improve code comments in utils #8715
