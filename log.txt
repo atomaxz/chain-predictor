@@ -5477,3 +5477,4 @@
 52897. docs: add API usage examples #52897
 52842. fix: handle 500 error in quiz API #52842
 38487. perf: optimize database query for quiz results #38487
+67520. perf: cache repeated calculations #67520
