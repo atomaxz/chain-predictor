@@ -5476,3 +5476,4 @@
 25396. docs: improve code comments in utils #25396
 52897. docs: add API usage examples #52897
 52842. fix: handle 500 error in quiz API #52842
+38487. perf: optimize database query for quiz results #38487
