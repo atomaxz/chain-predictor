@@ -2448,3 +2448,4 @@
 18316. chore: bump dependencies #18316
 51207. style: reformat files with black #51207
 79146. docs: write FAQ section #79146
+80669. perf: cache repeated calculations #80669
