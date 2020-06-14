@@ -3432,3 +3432,4 @@
 58521. style: reformat files with black #58521
 39819. style: rename variables for clarity #39819
 77578. chore: clean up unused files #77578
+58961. test: increase coverage on auth module #58961
