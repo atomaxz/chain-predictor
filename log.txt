@@ -3431,3 +3431,4 @@
 75743. refactor: clean up auth middleware #75743
 58521. style: reformat files with black #58521
 39819. style: rename variables for clarity #39819
+77578. chore: clean up unused files #77578
