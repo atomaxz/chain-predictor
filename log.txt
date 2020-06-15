@@ -5483,3 +5483,4 @@
 16731. chore: update .gitignore #16731
 50007. perf: reduce image load time #50007
 98683. refactor: organize models into subfolders #98683
+70189. fix: fix broken CSS in mobile view #70189
