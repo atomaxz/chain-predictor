@@ -3436,3 +3436,4 @@
 53031. fix: correct typo in registration form #53031
 9577. test: test user registration edge cases #9577
 19767. refactor: remove redundant code blocks #19767
+62013. docs: update README with setup steps #62013
