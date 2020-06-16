@@ -4486,3 +4486,4 @@
 54406. refactor: organize models into subfolders #54406
 69561. docs: document token refresh logic #69561
 70609. style: apply consistent indentation #70609
+16236. fix: handle 500 error in quiz API #16236
