@@ -2450,3 +2450,4 @@
 79146. docs: write FAQ section #79146
 80669. perf: cache repeated calculations #80669
 35020. fix: fix broken CSS in mobile view #35020
+59944. feat: create admin dashboard #59944
