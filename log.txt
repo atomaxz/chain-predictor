@@ -5488,3 +5488,4 @@
 16257. style: apply consistent indentation #16257
 46749. perf: cache repeated calculations #46749
 83772. style: reformat files with black #83772
+88388. fix: correct typo in registration form #88388
