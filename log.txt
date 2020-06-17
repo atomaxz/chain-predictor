@@ -3438,3 +3438,4 @@
 19767. refactor: remove redundant code blocks #19767
 62013. docs: update README with setup steps #62013
 20721. fix: fix null pointer exception on login #20721
+86517. feat: enable dark mode toggle #86517
