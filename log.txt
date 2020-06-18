@@ -3443,3 +3443,4 @@
 46090. refactor: clean up auth middleware #46090
 16777. test: test user registration edge cases #16777
 95910. refactor: remove redundant code blocks #95910
+97211. fix: prevent crash on empty input #97211
