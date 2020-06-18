@@ -5491,3 +5491,4 @@
 88388. fix: correct typo in registration form #88388
 32967. feat: create admin dashboard #32967
 38564. fix: fix broken CSS in mobile view #38564
+87326. perf: cache repeated calculations #87326
