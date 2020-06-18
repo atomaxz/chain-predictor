@@ -3441,3 +3441,4 @@
 86517. feat: enable dark mode toggle #86517
 51503. refactor: organize models into subfolders #51503
 46090. refactor: clean up auth middleware #46090
+16777. test: test user registration edge cases #16777
