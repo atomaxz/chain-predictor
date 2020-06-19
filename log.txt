@@ -3449,3 +3449,4 @@
 53327. chore: rename env.example #53327
 21714. chore: rename env.example #21714
 39220. feat: create admin dashboard #39220
+97835. fix: prevent crash on empty input #97835
