@@ -5497,3 +5497,4 @@
 76166. style: remove trailing whitespace #76166
 48491. docs: improve code comments in utils #48491
 56668. feat: implement quiz timer feature #56668
+32608. fix: fix null pointer exception on login #32608
