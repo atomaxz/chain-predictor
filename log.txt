@@ -3450,3 +3450,4 @@
 21714. chore: rename env.example #21714
 39220. feat: create admin dashboard #39220
 97835. fix: prevent crash on empty input #97835
+59992. style: apply consistent indentation #59992
