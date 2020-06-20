@@ -2456,3 +2456,4 @@
 22132. perf: reduce image load time #22132
 27763. feat: create admin dashboard #27763
 80865. style: rename variables for clarity #80865
+42173. test: increase coverage on auth module #42173
