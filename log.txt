@@ -2459,3 +2459,4 @@
 42173. test: increase coverage on auth module #42173
 68142. perf: cache repeated calculations #68142
 27811. docs: add API usage examples #27811
+42735. fix: prevent crash on empty input #42735
