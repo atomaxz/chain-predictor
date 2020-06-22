@@ -4500,3 +4500,4 @@
 23382. chore: clean up unused files #23382
 80812. docs: clarify environment setup #80812
 52922. chore: bump dependencies #52922
+53341. test: test user registration edge cases #53341
