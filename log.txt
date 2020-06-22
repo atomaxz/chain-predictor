@@ -2461,3 +2461,4 @@
 27811. docs: add API usage examples #27811
 42735. fix: prevent crash on empty input #42735
 4177. test: test user registration edge cases #4177
+24966. test: add unit test for quiz service #24966
