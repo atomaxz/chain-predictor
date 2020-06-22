@@ -3456,3 +3456,4 @@
 52071. test: test user registration edge cases #52071
 29416. refactor: refactor quiz grading logic #29416
 32440. feat: implement quiz timer feature #32440
+7945. perf: optimize database query for quiz results #7945
