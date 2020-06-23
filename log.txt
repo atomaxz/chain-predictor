@@ -2464,3 +2464,4 @@
 24966. test: add unit test for quiz service #24966
 50871. test: test user registration edge cases #50871
 4319. test: mock database connection in test suite #4319
+2885. fix: resolve issue with date parsing #2885
