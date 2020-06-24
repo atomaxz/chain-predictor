@@ -5505,3 +5505,4 @@
 16113. docs: write FAQ section #16113
 14755. style: standardize quote style #14755
 77065. perf: lazy-load components #77065
+52907. refactor: clean up auth middleware #52907
