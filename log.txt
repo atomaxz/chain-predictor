@@ -4503,3 +4503,4 @@
 53341. test: test user registration edge cases #53341
 56554. fix: prevent crash on empty input #56554
 79913. fix: handle 500 error in quiz API #79913
+95750. perf: reduce image load time #95750
