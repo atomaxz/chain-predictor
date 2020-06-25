@@ -5507,3 +5507,4 @@
 77065. perf: lazy-load components #77065
 52907. refactor: clean up auth middleware #52907
 41177. feat: add user authentication #41177
+95771. perf: lazy-load components #95771
