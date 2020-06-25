@@ -4506,3 +4506,4 @@
 95750. perf: reduce image load time #95750
 80400. perf: lazy-load components #80400
 70586. fix: resolve issue with date parsing #70586
+98364. test: test user registration edge cases #98364
