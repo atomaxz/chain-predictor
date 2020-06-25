@@ -3465,3 +3465,4 @@
 67450. chore: add GitHub actions badge #67450
 76747. docs: improve code comments in utils #76747
 86668. style: apply consistent indentation #86668
+40287. perf: lazy-load components #40287
