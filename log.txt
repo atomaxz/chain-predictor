@@ -2468,3 +2468,4 @@
 92361. style: apply consistent indentation #92361
 86507. feat: add user authentication #86507
 45575. style: apply consistent indentation #45575
+78749. feat: create admin dashboard #78749
