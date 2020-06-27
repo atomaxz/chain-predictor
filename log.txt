@@ -4514,3 +4514,4 @@
 78455. refactor: organize models into subfolders #78455
 61931. docs: update README with setup steps #61931
 34181. style: standardize quote style #34181
+11936. style: remove trailing whitespace #11936
