@@ -2478,3 +2478,4 @@
 50093. chore: add GitHub actions badge #50093
 26845. fix: fix broken CSS in mobile view #26845
 50460. fix: resolve issue with date parsing #50460
+79833. test: mock database connection in test suite #79833
