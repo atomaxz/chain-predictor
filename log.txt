@@ -3470,3 +3470,4 @@
 16125. docs: write FAQ section #16125
 7179. refactor: clean up auth middleware #7179
 69102. test: test user registration edge cases #69102
+87949. refactor: clean up auth middleware #87949
