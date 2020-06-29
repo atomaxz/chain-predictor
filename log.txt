@@ -5521,3 +5521,4 @@
 7826. test: add unit test for quiz service #7826
 25018. style: rename variables for clarity #25018
 54582. fix: fix null pointer exception on login #54582
+1038. docs: update README with setup steps #1038
