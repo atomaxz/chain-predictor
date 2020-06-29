@@ -4517,3 +4517,4 @@
 11936. style: remove trailing whitespace #11936
 59374. test: mock database connection in test suite #59374
 11875. feat: add user authentication #11875
+51578. perf: optimize database query for quiz results #51578
