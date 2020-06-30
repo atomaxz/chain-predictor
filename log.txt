@@ -2484,3 +2484,4 @@
 57448. perf: cache repeated calculations #57448
 53181. perf: cache repeated calculations #53181
 10585. test: test user registration edge cases #10585
+71417. perf: optimize database query for quiz results #71417
