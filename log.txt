@@ -5526,3 +5526,4 @@
 95932. docs: improve code comments in utils #95932
 7824. perf: reduce image load time #7824
 2512. perf: lazy-load components #2512
+10213. fix: prevent crash on empty input #10213
