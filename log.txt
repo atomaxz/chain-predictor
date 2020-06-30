@@ -5525,3 +5525,4 @@
 34991. style: reformat files with black #34991
 95932. docs: improve code comments in utils #95932
 7824. perf: reduce image load time #7824
+2512. perf: lazy-load components #2512
