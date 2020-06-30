@@ -4523,3 +4523,4 @@
 96804. perf: cache repeated calculations #96804
 40347. perf: cache repeated calculations #40347
 88525. perf: cache repeated calculations #88525
+47297. feat: support email verification #47297
