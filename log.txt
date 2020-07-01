@@ -3481,3 +3481,4 @@
 59239. test: add integration test for /submit endpoint #59239
 99254. chore: rename env.example #99254
 1854. refactor: clean up auth middleware #1854
+78716. test: add unit test for quiz service #78716
