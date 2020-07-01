@@ -5527,3 +5527,4 @@
 7824. perf: reduce image load time #7824
 2512. perf: lazy-load components #2512
 10213. fix: prevent crash on empty input #10213
+46875. chore: update .gitignore #46875
