@@ -2488,3 +2488,4 @@
 94565. fix: fix null pointer exception on login #94565
 14717. docs: document token refresh logic #14717
 73756. style: apply consistent indentation #73756
+86438. refactor: organize models into subfolders #86438
