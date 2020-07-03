@@ -2493,3 +2493,4 @@
 25132. test: add integration test for /submit endpoint #25132
 66091. feat: create admin dashboard #66091
 10625. style: reformat files with black #10625
+19281. test: mock database connection in test suite #19281
