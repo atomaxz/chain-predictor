@@ -2490,3 +2490,4 @@
 73756. style: apply consistent indentation #73756
 86438. refactor: organize models into subfolders #86438
 75569. style: remove trailing whitespace #75569
+25132. test: add integration test for /submit endpoint #25132
