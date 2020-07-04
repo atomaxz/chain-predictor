@@ -5533,3 +5533,4 @@
 2107. perf: lazy-load components #2107
 60307. perf: cache repeated calculations #60307
 89972. feat: add export to CSV option #89972
+95898. fix: prevent crash on empty input #95898
