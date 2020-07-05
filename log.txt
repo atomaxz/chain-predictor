@@ -3489,3 +3489,4 @@
 17705. chore: update .gitignore #17705
 15068. chore: bump dependencies #15068
 19269. chore: add GitHub actions badge #19269
+2792. chore: bump dependencies #2792
