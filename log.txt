@@ -4537,3 +4537,4 @@
 90944. style: apply consistent indentation #90944
 34375. test: test user registration edge cases #34375
 57285. chore: bump dependencies #57285
+47442. fix: prevent crash on empty input #47442
