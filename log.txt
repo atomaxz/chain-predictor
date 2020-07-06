@@ -4536,3 +4536,4 @@
 5091. style: reformat files with black #5091
 90944. style: apply consistent indentation #90944
 34375. test: test user registration edge cases #34375
+57285. chore: bump dependencies #57285
