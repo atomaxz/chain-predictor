@@ -3491,3 +3491,4 @@
 19269. chore: add GitHub actions badge #19269
 2792. chore: bump dependencies #2792
 59500. fix: fix null pointer exception on login #59500
+93209. feat: add user authentication #93209
