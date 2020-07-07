@@ -5541,3 +5541,4 @@
 97519. test: add unit test for quiz service #97519
 38455. test: mock database connection in test suite #38455
 18922. feat: support email verification #18922
+41847. refactor: clean up auth middleware #41847
