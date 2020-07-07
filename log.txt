@@ -5542,3 +5542,4 @@
 38455. test: mock database connection in test suite #38455
 18922. feat: support email verification #18922
 41847. refactor: clean up auth middleware #41847
+67372. docs: write FAQ section #67372
