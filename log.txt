@@ -3494,3 +3494,4 @@
 93209. feat: add user authentication #93209
 14266. fix: fix null pointer exception on login #14266
 22111. refactor: refactor quiz grading logic #22111
+13586. perf: lazy-load components #13586
