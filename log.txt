@@ -4545,3 +4545,4 @@
 62145. fix: prevent crash on empty input #62145
 61687. style: rename variables for clarity #61687
 74299. perf: cache repeated calculations #74299
+16901. fix: fix null pointer exception on login #16901
