@@ -5544,3 +5544,4 @@
 41847. refactor: clean up auth middleware #41847
 67372. docs: write FAQ section #67372
 16072. fix: fix broken CSS in mobile view #16072
+49395. style: remove trailing whitespace #49395
