@@ -3502,3 +3502,4 @@
 35730. style: apply consistent indentation #35730
 33678. refactor: organize models into subfolders #33678
 77427. refactor: split large controller into smaller functions #77427
+94617. style: standardize quote style #94617
