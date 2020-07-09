@@ -5550,3 +5550,4 @@
 51473. feat: enable dark mode toggle #51473
 47815. feat: add user authentication #47815
 2266. test: increase coverage on auth module #2266
+51659. chore: update .gitignore #51659
