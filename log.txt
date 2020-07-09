@@ -2504,3 +2504,4 @@
 35766. chore: clean up unused files #35766
 32807. test: test user registration edge cases #32807
 50604. feat: create admin dashboard #50604
+39983. perf: lazy-load components #39983
