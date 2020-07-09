@@ -2505,3 +2505,4 @@
 32807. test: test user registration edge cases #32807
 50604. feat: create admin dashboard #50604
 39983. perf: lazy-load components #39983
+26240. fix: correct typo in registration form #26240
