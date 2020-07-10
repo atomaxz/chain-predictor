@@ -4550,3 +4550,4 @@
 82892. chore: clean up unused files #82892
 13031. chore: rename env.example #13031
 68616. test: increase coverage on auth module #68616
+63220. chore: bump dependencies #63220
