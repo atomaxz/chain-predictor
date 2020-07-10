@@ -4549,3 +4549,4 @@
 85089. fix: fix null pointer exception on login #85089
 82892. chore: clean up unused files #82892
 13031. chore: rename env.example #13031
+68616. test: increase coverage on auth module #68616
