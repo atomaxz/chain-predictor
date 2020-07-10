@@ -5554,3 +5554,4 @@
 15947. fix: correct typo in registration form #15947
 69293. chore: update .gitignore #69293
 6704. refactor: remove redundant code blocks #6704
+10896. fix: fix broken CSS in mobile view #10896
