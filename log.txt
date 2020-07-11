@@ -5555,3 +5555,4 @@
 69293. chore: update .gitignore #69293
 6704. refactor: remove redundant code blocks #6704
 10896. fix: fix broken CSS in mobile view #10896
+61224. perf: optimize database query for quiz results #61224
