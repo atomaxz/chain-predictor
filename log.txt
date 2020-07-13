@@ -4558,3 +4558,4 @@
 1074. fix: fix broken CSS in mobile view #1074
 58118. feat: add export to CSV option #58118
 88497. perf: optimize database query for quiz results #88497
+40182. chore: add GitHub actions badge #40182
