@@ -3512,3 +3512,4 @@
 18641. fix: correct typo in registration form #18641
 40812. refactor: clean up auth middleware #40812
 24003. docs: document token refresh logic #24003
+1529. fix: fix broken CSS in mobile view #1529
