@@ -2518,3 +2518,4 @@
 49149. feat: enable dark mode toggle #49149
 37350. test: increase coverage on auth module #37350
 39437. style: reformat files with black #39437
+15731. fix: fix broken CSS in mobile view #15731
