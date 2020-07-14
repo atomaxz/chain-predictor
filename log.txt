@@ -5565,3 +5565,4 @@
 45317. test: add unit test for quiz service #45317
 33014. test: test user registration edge cases #33014
 99316. docs: add API usage examples #99316
+94438. fix: correct typo in registration form #94438
