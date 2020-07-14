@@ -5563,3 +5563,4 @@
 41083. chore: clean up unused files #41083
 18864. style: reformat files with black #18864
 45317. test: add unit test for quiz service #45317
+33014. test: test user registration edge cases #33014
