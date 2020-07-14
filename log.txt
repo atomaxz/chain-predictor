@@ -2519,3 +2519,4 @@
 37350. test: increase coverage on auth module #37350
 39437. style: reformat files with black #39437
 15731. fix: fix broken CSS in mobile view #15731
+24924. style: apply consistent indentation #24924
