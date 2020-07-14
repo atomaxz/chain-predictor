@@ -2520,3 +2520,4 @@
 39437. style: reformat files with black #39437
 15731. fix: fix broken CSS in mobile view #15731
 24924. style: apply consistent indentation #24924
+29726. test: test user registration edge cases #29726
