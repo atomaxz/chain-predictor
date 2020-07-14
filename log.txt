@@ -4562,3 +4562,4 @@
 90361. fix: handle 500 error in quiz API #90361
 49812. style: apply consistent indentation #49812
 50484. test: add unit test for quiz service #50484
+16976. fix: fix null pointer exception on login #16976
