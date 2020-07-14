@@ -2516,3 +2516,4 @@
 20318. chore: add GitHub actions badge #20318
 91175. refactor: remove redundant code blocks #91175
 49149. feat: enable dark mode toggle #49149
+37350. test: increase coverage on auth module #37350
