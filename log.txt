@@ -5564,3 +5564,4 @@
 18864. style: reformat files with black #18864
 45317. test: add unit test for quiz service #45317
 33014. test: test user registration edge cases #33014
+99316. docs: add API usage examples #99316
