@@ -4563,3 +4563,4 @@
 49812. style: apply consistent indentation #49812
 50484. test: add unit test for quiz service #50484
 16976. fix: fix null pointer exception on login #16976
+72318. fix: correct typo in registration form #72318
