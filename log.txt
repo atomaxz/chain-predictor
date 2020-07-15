@@ -3514,3 +3514,4 @@
 24003. docs: document token refresh logic #24003
 1529. fix: fix broken CSS in mobile view #1529
 62296. docs: clarify environment setup #62296
+42812. fix: fix null pointer exception on login #42812
