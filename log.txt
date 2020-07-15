@@ -2521,3 +2521,4 @@
 15731. fix: fix broken CSS in mobile view #15731
 24924. style: apply consistent indentation #24924
 29726. test: test user registration edge cases #29726
+68874. test: increase coverage on auth module #68874
