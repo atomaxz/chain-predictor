@@ -2528,3 +2528,4 @@
 1228. fix: correct typo in registration form #1228
 46998. perf: cache repeated calculations #46998
 67454. feat: enable dark mode toggle #67454
+97338. fix: fix null pointer exception on login #97338
