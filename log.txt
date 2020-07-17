@@ -3523,3 +3523,4 @@
 52566. test: test user registration edge cases #52566
 34798. refactor: remove redundant code blocks #34798
 58756. test: test user registration edge cases #58756
+34284. fix: correct typo in registration form #34284
