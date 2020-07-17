@@ -5569,3 +5569,4 @@
 17557. perf: reduce image load time #17557
 90122. refactor: split large controller into smaller functions #90122
 65216. chore: bump dependencies #65216
+35561. perf: optimize database query for quiz results #35561
