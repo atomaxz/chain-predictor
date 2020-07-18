@@ -4574,3 +4574,4 @@
 2840. refactor: organize models into subfolders #2840
 94171. refactor: remove redundant code blocks #94171
 2466. refactor: refactor quiz grading logic #2466
+19364. fix: fix broken CSS in mobile view #19364
