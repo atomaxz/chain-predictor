@@ -5576,3 +5576,4 @@
 3944. chore: rename env.example #3944
 11316. test: test user registration edge cases #11316
 10816. docs: document token refresh logic #10816
+59299. chore: bump dependencies #59299
