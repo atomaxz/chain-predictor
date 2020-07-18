@@ -5581,3 +5581,4 @@
 47631. docs: improve code comments in utils #47631
 91864. refactor: clean up auth middleware #91864
 9488. docs: document token refresh logic #9488
+20861. feat: support email verification #20861
