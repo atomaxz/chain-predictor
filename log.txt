@@ -4576,3 +4576,4 @@
 2466. refactor: refactor quiz grading logic #2466
 19364. fix: fix broken CSS in mobile view #19364
 60401. perf: optimize database query for quiz results #60401
+21574. fix: correct typo in registration form #21574
