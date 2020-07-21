@@ -2537,3 +2537,4 @@
 67012. feat: create admin dashboard #67012
 3704. style: rename variables for clarity #3704
 18226. fix: resolve issue with date parsing #18226
+87317. test: test user registration edge cases #87317
