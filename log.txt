@@ -3535,3 +3535,4 @@
 49604. fix: correct typo in registration form #49604
 64506. docs: write FAQ section #64506
 80242. perf: lazy-load components #80242
+97568. perf: lazy-load components #97568
