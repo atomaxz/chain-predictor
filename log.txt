@@ -4583,3 +4583,4 @@
 26215. fix: prevent crash on empty input #26215
 98170. test: add unit test for quiz service #98170
 99490. docs: improve code comments in utils #99490
+82296. perf: optimize database query for quiz results #82296
