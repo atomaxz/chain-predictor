@@ -4580,3 +4580,4 @@
 68845. feat: enable dark mode toggle #68845
 80064. fix: fix broken CSS in mobile view #80064
 74867. perf: cache repeated calculations #74867
+26215. fix: prevent crash on empty input #26215
