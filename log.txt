@@ -3537,3 +3537,4 @@
 80242. perf: lazy-load components #80242
 97568. perf: lazy-load components #97568
 17043. docs: update README with setup steps #17043
+95020. docs: add API usage examples #95020
