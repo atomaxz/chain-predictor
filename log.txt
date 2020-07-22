@@ -5588,3 +5588,4 @@
 93111. feat: implement quiz timer feature #93111
 33363. docs: add API usage examples #33363
 63125. test: add integration test for /submit endpoint #63125
+40479. feat: support email verification #40479
