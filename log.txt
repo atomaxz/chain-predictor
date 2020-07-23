@@ -5590,3 +5590,4 @@
 63125. test: add integration test for /submit endpoint #63125
 40479. feat: support email verification #40479
 40508. perf: reduce image load time #40508
+49277. fix: resolve issue with date parsing #49277
