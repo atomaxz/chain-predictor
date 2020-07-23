@@ -4585,3 +4585,4 @@
 99490. docs: improve code comments in utils #99490
 82296. perf: optimize database query for quiz results #82296
 9059. feat: add export to CSV option #9059
+27315. test: test user registration edge cases #27315
