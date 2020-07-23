@@ -2541,3 +2541,4 @@
 6400. test: mock database connection in test suite #6400
 95879. perf: cache repeated calculations #95879
 51329. feat: add user authentication #51329
+76109. chore: clean up unused files #76109
