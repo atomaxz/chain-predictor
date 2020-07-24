@@ -5595,3 +5595,4 @@
 16052. perf: cache repeated calculations #16052
 83525. docs: clarify environment setup #83525
 78114. perf: lazy-load components #78114
+75797. perf: lazy-load components #75797
