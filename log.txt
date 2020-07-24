@@ -4587,3 +4587,4 @@
 9059. feat: add export to CSV option #9059
 27315. test: test user registration edge cases #27315
 14037. feat: implement quiz timer feature #14037
+11303. chore: add GitHub actions badge #11303
