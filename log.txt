@@ -4592,3 +4592,4 @@
 9821. docs: clarify environment setup #9821
 87790. refactor: remove redundant code blocks #87790
 73277. style: standardize quote style #73277
+85812. feat: enable dark mode toggle #85812
