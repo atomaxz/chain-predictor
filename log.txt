@@ -3543,3 +3543,4 @@
 47637. refactor: remove redundant code blocks #47637
 95107. test: increase coverage on auth module #95107
 60437. perf: cache repeated calculations #60437
+26985. style: remove trailing whitespace #26985
