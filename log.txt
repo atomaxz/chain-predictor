@@ -5596,3 +5596,4 @@
 83525. docs: clarify environment setup #83525
 78114. perf: lazy-load components #78114
 75797. perf: lazy-load components #75797
+90427. fix: correct typo in registration form #90427
