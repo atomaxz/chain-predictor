@@ -4593,3 +4593,4 @@
 87790. refactor: remove redundant code blocks #87790
 73277. style: standardize quote style #73277
 85812. feat: enable dark mode toggle #85812
+94057. test: test user registration edge cases #94057
