@@ -2554,3 +2554,4 @@
 76603. docs: update README with setup steps #76603
 1579. fix: fix null pointer exception on login #1579
 12366. test: increase coverage on auth module #12366
+91599. test: add integration test for /submit endpoint #91599
