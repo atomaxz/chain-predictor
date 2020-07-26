@@ -3546,3 +3546,4 @@
 26985. style: remove trailing whitespace #26985
 30499. chore: bump dependencies #30499
 77721. style: reformat files with black #77721
+10407. perf: optimize database query for quiz results #10407
