@@ -2556,3 +2556,4 @@
 12366. test: increase coverage on auth module #12366
 91599. test: add integration test for /submit endpoint #91599
 79367. docs: add API usage examples #79367
+18826. refactor: clean up auth middleware #18826
