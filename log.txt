@@ -2559,3 +2559,4 @@
 18826. refactor: clean up auth middleware #18826
 45772. refactor: split large controller into smaller functions #45772
 16874. docs: add API usage examples #16874
+5873. refactor: organize models into subfolders #5873
