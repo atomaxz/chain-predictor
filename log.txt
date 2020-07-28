@@ -2563,3 +2563,4 @@
 67495. docs: add API usage examples #67495
 0737. fix: fix null pointer exception on login #737
 72056. chore: rename env.example #72056
+25226. chore: add GitHub actions badge #25226
