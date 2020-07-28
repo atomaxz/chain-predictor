@@ -3555,3 +3555,4 @@
 21867. perf: reduce image load time #21867
 92636. style: reformat files with black #92636
 36303. feat: create admin dashboard #36303
+46021. fix: handle 500 error in quiz API #46021
