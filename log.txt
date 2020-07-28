@@ -4596,3 +4596,4 @@
 94057. test: test user registration edge cases #94057
 19091. docs: write FAQ section #19091
 80562. perf: cache repeated calculations #80562
+90530. refactor: split large controller into smaller functions #90530
