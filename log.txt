@@ -5614,3 +5614,4 @@
 45373. style: reformat files with black #45373
 13635. chore: clean up unused files #13635
 7562. test: increase coverage on auth module #7562
+86172. feat: enable dark mode toggle #86172
