@@ -4599,3 +4599,4 @@
 90530. refactor: split large controller into smaller functions #90530
 70320. docs: add API usage examples #70320
 78584. style: rename variables for clarity #78584
+52621. feat: add user authentication #52621
