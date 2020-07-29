@@ -2566,3 +2566,4 @@
 25226. chore: add GitHub actions badge #25226
 56841. feat: add export to CSV option #56841
 96810. docs: update README with setup steps #96810
+39330. style: rename variables for clarity #39330
