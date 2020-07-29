@@ -5615,3 +5615,4 @@
 13635. chore: clean up unused files #13635
 7562. test: increase coverage on auth module #7562
 86172. feat: enable dark mode toggle #86172
+39944. chore: rename env.example #39944
