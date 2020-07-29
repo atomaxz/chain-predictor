@@ -2565,3 +2565,4 @@
 72056. chore: rename env.example #72056
 25226. chore: add GitHub actions badge #25226
 56841. feat: add export to CSV option #56841
+96810. docs: update README with setup steps #96810
