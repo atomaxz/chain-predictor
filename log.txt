@@ -5612,3 +5612,4 @@
 97246. perf: cache repeated calculations #97246
 14598. feat: enable dark mode toggle #14598
 45373. style: reformat files with black #45373
+13635. chore: clean up unused files #13635
