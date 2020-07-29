@@ -3557,3 +3557,4 @@
 36303. feat: create admin dashboard #36303
 46021. fix: handle 500 error in quiz API #46021
 41946. perf: reduce image load time #41946
+36185. style: rename variables for clarity #36185
