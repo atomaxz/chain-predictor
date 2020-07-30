@@ -5617,3 +5617,4 @@
 86172. feat: enable dark mode toggle #86172
 39944. chore: rename env.example #39944
 56966. refactor: organize models into subfolders #56966
+92096. style: remove trailing whitespace #92096
