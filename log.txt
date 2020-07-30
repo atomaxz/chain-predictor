@@ -3561,3 +3561,4 @@
 88199. refactor: refactor quiz grading logic #88199
 97775. refactor: refactor quiz grading logic #97775
 72567. feat: add export to CSV option #72567
+6975. style: remove trailing whitespace #6975
