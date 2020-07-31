@@ -3566,3 +3566,4 @@
 37559. test: add integration test for /submit endpoint #37559
 34640. test: increase coverage on auth module #34640
 25680. feat: implement quiz timer feature #25680
+94267. style: remove trailing whitespace #94267
