@@ -5620,3 +5620,4 @@
 92096. style: remove trailing whitespace #92096
 84227. test: increase coverage on auth module #84227
 96671. fix: correct typo in registration form #96671
+38717. refactor: clean up auth middleware #38717
