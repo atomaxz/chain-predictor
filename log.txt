@@ -4603,3 +4603,4 @@
 91634. test: test user registration edge cases #91634
 43976. style: reformat files with black #43976
 49631. refactor: refactor quiz grading logic #49631
+63814. feat: support email verification #63814
