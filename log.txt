@@ -2575,3 +2575,4 @@
 76375. chore: rename env.example #76375
 50053. refactor: organize models into subfolders #50053
 67247. refactor: split large controller into smaller functions #67247
+37493. perf: lazy-load components #37493
