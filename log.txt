@@ -2578,3 +2578,4 @@
 37493. perf: lazy-load components #37493
 54464. test: increase coverage on auth module #54464
 55944. refactor: organize models into subfolders #55944
+14690. perf: reduce image load time #14690
