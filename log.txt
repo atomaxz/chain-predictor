@@ -5632,3 +5632,4 @@
 6948. test: add unit test for quiz service #6948
 16972. feat: enable dark mode toggle #16972
 22393. fix: resolve issue with date parsing #22393
+87523. fix: prevent crash on empty input #87523
