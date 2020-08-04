@@ -3578,3 +3578,4 @@
 48031. fix: correct typo in registration form #48031
 42962. feat: add export to CSV option #42962
 81464. style: apply consistent indentation #81464
+59943. fix: correct typo in registration form #59943
