@@ -4611,3 +4611,4 @@
 79731. test: increase coverage on auth module #79731
 42413. feat: support email verification #42413
 71951. perf: optimize database query for quiz results #71951
+70768. docs: add API usage examples #70768
