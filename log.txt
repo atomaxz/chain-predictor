@@ -5634,3 +5634,4 @@
 22393. fix: resolve issue with date parsing #22393
 87523. fix: prevent crash on empty input #87523
 84020. feat: add user authentication #84020
+32503. test: add integration test for /submit endpoint #32503
