@@ -4613,3 +4613,4 @@
 71951. perf: optimize database query for quiz results #71951
 70768. docs: add API usage examples #70768
 4894. docs: improve code comments in utils #4894
+73064. test: add integration test for /submit endpoint #73064
