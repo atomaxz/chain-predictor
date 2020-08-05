@@ -5636,3 +5636,4 @@
 84020. feat: add user authentication #84020
 32503. test: add integration test for /submit endpoint #32503
 89983. chore: add GitHub actions badge #89983
+96408. refactor: remove redundant code blocks #96408
