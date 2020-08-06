@@ -3581,3 +3581,4 @@
 59943. fix: correct typo in registration form #59943
 73980. docs: document token refresh logic #73980
 16205. test: test user registration edge cases #16205
+9408. fix: fix null pointer exception on login #9408
