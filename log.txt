@@ -4619,3 +4619,4 @@
 5075. fix: resolve issue with date parsing #5075
 62443. refactor: organize models into subfolders #62443
 18152. docs: add API usage examples #18152
+92443. test: test user registration edge cases #92443
