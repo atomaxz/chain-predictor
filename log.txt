@@ -2592,3 +2592,4 @@
 69354. test: test user registration edge cases #69354
 77712. fix: correct typo in registration form #77712
 96484. refactor: clean up auth middleware #96484
+68451. fix: prevent crash on empty input #68451
