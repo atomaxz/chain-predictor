@@ -3585,3 +3585,4 @@
 57438. docs: write FAQ section #57438
 99011. docs: clarify environment setup #99011
 34430. feat: support email verification #34430
+83370. refactor: clean up auth middleware #83370
