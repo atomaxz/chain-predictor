@@ -3583,3 +3583,4 @@
 16205. test: test user registration edge cases #16205
 9408. fix: fix null pointer exception on login #9408
 57438. docs: write FAQ section #57438
+99011. docs: clarify environment setup #99011
