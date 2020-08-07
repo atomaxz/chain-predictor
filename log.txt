@@ -3584,3 +3584,4 @@
 9408. fix: fix null pointer exception on login #9408
 57438. docs: write FAQ section #57438
 99011. docs: clarify environment setup #99011
+34430. feat: support email verification #34430
