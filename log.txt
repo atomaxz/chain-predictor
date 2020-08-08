@@ -4621,3 +4621,4 @@
 18152. docs: add API usage examples #18152
 92443. test: test user registration edge cases #92443
 99337. docs: improve code comments in utils #99337
+27892. fix: prevent crash on empty input #27892
