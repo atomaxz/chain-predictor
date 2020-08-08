@@ -3587,3 +3587,4 @@
 34430. feat: support email verification #34430
 83370. refactor: clean up auth middleware #83370
 22384. feat: enable dark mode toggle #22384
+71544. style: standardize quote style #71544
