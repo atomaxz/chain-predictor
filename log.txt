@@ -3591,3 +3591,4 @@
 27052. fix: correct typo in registration form #27052
 69387. fix: fix broken CSS in mobile view #69387
 2538. test: add unit test for quiz service #2538
+95122. style: remove trailing whitespace #95122
