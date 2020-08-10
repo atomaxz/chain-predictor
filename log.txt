@@ -5643,3 +5643,4 @@
 48145. feat: add user authentication #48145
 98252. style: reformat files with black #98252
 55117. feat: create admin dashboard #55117
+31948. chore: add GitHub actions badge #31948
