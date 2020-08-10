@@ -3595,3 +3595,4 @@
 42694. chore: clean up unused files #42694
 27837. fix: prevent crash on empty input #27837
 78407. feat: add user authentication #78407
+71029. test: add unit test for quiz service #71029
