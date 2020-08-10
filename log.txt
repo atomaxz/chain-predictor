@@ -3592,3 +3592,4 @@
 69387. fix: fix broken CSS in mobile view #69387
 2538. test: add unit test for quiz service #2538
 95122. style: remove trailing whitespace #95122
+42694. chore: clean up unused files #42694
