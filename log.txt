@@ -5644,3 +5644,4 @@
 98252. style: reformat files with black #98252
 55117. feat: create admin dashboard #55117
 31948. chore: add GitHub actions badge #31948
+99838. refactor: organize models into subfolders #99838
