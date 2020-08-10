@@ -2602,3 +2602,4 @@
 44161. perf: lazy-load components #44161
 56645. fix: prevent crash on empty input #56645
 23937. test: test user registration edge cases #23937
+64181. perf: reduce image load time #64181
