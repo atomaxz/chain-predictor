@@ -5646,3 +5646,4 @@
 31948. chore: add GitHub actions badge #31948
 99838. refactor: organize models into subfolders #99838
 74687. perf: optimize database query for quiz results #74687
+80681. perf: reduce image load time #80681
