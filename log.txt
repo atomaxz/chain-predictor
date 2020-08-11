@@ -2605,3 +2605,4 @@
 64181. perf: reduce image load time #64181
 78155. refactor: organize models into subfolders #78155
 22889. docs: add API usage examples #22889
+21936. style: apply consistent indentation #21936
