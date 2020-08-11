@@ -5649,3 +5649,4 @@
 80681. perf: reduce image load time #80681
 45196. chore: bump dependencies #45196
 74248. perf: cache repeated calculations #74248
+55879. test: mock database connection in test suite #55879
