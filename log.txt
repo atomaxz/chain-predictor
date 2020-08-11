@@ -5647,3 +5647,4 @@
 99838. refactor: organize models into subfolders #99838
 74687. perf: optimize database query for quiz results #74687
 80681. perf: reduce image load time #80681
+45196. chore: bump dependencies #45196
