@@ -5654,3 +5654,4 @@
 71437. docs: clarify environment setup #71437
 63123. chore: rename env.example #63123
 5683. perf: optimize database query for quiz results #5683
+12742. feat: enable dark mode toggle #12742
