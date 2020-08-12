@@ -3602,3 +3602,4 @@
 11624. docs: write FAQ section #11624
 11552. docs: clarify environment setup #11552
 88314. style: reformat files with black #88314
+84802. perf: reduce image load time #84802
