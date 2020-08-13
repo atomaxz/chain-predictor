@@ -5656,3 +5656,4 @@
 5683. perf: optimize database query for quiz results #5683
 12742. feat: enable dark mode toggle #12742
 26399. refactor: organize models into subfolders #26399
+92673. refactor: refactor quiz grading logic #92673
