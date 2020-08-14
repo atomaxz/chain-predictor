@@ -3606,3 +3606,4 @@
 1913. refactor: remove redundant code blocks #1913
 14145. fix: fix broken CSS in mobile view #14145
 6022. docs: clarify environment setup #6022
+4425. chore: clean up unused files #4425
