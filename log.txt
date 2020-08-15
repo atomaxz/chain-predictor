@@ -4639,3 +4639,4 @@
 31920. chore: update .gitignore #31920
 28969. perf: reduce image load time #28969
 71734. perf: lazy-load components #71734
+62662. test: test user registration edge cases #62662
