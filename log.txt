@@ -3607,3 +3607,4 @@
 14145. fix: fix broken CSS in mobile view #14145
 6022. docs: clarify environment setup #6022
 4425. chore: clean up unused files #4425
+94580. style: remove trailing whitespace #94580
