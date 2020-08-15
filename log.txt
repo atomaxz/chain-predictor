@@ -2614,3 +2614,4 @@
 35793. perf: lazy-load components #35793
 68664. feat: add user authentication #68664
 94418. style: remove trailing whitespace #94418
+35915. fix: correct typo in registration form #35915
