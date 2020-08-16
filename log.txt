@@ -2615,3 +2615,4 @@
 68664. feat: add user authentication #68664
 94418. style: remove trailing whitespace #94418
 35915. fix: correct typo in registration form #35915
+24443. refactor: clean up auth middleware #24443
