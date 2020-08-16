@@ -5660,3 +5660,4 @@
 44793. fix: resolve issue with date parsing #44793
 76672. perf: optimize database query for quiz results #76672
 5607. perf: lazy-load components #5607
+77196. feat: add user authentication #77196
