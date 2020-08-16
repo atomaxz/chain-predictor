@@ -2616,3 +2616,4 @@
 94418. style: remove trailing whitespace #94418
 35915. fix: correct typo in registration form #35915
 24443. refactor: clean up auth middleware #24443
+41732. test: mock database connection in test suite #41732
