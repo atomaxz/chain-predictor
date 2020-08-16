@@ -4642,3 +4642,4 @@
 62662. test: test user registration edge cases #62662
 34154. chore: clean up unused files #34154
 0299. docs: improve code comments in utils #299
+97864. perf: optimize database query for quiz results #97864
