@@ -5664,3 +5664,4 @@
 44844. chore: update .gitignore #44844
 57243. fix: handle 500 error in quiz API #57243
 49723. style: remove trailing whitespace #49723
+17716. perf: reduce image load time #17716
