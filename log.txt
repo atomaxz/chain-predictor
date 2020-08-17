@@ -5662,3 +5662,4 @@
 5607. perf: lazy-load components #5607
 77196. feat: add user authentication #77196
 44844. chore: update .gitignore #44844
+57243. fix: handle 500 error in quiz API #57243
