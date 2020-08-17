@@ -2618,3 +2618,4 @@
 24443. refactor: clean up auth middleware #24443
 41732. test: mock database connection in test suite #41732
 3009. chore: add GitHub actions badge #3009
+14237. docs: document token refresh logic #14237
