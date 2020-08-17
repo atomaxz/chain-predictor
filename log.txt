@@ -3620,3 +3620,4 @@
 85886. fix: fix broken CSS in mobile view #85886
 71328. style: remove trailing whitespace #71328
 9121. perf: cache repeated calculations #9121
+2134. chore: bump dependencies #2134
