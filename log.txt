@@ -5667,3 +5667,4 @@
 17716. perf: reduce image load time #17716
 24687. chore: clean up unused files #24687
 0692. style: standardize quote style #692
+26459. refactor: split large controller into smaller functions #26459
