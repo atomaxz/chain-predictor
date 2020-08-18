@@ -5666,3 +5666,4 @@
 49723. style: remove trailing whitespace #49723
 17716. perf: reduce image load time #17716
 24687. chore: clean up unused files #24687
+0692. style: standardize quote style #692
