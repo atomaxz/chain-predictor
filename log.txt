@@ -3624,3 +3624,4 @@
 38662. feat: add export to CSV option #38662
 62568. docs: add API usage examples #62568
 70280. perf: lazy-load components #70280
+7998. fix: prevent crash on empty input #7998
