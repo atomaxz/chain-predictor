@@ -4644,3 +4644,4 @@
 0299. docs: improve code comments in utils #299
 97864. perf: optimize database query for quiz results #97864
 73735. test: add unit test for quiz service #73735
+32656. fix: handle 500 error in quiz API #32656
