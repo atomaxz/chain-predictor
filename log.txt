@@ -2626,3 +2626,4 @@
 25263. chore: bump dependencies #25263
 82965. fix: correct typo in registration form #82965
 18408. fix: handle 500 error in quiz API #18408
+47733. chore: bump dependencies #47733
