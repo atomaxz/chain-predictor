@@ -2625,3 +2625,4 @@
 84713. test: add unit test for quiz service #84713
 25263. chore: bump dependencies #25263
 82965. fix: correct typo in registration form #82965
+18408. fix: handle 500 error in quiz API #18408
