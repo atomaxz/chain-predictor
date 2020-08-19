@@ -5671,3 +5671,4 @@
 71092. docs: write FAQ section #71092
 83931. docs: update README with setup steps #83931
 5152. fix: handle 500 error in quiz API #5152
+84622. test: add unit test for quiz service #84622
