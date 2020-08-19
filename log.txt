@@ -5673,3 +5673,4 @@
 5152. fix: handle 500 error in quiz API #5152
 84622. test: add unit test for quiz service #84622
 20679. test: mock database connection in test suite #20679
+92689. perf: optimize database query for quiz results #92689
