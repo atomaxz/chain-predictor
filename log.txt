@@ -4647,3 +4647,4 @@
 32656. fix: handle 500 error in quiz API #32656
 38536. docs: write FAQ section #38536
 12132. feat: create admin dashboard #12132
+10432. perf: lazy-load components #10432
