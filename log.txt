@@ -2624,3 +2624,4 @@
 54271. fix: prevent crash on empty input #54271
 84713. test: add unit test for quiz service #84713
 25263. chore: bump dependencies #25263
+82965. fix: correct typo in registration form #82965
