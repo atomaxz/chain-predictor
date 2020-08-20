@@ -2627,3 +2627,4 @@
 82965. fix: correct typo in registration form #82965
 18408. fix: handle 500 error in quiz API #18408
 47733. chore: bump dependencies #47733
+87576. docs: improve code comments in utils #87576
