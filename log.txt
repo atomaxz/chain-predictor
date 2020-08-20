@@ -5677,3 +5677,4 @@
 24176. test: increase coverage on auth module #24176
 74440. feat: enable dark mode toggle #74440
 5141. feat: enable dark mode toggle #5141
+43627. refactor: refactor quiz grading logic #43627
