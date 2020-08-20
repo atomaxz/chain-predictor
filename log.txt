@@ -3627,3 +3627,4 @@
 7998. fix: prevent crash on empty input #7998
 62582. test: add integration test for /submit endpoint #62582
 58185. perf: optimize database query for quiz results #58185
+38401. fix: fix null pointer exception on login #38401
