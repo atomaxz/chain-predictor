@@ -3635,3 +3635,4 @@
 51508. style: rename variables for clarity #51508
 81107. feat: implement quiz timer feature #81107
 28588. feat: add user authentication #28588
+36462. test: add integration test for /submit endpoint #36462
