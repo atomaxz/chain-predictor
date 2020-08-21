@@ -5681,3 +5681,4 @@
 21449. style: apply consistent indentation #21449
 91534. fix: correct typo in registration form #91534
 29166. feat: add user authentication #29166
+90833. test: increase coverage on auth module #90833
