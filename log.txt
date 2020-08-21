@@ -5683,3 +5683,4 @@
 29166. feat: add user authentication #29166
 90833. test: increase coverage on auth module #90833
 77121. chore: bump dependencies #77121
+45239. feat: support email verification #45239
