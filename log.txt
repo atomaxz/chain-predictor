@@ -5679,3 +5679,4 @@
 5141. feat: enable dark mode toggle #5141
 43627. refactor: refactor quiz grading logic #43627
 21449. style: apply consistent indentation #21449
+91534. fix: correct typo in registration form #91534
