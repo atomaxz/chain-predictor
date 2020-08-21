@@ -2628,3 +2628,4 @@
 18408. fix: handle 500 error in quiz API #18408
 47733. chore: bump dependencies #47733
 87576. docs: improve code comments in utils #87576
+39174. style: reformat files with black #39174
