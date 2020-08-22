@@ -5686,3 +5686,4 @@
 45239. feat: support email verification #45239
 31902. fix: handle 500 error in quiz API #31902
 4747. feat: add user authentication #4747
+95824. test: add unit test for quiz service #95824
