@@ -2632,3 +2632,4 @@
 19330. feat: implement quiz timer feature #19330
 7890. docs: update README with setup steps #7890
 59747. refactor: organize models into subfolders #59747
+56220. perf: lazy-load components #56220
