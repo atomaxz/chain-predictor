@@ -3641,3 +3641,4 @@
 95927. perf: cache repeated calculations #95927
 17698. perf: optimize database query for quiz results #17698
 7410. chore: add GitHub actions badge #7410
+87996. test: increase coverage on auth module #87996
