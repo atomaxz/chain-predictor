@@ -3643,3 +3643,4 @@
 7410. chore: add GitHub actions badge #7410
 87996. test: increase coverage on auth module #87996
 68457. perf: reduce image load time #68457
+30586. docs: write FAQ section #30586
