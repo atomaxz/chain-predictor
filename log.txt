@@ -4662,3 +4662,4 @@
 65169. fix: prevent crash on empty input #65169
 3459. feat: add export to CSV option #3459
 47758. test: mock database connection in test suite #47758
+71880. feat: add user authentication #71880
