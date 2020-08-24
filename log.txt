@@ -3646,3 +3646,4 @@
 30586. docs: write FAQ section #30586
 40548. perf: lazy-load components #40548
 95324. perf: cache repeated calculations #95324
+11683. perf: cache repeated calculations #11683
