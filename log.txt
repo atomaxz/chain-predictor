@@ -5694,3 +5694,4 @@
 57351. test: test user registration edge cases #57351
 53221. refactor: split large controller into smaller functions #53221
 96627. chore: bump dependencies #96627
+61075. refactor: clean up auth middleware #61075
