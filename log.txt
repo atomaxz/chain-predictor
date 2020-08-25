@@ -4666,3 +4666,4 @@
 0966. feat: support email verification #966
 28051. test: test user registration edge cases #28051
 4354. perf: lazy-load components #4354
+31164. refactor: split large controller into smaller functions #31164
