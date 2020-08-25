@@ -5695,3 +5695,4 @@
 53221. refactor: split large controller into smaller functions #53221
 96627. chore: bump dependencies #96627
 61075. refactor: clean up auth middleware #61075
+95487. refactor: organize models into subfolders #95487
