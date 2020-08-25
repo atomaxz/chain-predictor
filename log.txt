@@ -4665,3 +4665,4 @@
 71880. feat: add user authentication #71880
 0966. feat: support email verification #966
 28051. test: test user registration edge cases #28051
+4354. perf: lazy-load components #4354
