@@ -5693,3 +5693,4 @@
 26175. perf: lazy-load components #26175
 57351. test: test user registration edge cases #57351
 53221. refactor: split large controller into smaller functions #53221
+96627. chore: bump dependencies #96627
