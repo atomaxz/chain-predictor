@@ -4669,3 +4669,4 @@
 31164. refactor: split large controller into smaller functions #31164
 89351. refactor: organize models into subfolders #89351
 15649. fix: resolve issue with date parsing #15649
+66090. feat: support email verification #66090
