@@ -4664,3 +4664,4 @@
 47758. test: mock database connection in test suite #47758
 71880. feat: add user authentication #71880
 0966. feat: support email verification #966
+28051. test: test user registration edge cases #28051
