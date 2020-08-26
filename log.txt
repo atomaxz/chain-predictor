@@ -2638,3 +2638,4 @@
 95305. fix: prevent crash on empty input #95305
 50821. fix: resolve issue with date parsing #50821
 90802. test: test user registration edge cases #90802
+4622. perf: lazy-load components #4622
