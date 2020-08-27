@@ -2641,3 +2641,4 @@
 4622. perf: lazy-load components #4622
 93174. test: increase coverage on auth module #93174
 98945. refactor: remove redundant code blocks #98945
+44757. style: remove trailing whitespace #44757
