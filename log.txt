@@ -4671,3 +4671,4 @@
 15649. fix: resolve issue with date parsing #15649
 66090. feat: support email verification #66090
 41112. docs: add API usage examples #41112
+3245. perf: optimize database query for quiz results #3245
