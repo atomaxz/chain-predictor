@@ -3654,3 +3654,4 @@
 56935. style: standardize quote style #56935
 73832. docs: write FAQ section #73832
 83954. refactor: split large controller into smaller functions #83954
+86515. test: add integration test for /submit endpoint #86515
