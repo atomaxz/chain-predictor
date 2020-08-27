@@ -2639,3 +2639,4 @@
 50821. fix: resolve issue with date parsing #50821
 90802. test: test user registration edge cases #90802
 4622. perf: lazy-load components #4622
+93174. test: increase coverage on auth module #93174
