@@ -4673,3 +4673,4 @@
 41112. docs: add API usage examples #41112
 3245. perf: optimize database query for quiz results #3245
 75287. fix: prevent crash on empty input #75287
+48063. fix: handle 500 error in quiz API #48063
