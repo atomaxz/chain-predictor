@@ -5700,3 +5700,4 @@
 13764. docs: add API usage examples #13764
 14948. feat: add export to CSV option #14948
 42323. refactor: remove redundant code blocks #42323
+71519. style: remove trailing whitespace #71519
