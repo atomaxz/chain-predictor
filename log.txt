@@ -2643,3 +2643,4 @@
 98945. refactor: remove redundant code blocks #98945
 44757. style: remove trailing whitespace #44757
 14516. test: increase coverage on auth module #14516
+80143. refactor: split large controller into smaller functions #80143
