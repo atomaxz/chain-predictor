@@ -4677,3 +4677,4 @@
 17107. test: test user registration edge cases #17107
 85335. chore: add GitHub actions badge #85335
 53792. chore: clean up unused files #53792
+8303. refactor: clean up auth middleware #8303
