@@ -4683,3 +4683,4 @@
 98604. chore: add GitHub actions badge #98604
 75421. fix: fix broken CSS in mobile view #75421
 29762. fix: prevent crash on empty input #29762
+78165. chore: update .gitignore #78165
