@@ -5703,3 +5703,4 @@
 71519. style: remove trailing whitespace #71519
 57550. style: rename variables for clarity #57550
 86065. docs: update README with setup steps #86065
+50408. fix: handle 500 error in quiz API #50408
