@@ -4681,3 +4681,4 @@
 42009. docs: add API usage examples #42009
 41539. docs: update README with setup steps #41539
 98604. chore: add GitHub actions badge #98604
+75421. fix: fix broken CSS in mobile view #75421
