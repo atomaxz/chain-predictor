@@ -2649,3 +2649,4 @@
 44201. perf: cache repeated calculations #44201
 12894. refactor: clean up auth middleware #12894
 57307. docs: improve code comments in utils #57307
+6847. fix: handle 500 error in quiz API #6847
