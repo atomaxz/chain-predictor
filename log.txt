@@ -2653,3 +2653,4 @@
 12791. style: rename variables for clarity #12791
 46884. chore: add GitHub actions badge #46884
 19901. style: rename variables for clarity #19901
+31231. test: increase coverage on auth module #31231
