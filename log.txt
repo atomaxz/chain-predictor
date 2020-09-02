@@ -2650,3 +2650,4 @@
 12894. refactor: clean up auth middleware #12894
 57307. docs: improve code comments in utils #57307
 6847. fix: handle 500 error in quiz API #6847
+12791. style: rename variables for clarity #12791
