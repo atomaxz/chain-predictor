@@ -3669,3 +3669,4 @@
 51573. chore: update .gitignore #51573
 19327. perf: lazy-load components #19327
 86313. test: test user registration edge cases #86313
+32717. test: add unit test for quiz service #32717
