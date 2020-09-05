@@ -5718,3 +5718,4 @@
 68415. feat: enable dark mode toggle #68415
 7105. style: remove trailing whitespace #7105
 0039. fix: handle 500 error in quiz API #39
+77982. fix: correct typo in registration form #77982
