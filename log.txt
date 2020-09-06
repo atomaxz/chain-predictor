@@ -4695,3 +4695,4 @@
 62094. fix: fix broken CSS in mobile view #62094
 10001. refactor: clean up auth middleware #10001
 10150. feat: implement quiz timer feature #10150
+60786. test: test user registration edge cases #60786
