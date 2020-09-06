@@ -5720,3 +5720,4 @@
 0039. fix: handle 500 error in quiz API #39
 77982. fix: correct typo in registration form #77982
 29839. test: add unit test for quiz service #29839
+2028. feat: enable dark mode toggle #2028
