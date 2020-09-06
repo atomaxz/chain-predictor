@@ -2664,3 +2664,4 @@
 1270. docs: improve code comments in utils #1270
 87384. docs: update README with setup steps #87384
 65989. refactor: refactor quiz grading logic #65989
+79495. fix: fix broken CSS in mobile view #79495
