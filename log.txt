@@ -5723,3 +5723,4 @@
 2028. feat: enable dark mode toggle #2028
 58690. test: mock database connection in test suite #58690
 82154. perf: cache repeated calculations #82154
+36710. chore: add GitHub actions badge #36710
