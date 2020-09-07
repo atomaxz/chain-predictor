@@ -4697,3 +4697,4 @@
 10150. feat: implement quiz timer feature #10150
 60786. test: test user registration edge cases #60786
 81637. refactor: refactor quiz grading logic #81637
+78785. test: increase coverage on auth module #78785
