@@ -3679,3 +3679,4 @@
 64475. perf: lazy-load components #64475
 90688. chore: clean up unused files #90688
 32683. feat: create admin dashboard #32683
+4036. test: test user registration edge cases #4036
