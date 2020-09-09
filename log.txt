@@ -2673,3 +2673,4 @@
 34507. feat: create admin dashboard #34507
 76218. style: standardize quote style #76218
 1182. chore: bump dependencies #1182
+67259. docs: add API usage examples #67259
