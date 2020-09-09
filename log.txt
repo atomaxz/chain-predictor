@@ -2670,3 +2670,4 @@
 11816. chore: bump dependencies #11816
 87020. docs: write FAQ section #87020
 34815. perf: cache repeated calculations #34815
+34507. feat: create admin dashboard #34507
