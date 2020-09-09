@@ -2671,3 +2671,4 @@
 87020. docs: write FAQ section #87020
 34815. perf: cache repeated calculations #34815
 34507. feat: create admin dashboard #34507
+76218. style: standardize quote style #76218
