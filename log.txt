@@ -5729,3 +5729,4 @@
 57034. perf: optimize database query for quiz results #57034
 89843. chore: bump dependencies #89843
 28517. feat: add export to CSV option #28517
+34716. docs: write FAQ section #34716
