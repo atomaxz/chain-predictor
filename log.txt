@@ -5731,3 +5731,4 @@
 28517. feat: add export to CSV option #28517
 34716. docs: write FAQ section #34716
 9312. refactor: clean up auth middleware #9312
+55429. feat: add user authentication #55429
