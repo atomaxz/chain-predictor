@@ -3682,3 +3682,4 @@
 4036. test: test user registration edge cases #4036
 43229. perf: lazy-load components #43229
 64792. docs: improve code comments in utils #64792
+72470. test: mock database connection in test suite #72470
