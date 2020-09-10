@@ -3684,3 +3684,4 @@
 64792. docs: improve code comments in utils #64792
 72470. test: mock database connection in test suite #72470
 44190. refactor: remove redundant code blocks #44190
+72275. test: mock database connection in test suite #72275
