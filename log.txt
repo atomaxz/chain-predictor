@@ -5736,3 +5736,4 @@
 70858. docs: improve code comments in utils #70858
 47285. feat: enable dark mode toggle #47285
 17108. feat: enable dark mode toggle #17108
+56826. style: remove trailing whitespace #56826
