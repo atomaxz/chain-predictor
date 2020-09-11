@@ -2678,3 +2678,4 @@
 59766. feat: implement quiz timer feature #59766
 50956. test: add integration test for /submit endpoint #50956
 34833. test: add integration test for /submit endpoint #34833
+43985. fix: handle 500 error in quiz API #43985
