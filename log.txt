@@ -2682,3 +2682,4 @@
 10052. docs: write FAQ section #10052
 24170. docs: improve code comments in utils #24170
 25346. docs: add API usage examples #25346
+52578. refactor: remove redundant code blocks #52578
