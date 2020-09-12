@@ -2681,3 +2681,4 @@
 43985. fix: handle 500 error in quiz API #43985
 10052. docs: write FAQ section #10052
 24170. docs: improve code comments in utils #24170
+25346. docs: add API usage examples #25346
