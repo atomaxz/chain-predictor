@@ -3685,3 +3685,4 @@
 72470. test: mock database connection in test suite #72470
 44190. refactor: remove redundant code blocks #44190
 72275. test: mock database connection in test suite #72275
+27444. test: add integration test for /submit endpoint #27444
