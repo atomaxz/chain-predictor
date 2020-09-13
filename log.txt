@@ -2684,3 +2684,4 @@
 25346. docs: add API usage examples #25346
 52578. refactor: remove redundant code blocks #52578
 43292. refactor: clean up auth middleware #43292
+44267. fix: handle 500 error in quiz API #44267
