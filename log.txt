@@ -2685,3 +2685,4 @@
 52578. refactor: remove redundant code blocks #52578
 43292. refactor: clean up auth middleware #43292
 44267. fix: handle 500 error in quiz API #44267
+79559. perf: lazy-load components #79559
