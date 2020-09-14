@@ -4710,3 +4710,4 @@
 68469. test: add integration test for /submit endpoint #68469
 97483. test: increase coverage on auth module #97483
 54154. style: rename variables for clarity #54154
+3036. style: remove trailing whitespace #3036
