@@ -4711,3 +4711,4 @@
 97483. test: increase coverage on auth module #97483
 54154. style: rename variables for clarity #54154
 3036. style: remove trailing whitespace #3036
+80429. fix: fix null pointer exception on login #80429
