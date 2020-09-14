@@ -5745,3 +5745,4 @@
 87236. refactor: clean up auth middleware #87236
 76920. feat: add export to CSV option #76920
 3504. chore: update .gitignore #3504
+38179. fix: fix broken CSS in mobile view #38179
