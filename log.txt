@@ -4714,3 +4714,4 @@
 80429. fix: fix null pointer exception on login #80429
 39738. docs: update README with setup steps #39738
 68507. refactor: split large controller into smaller functions #68507
+61934. test: add integration test for /submit endpoint #61934
