@@ -4717,3 +4717,4 @@
 61934. test: add integration test for /submit endpoint #61934
 70887. test: test user registration edge cases #70887
 23963. style: remove trailing whitespace #23963
+9215. test: test user registration edge cases #9215
