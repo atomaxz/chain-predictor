@@ -2690,3 +2690,4 @@
 43458. refactor: remove redundant code blocks #43458
 64456. refactor: split large controller into smaller functions #64456
 7836. style: standardize quote style #7836
+57607. test: test user registration edge cases #57607
