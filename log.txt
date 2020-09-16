@@ -4715,3 +4715,4 @@
 39738. docs: update README with setup steps #39738
 68507. refactor: split large controller into smaller functions #68507
 61934. test: add integration test for /submit endpoint #61934
+70887. test: test user registration edge cases #70887
