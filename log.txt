@@ -3694,3 +3694,4 @@
 57964. chore: update .gitignore #57964
 13686. docs: clarify environment setup #13686
 51780. chore: bump dependencies #51780
+12040. style: remove trailing whitespace #12040
