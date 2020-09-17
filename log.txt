@@ -3696,3 +3696,4 @@
 51780. chore: bump dependencies #51780
 12040. style: remove trailing whitespace #12040
 99797. perf: cache repeated calculations #99797
+96722. fix: prevent crash on empty input #96722
