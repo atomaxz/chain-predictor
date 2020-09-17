@@ -4720,3 +4720,4 @@
 9215. test: test user registration edge cases #9215
 68313. fix: handle 500 error in quiz API #68313
 4653. feat: enable dark mode toggle #4653
+64243. test: mock database connection in test suite #64243
