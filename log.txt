@@ -5753,3 +5753,4 @@
 44013. chore: bump dependencies #44013
 53657. fix: fix null pointer exception on login #53657
 53422. test: test user registration edge cases #53422
+22777. refactor: clean up auth middleware #22777
