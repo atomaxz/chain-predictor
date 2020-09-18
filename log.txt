@@ -3700,3 +3700,4 @@
 63942. feat: support email verification #63942
 72667. perf: cache repeated calculations #72667
 77770. chore: update .gitignore #77770
+77811. docs: document token refresh logic #77811
