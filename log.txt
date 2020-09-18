@@ -3701,3 +3701,4 @@
 72667. perf: cache repeated calculations #72667
 77770. chore: update .gitignore #77770
 77811. docs: document token refresh logic #77811
+26926. fix: correct typo in registration form #26926
