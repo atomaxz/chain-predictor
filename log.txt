@@ -5756,3 +5756,4 @@
 22777. refactor: clean up auth middleware #22777
 89560. fix: correct typo in registration form #89560
 25306. test: add unit test for quiz service #25306
+67027. chore: add GitHub actions badge #67027
