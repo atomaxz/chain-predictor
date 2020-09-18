@@ -2697,3 +2697,4 @@
 46914. test: test user registration edge cases #46914
 60665. test: test user registration edge cases #60665
 5939. style: standardize quote style #5939
+10955. perf: optimize database query for quiz results #10955
