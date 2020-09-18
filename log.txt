@@ -2695,3 +2695,4 @@
 81552. refactor: remove redundant code blocks #81552
 11481. chore: clean up unused files #11481
 46914. test: test user registration edge cases #46914
+60665. test: test user registration edge cases #60665
