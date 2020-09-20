@@ -5761,3 +5761,4 @@
 99186. style: apply consistent indentation #99186
 46794. chore: bump dependencies #46794
 1906. docs: add API usage examples #1906
+26003. feat: support email verification #26003
