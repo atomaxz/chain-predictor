@@ -3708,3 +3708,4 @@
 11775. chore: clean up unused files #11775
 3194. fix: resolve issue with date parsing #3194
 44049. perf: reduce image load time #44049
+89879. feat: support email verification #89879
