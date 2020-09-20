@@ -3707,3 +3707,4 @@
 47580. docs: improve code comments in utils #47580
 11775. chore: clean up unused files #11775
 3194. fix: resolve issue with date parsing #3194
+44049. perf: reduce image load time #44049
