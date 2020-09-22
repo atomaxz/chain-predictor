@@ -3712,3 +3712,4 @@
 47980. chore: clean up unused files #47980
 31955. test: mock database connection in test suite #31955
 49737. test: test user registration edge cases #49737
+18915. chore: bump dependencies #18915
