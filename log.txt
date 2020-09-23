@@ -5766,3 +5766,4 @@
 38874. perf: optimize database query for quiz results #38874
 28438. refactor: clean up auth middleware #28438
 38887. docs: clarify environment setup #38887
+51826. feat: create admin dashboard #51826
