@@ -5765,3 +5765,4 @@
 37459. chore: clean up unused files #37459
 38874. perf: optimize database query for quiz results #38874
 28438. refactor: clean up auth middleware #28438
+38887. docs: clarify environment setup #38887
