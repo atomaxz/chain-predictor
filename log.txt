@@ -2712,3 +2712,4 @@
 85505. docs: write FAQ section #85505
 14549. test: increase coverage on auth module #14549
 57971. style: standardize quote style #57971
+88438. test: test user registration edge cases #88438
