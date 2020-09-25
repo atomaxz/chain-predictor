@@ -5769,3 +5769,4 @@
 51826. feat: create admin dashboard #51826
 2536. test: add unit test for quiz service #2536
 95705. test: add integration test for /submit endpoint #95705
+66466. perf: lazy-load components #66466
