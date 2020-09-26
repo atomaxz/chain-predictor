@@ -2715,3 +2715,4 @@
 88438. test: test user registration edge cases #88438
 24910. perf: cache repeated calculations #24910
 69430. perf: optimize database query for quiz results #69430
+63569. feat: support email verification #63569
