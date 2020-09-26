@@ -3719,3 +3719,4 @@
 72368. test: add integration test for /submit endpoint #72368
 69583. style: remove trailing whitespace #69583
 69791. fix: fix broken CSS in mobile view #69791
+69564. test: add integration test for /submit endpoint #69564
