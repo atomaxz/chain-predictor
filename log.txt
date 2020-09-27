@@ -2718,3 +2718,4 @@
 63569. feat: support email verification #63569
 14004. style: remove trailing whitespace #14004
 71068. refactor: organize models into subfolders #71068
+43671. fix: fix broken CSS in mobile view #43671
