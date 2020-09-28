@@ -3724,3 +3724,4 @@
 25701. chore: update .gitignore #25701
 11470. refactor: clean up auth middleware #11470
 58626. style: rename variables for clarity #58626
+50408. fix: handle 500 error in quiz API #50408
