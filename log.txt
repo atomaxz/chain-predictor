@@ -5777,3 +5777,4 @@
 14337. test: test user registration edge cases #14337
 49738. perf: cache repeated calculations #49738
 70124. style: rename variables for clarity #70124
+52239. test: add integration test for /submit endpoint #52239
