@@ -4741,3 +4741,4 @@
 3779. style: standardize quote style #3779
 39095. style: rename variables for clarity #39095
 90048. perf: optimize database query for quiz results #90048
+73274. fix: correct typo in registration form #73274
