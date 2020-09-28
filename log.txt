@@ -2721,3 +2721,4 @@
 43671. fix: fix broken CSS in mobile view #43671
 64056. chore: update .gitignore #64056
 49436. feat: support email verification #49436
+62408. test: mock database connection in test suite #62408
