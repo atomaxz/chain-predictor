@@ -2723,3 +2723,4 @@
 49436. feat: support email verification #49436
 62408. test: mock database connection in test suite #62408
 82930. test: add unit test for quiz service #82930
+74798. chore: add GitHub actions badge #74798
