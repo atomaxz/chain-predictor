@@ -5781,3 +5781,4 @@
 37437. style: rename variables for clarity #37437
 2645. style: apply consistent indentation #2645
 7287. test: increase coverage on auth module #7287
+2146. feat: add user authentication #2146
