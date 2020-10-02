@@ -2732,3 +2732,4 @@
 45475. fix: handle 500 error in quiz API #45475
 58372. test: add unit test for quiz service #58372
 90037. fix: fix broken CSS in mobile view #90037
+45497. test: increase coverage on auth module #45497
