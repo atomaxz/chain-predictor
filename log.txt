@@ -2733,3 +2733,4 @@
 58372. test: add unit test for quiz service #58372
 90037. fix: fix broken CSS in mobile view #90037
 45497. test: increase coverage on auth module #45497
+11749. refactor: split large controller into smaller functions #11749
