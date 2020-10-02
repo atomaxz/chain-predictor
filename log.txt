@@ -2734,3 +2734,4 @@
 90037. fix: fix broken CSS in mobile view #90037
 45497. test: increase coverage on auth module #45497
 11749. refactor: split large controller into smaller functions #11749
+31388. fix: resolve issue with date parsing #31388
