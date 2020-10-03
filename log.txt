@@ -2736,3 +2736,4 @@
 11749. refactor: split large controller into smaller functions #11749
 31388. fix: resolve issue with date parsing #31388
 9613. fix: prevent crash on empty input #9613
+50580. test: increase coverage on auth module #50580
