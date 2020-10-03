@@ -4752,3 +4752,4 @@
 73296. chore: bump dependencies #73296
 60664. style: standardize quote style #60664
 29451. fix: prevent crash on empty input #29451
+61340. refactor: remove redundant code blocks #61340
