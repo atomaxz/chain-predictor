@@ -5784,3 +5784,4 @@
 2146. feat: add user authentication #2146
 98755. test: test user registration edge cases #98755
 55067. fix: fix null pointer exception on login #55067
+54301. style: reformat files with black #54301
