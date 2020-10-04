@@ -3738,3 +3738,4 @@
 28717. chore: clean up unused files #28717
 89249. test: test user registration edge cases #89249
 80656. fix: fix broken CSS in mobile view #80656
+13888. docs: document token refresh logic #13888
