@@ -4758,3 +4758,4 @@
 48345. docs: add API usage examples #48345
 61910. docs: clarify environment setup #61910
 72733. docs: write FAQ section #72733
+45207. test: test user registration edge cases #45207
