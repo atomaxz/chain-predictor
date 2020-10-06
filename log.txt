@@ -2741,3 +2741,4 @@
 84416. fix: resolve issue with date parsing #84416
 87832. feat: add export to CSV option #87832
 80030. feat: implement quiz timer feature #80030
+17305. style: reformat files with black #17305
