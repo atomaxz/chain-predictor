@@ -2739,3 +2739,4 @@
 50580. test: increase coverage on auth module #50580
 44915. docs: clarify environment setup #44915
 84416. fix: resolve issue with date parsing #84416
+87832. feat: add export to CSV option #87832
