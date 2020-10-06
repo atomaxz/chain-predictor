@@ -5789,3 +5789,4 @@
 82120. chore: update .gitignore #82120
 37052. chore: update .gitignore #37052
 31924. chore: bump dependencies #31924
+17518. feat: support email verification #17518
