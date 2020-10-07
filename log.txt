@@ -3745,3 +3745,4 @@
 44770. fix: handle 500 error in quiz API #44770
 93393. fix: correct typo in registration form #93393
 10470. docs: clarify environment setup #10470
+81415. perf: reduce image load time #81415
