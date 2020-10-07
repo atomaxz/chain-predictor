@@ -3742,3 +3742,4 @@
 42069. test: test user registration edge cases #42069
 18986. docs: clarify environment setup #18986
 33517. refactor: split large controller into smaller functions #33517
+44770. fix: handle 500 error in quiz API #44770
