@@ -4762,3 +4762,4 @@
 88182. style: reformat files with black #88182
 80631. style: standardize quote style #80631
 12065. test: test user registration edge cases #12065
+35194. style: remove trailing whitespace #35194
