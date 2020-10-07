@@ -3746,3 +3746,4 @@
 93393. fix: correct typo in registration form #93393
 10470. docs: clarify environment setup #10470
 81415. perf: reduce image load time #81415
+20944. test: increase coverage on auth module #20944
