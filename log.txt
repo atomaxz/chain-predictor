@@ -3743,3 +3743,4 @@
 18986. docs: clarify environment setup #18986
 33517. refactor: split large controller into smaller functions #33517
 44770. fix: handle 500 error in quiz API #44770
+93393. fix: correct typo in registration form #93393
