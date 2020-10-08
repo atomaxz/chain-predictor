@@ -2744,3 +2744,4 @@
 17305. style: reformat files with black #17305
 71924. docs: improve code comments in utils #71924
 88018. perf: cache repeated calculations #88018
+47400. perf: optimize database query for quiz results #47400
