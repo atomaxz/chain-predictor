@@ -3747,3 +3747,4 @@
 10470. docs: clarify environment setup #10470
 81415. perf: reduce image load time #81415
 20944. test: increase coverage on auth module #20944
+90856. feat: support email verification #90856
