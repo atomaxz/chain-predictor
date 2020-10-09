@@ -5796,3 +5796,4 @@
 35962. test: mock database connection in test suite #35962
 99862. test: add integration test for /submit endpoint #99862
 95644. chore: bump dependencies #95644
+78848. fix: resolve issue with date parsing #78848
