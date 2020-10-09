@@ -2750,3 +2750,4 @@
 81811. perf: cache repeated calculations #81811
 48245. style: standardize quote style #48245
 28895. style: standardize quote style #28895
+63544. test: increase coverage on auth module #63544
