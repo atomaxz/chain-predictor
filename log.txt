@@ -3749,3 +3749,4 @@
 20944. test: increase coverage on auth module #20944
 90856. feat: support email verification #90856
 92407. fix: handle 500 error in quiz API #92407
+85772. test: test user registration edge cases #85772
