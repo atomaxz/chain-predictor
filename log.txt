@@ -3750,3 +3750,4 @@
 90856. feat: support email verification #90856
 92407. fix: handle 500 error in quiz API #92407
 85772. test: test user registration edge cases #85772
+38051. docs: document token refresh logic #38051
