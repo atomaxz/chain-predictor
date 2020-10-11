@@ -2755,3 +2755,4 @@
 92028. chore: clean up unused files #92028
 87404. docs: add API usage examples #87404
 16999. test: test user registration edge cases #16999
+18134. chore: update .gitignore #18134
