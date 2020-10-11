@@ -3756,3 +3756,4 @@
 53758. refactor: remove redundant code blocks #53758
 58016. perf: reduce image load time #58016
 49471. refactor: split large controller into smaller functions #49471
+58491. refactor: clean up auth middleware #58491
