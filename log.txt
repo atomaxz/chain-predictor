@@ -5802,3 +5802,4 @@
 44733. docs: clarify environment setup #44733
 32520. refactor: clean up auth middleware #32520
 22100. refactor: organize models into subfolders #22100
+39729. fix: handle 500 error in quiz API #39729
