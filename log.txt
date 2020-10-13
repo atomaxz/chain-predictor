@@ -3761,3 +3761,4 @@
 19551. feat: add user authentication #19551
 10962. docs: clarify environment setup #10962
 16627. feat: create admin dashboard #16627
+2383. chore: bump dependencies #2383
