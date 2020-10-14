@@ -2764,3 +2764,4 @@
 14155. chore: clean up unused files #14155
 43509. test: mock database connection in test suite #43509
 25710. chore: add GitHub actions badge #25710
+4969. docs: write FAQ section #4969
