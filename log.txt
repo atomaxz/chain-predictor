@@ -5809,3 +5809,4 @@
 82734. style: reformat files with black #82734
 70378. fix: fix broken CSS in mobile view #70378
 17146. style: rename variables for clarity #17146
+27911. feat: add export to CSV option #27911
