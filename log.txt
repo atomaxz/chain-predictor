@@ -3763,3 +3763,4 @@
 16627. feat: create admin dashboard #16627
 2383. chore: bump dependencies #2383
 9656. refactor: remove redundant code blocks #9656
+80015. fix: handle 500 error in quiz API #80015
