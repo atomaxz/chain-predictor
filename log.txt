@@ -5808,3 +5808,4 @@
 17770. chore: clean up unused files #17770
 82734. style: reformat files with black #82734
 70378. fix: fix broken CSS in mobile view #70378
+17146. style: rename variables for clarity #17146
