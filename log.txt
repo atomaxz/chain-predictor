@@ -3766,3 +3766,4 @@
 80015. fix: handle 500 error in quiz API #80015
 39941. docs: update README with setup steps #39941
 83320. style: standardize quote style #83320
+91814. test: add integration test for /submit endpoint #91814
