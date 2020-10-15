@@ -4788,3 +4788,4 @@
 3790. feat: create admin dashboard #3790
 34788. style: reformat files with black #34788
 37801. docs: update README with setup steps #37801
+1812. perf: reduce image load time #1812
