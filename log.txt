@@ -2767,3 +2767,4 @@
 4969. docs: write FAQ section #4969
 95287. feat: enable dark mode toggle #95287
 9965. chore: update .gitignore #9965
+79472. test: mock database connection in test suite #79472
