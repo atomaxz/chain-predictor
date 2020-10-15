@@ -2768,3 +2768,4 @@
 95287. feat: enable dark mode toggle #95287
 9965. chore: update .gitignore #9965
 79472. test: mock database connection in test suite #79472
+16985. test: test user registration edge cases #16985
