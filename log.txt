@@ -2770,3 +2770,4 @@
 79472. test: mock database connection in test suite #79472
 16985. test: test user registration edge cases #16985
 89045. chore: rename env.example #89045
+17015. fix: handle 500 error in quiz API #17015
