@@ -3770,3 +3770,4 @@
 6180. style: remove trailing whitespace #6180
 36478. feat: support email verification #36478
 86085. feat: add export to CSV option #86085
+41317. test: add unit test for quiz service #41317
