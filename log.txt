@@ -3768,3 +3768,4 @@
 83320. style: standardize quote style #83320
 91814. test: add integration test for /submit endpoint #91814
 6180. style: remove trailing whitespace #6180
+36478. feat: support email verification #36478
