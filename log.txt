@@ -2773,3 +2773,4 @@
 17015. fix: handle 500 error in quiz API #17015
 15337. fix: resolve issue with date parsing #15337
 30982. refactor: clean up auth middleware #30982
+82623. perf: lazy-load components #82623
