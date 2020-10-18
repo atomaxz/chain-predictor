@@ -3780,3 +3780,4 @@
 15107. docs: add API usage examples #15107
 83050. fix: correct typo in registration form #83050
 9607. chore: clean up unused files #9607
+43033. fix: prevent crash on empty input #43033
