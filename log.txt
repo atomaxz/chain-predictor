@@ -5825,3 +5825,4 @@
 91181. perf: optimize database query for quiz results #91181
 66956. refactor: remove redundant code blocks #66956
 49191. perf: optimize database query for quiz results #49191
+59035. test: increase coverage on auth module #59035
