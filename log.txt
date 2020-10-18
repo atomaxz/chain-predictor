@@ -3778,3 +3778,4 @@
 52558. test: add integration test for /submit endpoint #52558
 7240. test: add integration test for /submit endpoint #7240
 15107. docs: add API usage examples #15107
+83050. fix: correct typo in registration form #83050
