@@ -4797,3 +4797,4 @@
 11714. perf: lazy-load components #11714
 51769. refactor: split large controller into smaller functions #51769
 43650. feat: add export to CSV option #43650
+65455. refactor: clean up auth middleware #65455
