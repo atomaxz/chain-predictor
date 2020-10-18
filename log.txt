@@ -2775,3 +2775,4 @@
 30982. refactor: clean up auth middleware #30982
 82623. perf: lazy-load components #82623
 26895. docs: document token refresh logic #26895
+94510. perf: cache repeated calculations #94510
