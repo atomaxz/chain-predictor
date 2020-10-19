@@ -3788,3 +3788,4 @@
 70194. feat: add export to CSV option #70194
 95066. chore: bump dependencies #95066
 87997. test: add unit test for quiz service #87997
+68028. test: increase coverage on auth module #68028
