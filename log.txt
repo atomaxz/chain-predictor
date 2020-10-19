@@ -4801,3 +4801,4 @@
 6079. docs: add API usage examples #6079
 77153. perf: reduce image load time #77153
 87378. test: increase coverage on auth module #87378
+36469. feat: add export to CSV option #36469
