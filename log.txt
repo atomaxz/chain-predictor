@@ -4800,3 +4800,4 @@
 65455. refactor: clean up auth middleware #65455
 6079. docs: add API usage examples #6079
 77153. perf: reduce image load time #77153
+87378. test: increase coverage on auth module #87378
