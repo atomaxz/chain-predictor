@@ -5828,3 +5828,4 @@
 59035. test: increase coverage on auth module #59035
 87556. refactor: refactor quiz grading logic #87556
 39174. style: reformat files with black #39174
+28195. fix: fix null pointer exception on login #28195
