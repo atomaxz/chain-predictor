@@ -2781,3 +2781,4 @@
 85166. refactor: split large controller into smaller functions #85166
 75791. style: apply consistent indentation #75791
 67583. chore: update .gitignore #67583
+47093. fix: fix broken CSS in mobile view #47093
