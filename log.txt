@@ -4804,3 +4804,4 @@
 36469. feat: add export to CSV option #36469
 0875. feat: enable dark mode toggle #875
 41327. feat: implement quiz timer feature #41327
+16038. feat: support email verification #16038
