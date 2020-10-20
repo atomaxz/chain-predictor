@@ -4806,3 +4806,4 @@
 41327. feat: implement quiz timer feature #41327
 16038. feat: support email verification #16038
 47081. style: apply consistent indentation #47081
+74224. fix: handle 500 error in quiz API #74224
