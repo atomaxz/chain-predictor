@@ -3791,3 +3791,4 @@
 68028. test: increase coverage on auth module #68028
 33293. style: remove trailing whitespace #33293
 99555. perf: optimize database query for quiz results #99555
+62818. test: add integration test for /submit endpoint #62818
