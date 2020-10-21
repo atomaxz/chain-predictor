@@ -2784,3 +2784,4 @@
 47093. fix: fix broken CSS in mobile view #47093
 12294. style: rename variables for clarity #12294
 21343. feat: support email verification #21343
+68272. test: add unit test for quiz service #68272
