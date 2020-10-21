@@ -3793,3 +3793,4 @@
 99555. perf: optimize database query for quiz results #99555
 62818. test: add integration test for /submit endpoint #62818
 90580. refactor: refactor quiz grading logic #90580
+25677. feat: enable dark mode toggle #25677
