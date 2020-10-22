@@ -3794,3 +3794,4 @@
 62818. test: add integration test for /submit endpoint #62818
 90580. refactor: refactor quiz grading logic #90580
 25677. feat: enable dark mode toggle #25677
+36229. refactor: split large controller into smaller functions #36229
