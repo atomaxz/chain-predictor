@@ -5840,3 +5840,4 @@
 96225. refactor: remove redundant code blocks #96225
 93434. fix: fix broken CSS in mobile view #93434
 95498. fix: fix broken CSS in mobile view #95498
+48537. style: reformat files with black #48537
