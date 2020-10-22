@@ -4809,3 +4809,4 @@
 74224. fix: handle 500 error in quiz API #74224
 96673. docs: document token refresh logic #96673
 37571. perf: cache repeated calculations #37571
+73242. perf: reduce image load time #73242
