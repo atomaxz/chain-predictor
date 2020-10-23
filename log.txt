@@ -4810,3 +4810,4 @@
 96673. docs: document token refresh logic #96673
 37571. perf: cache repeated calculations #37571
 73242. perf: reduce image load time #73242
+30994. feat: enable dark mode toggle #30994
