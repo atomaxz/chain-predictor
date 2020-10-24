@@ -5846,3 +5846,4 @@
 3078. feat: add user authentication #3078
 73609. refactor: clean up auth middleware #73609
 49902. chore: update .gitignore #49902
+53340. refactor: organize models into subfolders #53340
