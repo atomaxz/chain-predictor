@@ -2787,3 +2787,4 @@
 68272. test: add unit test for quiz service #68272
 6335. chore: bump dependencies #6335
 46205. feat: create admin dashboard #46205
+67178. perf: optimize database query for quiz results #67178
