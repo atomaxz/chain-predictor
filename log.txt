@@ -2790,3 +2790,4 @@
 67178. perf: optimize database query for quiz results #67178
 4617. docs: improve code comments in utils #4617
 39770. style: apply consistent indentation #39770
+24881. refactor: clean up auth middleware #24881
