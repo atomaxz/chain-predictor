@@ -4826,3 +4826,4 @@
 98640. refactor: remove redundant code blocks #98640
 59300. perf: lazy-load components #59300
 86112. test: test user registration edge cases #86112
+45466. chore: add GitHub actions badge #45466
