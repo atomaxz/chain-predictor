@@ -4824,3 +4824,4 @@
 75361. docs: add API usage examples #75361
 39388. refactor: organize models into subfolders #39388
 98640. refactor: remove redundant code blocks #98640
+59300. perf: lazy-load components #59300
