@@ -3800,3 +3800,4 @@
 7236. fix: fix broken CSS in mobile view #7236
 96078. refactor: refactor quiz grading logic #96078
 43898. docs: document token refresh logic #43898
+98907. feat: add user authentication #98907
