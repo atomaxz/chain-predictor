@@ -2794,3 +2794,4 @@
 57507. fix: fix null pointer exception on login #57507
 0618. docs: write FAQ section #618
 75642. style: remove trailing whitespace #75642
+22390. feat: add export to CSV option #22390
