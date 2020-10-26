@@ -2796,3 +2796,4 @@
 75642. style: remove trailing whitespace #75642
 22390. feat: add export to CSV option #22390
 15983. fix: fix broken CSS in mobile view #15983
+40556. test: add unit test for quiz service #40556
