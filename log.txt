@@ -2798,3 +2798,4 @@
 15983. fix: fix broken CSS in mobile view #15983
 40556. test: add unit test for quiz service #40556
 90317. perf: optimize database query for quiz results #90317
+40929. style: reformat files with black #40929
