@@ -3814,3 +3814,4 @@
 32100. test: add integration test for /submit endpoint #32100
 90700. feat: create admin dashboard #90700
 73038. feat: create admin dashboard #73038
+1067. test: increase coverage on auth module #1067
