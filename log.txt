@@ -5860,3 +5860,4 @@
 1260. refactor: split large controller into smaller functions #1260
 33782. perf: optimize database query for quiz results #33782
 26788. feat: create admin dashboard #26788
+58830. refactor: remove redundant code blocks #58830
