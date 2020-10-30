@@ -3817,3 +3817,4 @@
 1067. test: increase coverage on auth module #1067
 70713. docs: clarify environment setup #70713
 10275. test: add unit test for quiz service #10275
+74883. chore: add GitHub actions badge #74883
