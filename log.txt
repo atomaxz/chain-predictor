@@ -4839,3 +4839,4 @@
 44165. refactor: organize models into subfolders #44165
 34365. fix: handle 500 error in quiz API #34365
 86470. fix: fix null pointer exception on login #86470
+76949. test: test user registration edge cases #76949
