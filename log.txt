@@ -2803,3 +2803,4 @@
 71300. refactor: refactor quiz grading logic #71300
 8006. fix: resolve issue with date parsing #8006
 50341. perf: lazy-load components #50341
+96862. fix: correct typo in registration form #96862
