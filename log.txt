@@ -3821,3 +3821,4 @@
 61000. feat: implement quiz timer feature #61000
 58518. fix: resolve issue with date parsing #58518
 66350. refactor: split large controller into smaller functions #66350
+50979. fix: fix broken CSS in mobile view #50979
