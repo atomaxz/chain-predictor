@@ -5868,3 +5868,4 @@
 19915. perf: optimize database query for quiz results #19915
 12178. fix: correct typo in registration form #12178
 71148. refactor: organize models into subfolders #71148
+25747. feat: enable dark mode toggle #25747
