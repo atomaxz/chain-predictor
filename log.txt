@@ -3823,3 +3823,4 @@
 66350. refactor: split large controller into smaller functions #66350
 50979. fix: fix broken CSS in mobile view #50979
 31207. style: rename variables for clarity #31207
+67203. docs: clarify environment setup #67203
