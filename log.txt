@@ -4849,3 +4849,4 @@
 62252. test: mock database connection in test suite #62252
 67145. refactor: split large controller into smaller functions #67145
 11354. refactor: refactor quiz grading logic #11354
+6442. fix: prevent crash on empty input #6442
