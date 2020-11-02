@@ -4852,3 +4852,4 @@
 6442. fix: prevent crash on empty input #6442
 67232. style: apply consistent indentation #67232
 18821. fix: fix null pointer exception on login #18821
+88135. docs: document token refresh logic #88135
