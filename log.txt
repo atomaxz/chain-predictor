@@ -5873,3 +5873,4 @@
 14397. style: reformat files with black #14397
 32925. perf: reduce image load time #32925
 90188. perf: lazy-load components #90188
+40836. test: test user registration edge cases #40836
