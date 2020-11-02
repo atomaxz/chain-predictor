@@ -5872,3 +5872,4 @@
 16390. fix: resolve issue with date parsing #16390
 14397. style: reformat files with black #14397
 32925. perf: reduce image load time #32925
+90188. perf: lazy-load components #90188
