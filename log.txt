@@ -5875,3 +5875,4 @@
 90188. perf: lazy-load components #90188
 40836. test: test user registration edge cases #40836
 89898. perf: cache repeated calculations #89898
+87085. fix: prevent crash on empty input #87085
