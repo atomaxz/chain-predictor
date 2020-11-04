@@ -3829,3 +3829,4 @@
 25080. feat: implement quiz timer feature #25080
 82077. perf: reduce image load time #82077
 30334. perf: cache repeated calculations #30334
+53763. docs: document token refresh logic #53763
