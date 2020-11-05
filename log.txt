@@ -3839,3 +3839,4 @@
 4991. style: standardize quote style #4991
 13720. fix: correct typo in registration form #13720
 13549. docs: write FAQ section #13549
+70290. chore: bump dependencies #70290
