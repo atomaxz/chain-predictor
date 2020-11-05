@@ -3837,3 +3837,4 @@
 53305. test: add unit test for quiz service #53305
 8904. test: test user registration edge cases #8904
 4991. style: standardize quote style #4991
+13720. fix: correct typo in registration form #13720
