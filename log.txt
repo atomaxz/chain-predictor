@@ -2814,3 +2814,4 @@
 87897. refactor: refactor quiz grading logic #87897
 94944. refactor: organize models into subfolders #94944
 47120. feat: add export to CSV option #47120
+41937. test: increase coverage on auth module #41937
