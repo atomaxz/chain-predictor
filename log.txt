@@ -3835,3 +3835,4 @@
 96836. refactor: organize models into subfolders #96836
 56120. perf: reduce image load time #56120
 53305. test: add unit test for quiz service #53305
+8904. test: test user registration edge cases #8904
