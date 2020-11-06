@@ -4865,3 +4865,4 @@
 83894. docs: add API usage examples #83894
 89895. refactor: organize models into subfolders #89895
 52085. perf: lazy-load components #52085
+77295. chore: add GitHub actions badge #77295
