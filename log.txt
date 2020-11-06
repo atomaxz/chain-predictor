@@ -2815,3 +2815,4 @@
 94944. refactor: organize models into subfolders #94944
 47120. feat: add export to CSV option #47120
 41937. test: increase coverage on auth module #41937
+41326. perf: optimize database query for quiz results #41326
