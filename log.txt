@@ -4866,3 +4866,4 @@
 89895. refactor: organize models into subfolders #89895
 52085. perf: lazy-load components #52085
 77295. chore: add GitHub actions badge #77295
+10569. perf: lazy-load components #10569
