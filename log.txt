@@ -2817,3 +2817,4 @@
 41937. test: increase coverage on auth module #41937
 41326. perf: optimize database query for quiz results #41326
 82830. docs: write FAQ section #82830
+96054. style: reformat files with black #96054
