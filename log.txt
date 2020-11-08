@@ -5888,3 +5888,4 @@
 6876. refactor: clean up auth middleware #6876
 45375. chore: update .gitignore #45375
 71560. docs: add API usage examples #71560
+69854. test: add integration test for /submit endpoint #69854
