@@ -4870,3 +4870,4 @@
 40676. docs: add API usage examples #40676
 47399. test: mock database connection in test suite #47399
 64711. style: rename variables for clarity #64711
+61394. refactor: organize models into subfolders #61394
