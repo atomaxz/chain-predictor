@@ -3851,3 +3851,4 @@
 46857. refactor: split large controller into smaller functions #46857
 71872. perf: reduce image load time #71872
 71340. fix: handle 500 error in quiz API #71340
+3850. docs: write FAQ section #3850
