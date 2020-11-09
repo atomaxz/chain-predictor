@@ -3854,3 +3854,4 @@
 3850. docs: write FAQ section #3850
 88184. refactor: clean up auth middleware #88184
 13886. test: test user registration edge cases #13886
+63979. feat: add user authentication #63979
