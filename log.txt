@@ -5892,3 +5892,4 @@
 31085. chore: add GitHub actions badge #31085
 10590. fix: prevent crash on empty input #10590
 15776. fix: correct typo in registration form #15776
+27369. feat: create admin dashboard #27369
