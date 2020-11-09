@@ -5889,3 +5889,4 @@
 45375. chore: update .gitignore #45375
 71560. docs: add API usage examples #71560
 69854. test: add integration test for /submit endpoint #69854
+31085. chore: add GitHub actions badge #31085
