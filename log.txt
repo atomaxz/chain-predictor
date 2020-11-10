@@ -3856,3 +3856,4 @@
 13886. test: test user registration edge cases #13886
 63979. feat: add user authentication #63979
 71925. perf: reduce image load time #71925
+63335. fix: fix broken CSS in mobile view #63335
