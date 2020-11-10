@@ -5894,3 +5894,4 @@
 15776. fix: correct typo in registration form #15776
 27369. feat: create admin dashboard #27369
 65138. perf: optimize database query for quiz results #65138
+59387. feat: enable dark mode toggle #59387
