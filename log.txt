@@ -3861,3 +3861,4 @@
 64993. refactor: clean up auth middleware #64993
 14746. style: apply consistent indentation #14746
 61336. test: add integration test for /submit endpoint #61336
+40196. test: add unit test for quiz service #40196
