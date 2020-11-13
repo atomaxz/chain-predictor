@@ -4887,3 +4887,4 @@
 28204. refactor: split large controller into smaller functions #28204
 35788. perf: lazy-load components #35788
 97506. chore: update .gitignore #97506
+80031. test: mock database connection in test suite #80031
