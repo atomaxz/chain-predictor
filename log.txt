@@ -4886,3 +4886,4 @@
 46699. docs: add API usage examples #46699
 28204. refactor: split large controller into smaller functions #28204
 35788. perf: lazy-load components #35788
+97506. chore: update .gitignore #97506
