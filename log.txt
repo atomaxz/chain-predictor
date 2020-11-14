@@ -2839,3 +2839,4 @@
 12259. chore: add GitHub actions badge #12259
 45079. fix: prevent crash on empty input #45079
 65034. chore: add GitHub actions badge #65034
+73267. fix: prevent crash on empty input #73267
