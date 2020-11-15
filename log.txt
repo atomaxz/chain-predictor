@@ -2842,3 +2842,4 @@
 73267. fix: prevent crash on empty input #73267
 62571. test: increase coverage on auth module #62571
 79850. fix: fix broken CSS in mobile view #79850
+17348. refactor: organize models into subfolders #17348
