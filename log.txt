@@ -5905,3 +5905,4 @@
 29749. perf: lazy-load components #29749
 70115. feat: create admin dashboard #70115
 38770. refactor: refactor quiz grading logic #38770
+51850. perf: lazy-load components #51850
