@@ -4894,3 +4894,4 @@
 31019. perf: lazy-load components #31019
 30299. chore: update .gitignore #30299
 6341. style: standardize quote style #6341
+62279. fix: fix broken CSS in mobile view #62279
