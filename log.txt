@@ -3867,3 +3867,4 @@
 59752. style: standardize quote style #59752
 76859. test: increase coverage on auth module #76859
 67959. style: remove trailing whitespace #67959
+23297. docs: document token refresh logic #23297
