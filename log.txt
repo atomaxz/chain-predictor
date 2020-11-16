@@ -2844,3 +2844,4 @@
 79850. fix: fix broken CSS in mobile view #79850
 17348. refactor: organize models into subfolders #17348
 74351. feat: add export to CSV option #74351
+74664. feat: add user authentication #74664
