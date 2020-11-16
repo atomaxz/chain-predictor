@@ -3865,3 +3865,4 @@
 35923. feat: add export to CSV option #35923
 22234. style: rename variables for clarity #22234
 59752. style: standardize quote style #59752
+76859. test: increase coverage on auth module #76859
