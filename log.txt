@@ -4895,3 +4895,4 @@
 30299. chore: update .gitignore #30299
 6341. style: standardize quote style #6341
 62279. fix: fix broken CSS in mobile view #62279
+22479. test: test user registration edge cases #22479
