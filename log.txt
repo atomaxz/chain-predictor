@@ -2846,3 +2846,4 @@
 74351. feat: add export to CSV option #74351
 74664. feat: add user authentication #74664
 45256. docs: improve code comments in utils #45256
+81130. fix: resolve issue with date parsing #81130
