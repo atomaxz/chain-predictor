@@ -5911,3 +5911,4 @@
 44202. docs: clarify environment setup #44202
 98247. perf: reduce image load time #98247
 95757. docs: improve code comments in utils #95757
+81603. feat: enable dark mode toggle #81603
