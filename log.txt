@@ -4901,3 +4901,4 @@
 65549. style: remove trailing whitespace #65549
 62779. test: test user registration edge cases #62779
 64393. docs: document token refresh logic #64393
+96672. refactor: clean up auth middleware #96672
