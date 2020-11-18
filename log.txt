@@ -5914,3 +5914,4 @@
 81603. feat: enable dark mode toggle #81603
 96763. docs: update README with setup steps #96763
 66068. docs: clarify environment setup #66068
+89534. fix: fix null pointer exception on login #89534
