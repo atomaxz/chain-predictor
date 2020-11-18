@@ -4905,3 +4905,4 @@
 38467. perf: reduce image load time #38467
 38937. test: mock database connection in test suite #38937
 91326. style: standardize quote style #91326
+40044. chore: update .gitignore #40044
