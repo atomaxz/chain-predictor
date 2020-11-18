@@ -4903,3 +4903,4 @@
 64393. docs: document token refresh logic #64393
 96672. refactor: clean up auth middleware #96672
 38467. perf: reduce image load time #38467
+38937. test: mock database connection in test suite #38937
