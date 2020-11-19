@@ -5916,3 +5916,4 @@
 66068. docs: clarify environment setup #66068
 89534. fix: fix null pointer exception on login #89534
 47111. test: mock database connection in test suite #47111
+27119. chore: update .gitignore #27119
