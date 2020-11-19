@@ -2851,3 +2851,4 @@
 68602. style: apply consistent indentation #68602
 62953. docs: write FAQ section #62953
 2071. fix: prevent crash on empty input #2071
+93059. fix: handle 500 error in quiz API #93059
