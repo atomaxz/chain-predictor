@@ -2852,3 +2852,4 @@
 62953. docs: write FAQ section #62953
 2071. fix: prevent crash on empty input #2071
 93059. fix: handle 500 error in quiz API #93059
+15791. perf: optimize database query for quiz results #15791
