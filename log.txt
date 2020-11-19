@@ -4907,3 +4907,4 @@
 91326. style: standardize quote style #91326
 40044. chore: update .gitignore #40044
 18385. perf: optimize database query for quiz results #18385
+44929. test: increase coverage on auth module #44929
