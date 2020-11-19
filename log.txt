@@ -3871,3 +3871,4 @@
 81785. refactor: refactor quiz grading logic #81785
 64037. docs: update README with setup steps #64037
 70017. perf: reduce image load time #70017
+29278. fix: prevent crash on empty input #29278
