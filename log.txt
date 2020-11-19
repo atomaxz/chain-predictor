@@ -3874,3 +3874,4 @@
 29278. fix: prevent crash on empty input #29278
 31100. chore: add GitHub actions badge #31100
 29069. refactor: refactor quiz grading logic #29069
+38007. feat: support email verification #38007
