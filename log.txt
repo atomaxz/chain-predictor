@@ -2850,3 +2850,4 @@
 8462. style: apply consistent indentation #8462
 68602. style: apply consistent indentation #68602
 62953. docs: write FAQ section #62953
+2071. fix: prevent crash on empty input #2071
