@@ -2857,3 +2857,4 @@
 92780. feat: implement quiz timer feature #92780
 82436. feat: enable dark mode toggle #82436
 39438. style: apply consistent indentation #39438
+1055. feat: create admin dashboard #1055
