@@ -2858,3 +2858,4 @@
 82436. feat: enable dark mode toggle #82436
 39438. style: apply consistent indentation #39438
 1055. feat: create admin dashboard #1055
+96364. chore: add GitHub actions badge #96364
