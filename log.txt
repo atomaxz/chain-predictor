@@ -5919,3 +5919,4 @@
 27119. chore: update .gitignore #27119
 2942. style: rename variables for clarity #2942
 82901. perf: cache repeated calculations #82901
+27431. perf: lazy-load components #27431
