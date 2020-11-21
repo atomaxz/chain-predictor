@@ -3880,3 +3880,4 @@
 96016. perf: reduce image load time #96016
 44898. test: increase coverage on auth module #44898
 19658. chore: add GitHub actions badge #19658
+79402. docs: write FAQ section #79402
