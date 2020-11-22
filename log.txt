@@ -5928,3 +5928,4 @@
 2292. feat: add user authentication #2292
 35772. docs: write FAQ section #35772
 33155. fix: correct typo in registration form #33155
+71175. style: standardize quote style #71175
