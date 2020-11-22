@@ -3884,3 +3884,4 @@
 26291. style: apply consistent indentation #26291
 84327. fix: prevent crash on empty input #84327
 42385. docs: add API usage examples #42385
+80288. fix: fix broken CSS in mobile view #80288
