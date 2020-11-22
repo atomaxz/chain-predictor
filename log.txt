@@ -2867,3 +2867,4 @@
 18910. test: add integration test for /submit endpoint #18910
 46287. fix: correct typo in registration form #46287
 66229. perf: lazy-load components #66229
+53722. feat: enable dark mode toggle #53722
