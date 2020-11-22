@@ -3883,3 +3883,4 @@
 79402. docs: write FAQ section #79402
 26291. style: apply consistent indentation #26291
 84327. fix: prevent crash on empty input #84327
+42385. docs: add API usage examples #42385
