@@ -5925,3 +5925,4 @@
 3878. perf: optimize database query for quiz results #3878
 11041. chore: bump dependencies #11041
 95697. refactor: organize models into subfolders #95697
+2292. feat: add user authentication #2292
