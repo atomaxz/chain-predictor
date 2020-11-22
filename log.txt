@@ -3882,3 +3882,4 @@
 19658. chore: add GitHub actions badge #19658
 79402. docs: write FAQ section #79402
 26291. style: apply consistent indentation #26291
+84327. fix: prevent crash on empty input #84327
