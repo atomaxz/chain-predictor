@@ -5926,3 +5926,4 @@
 11041. chore: bump dependencies #11041
 95697. refactor: organize models into subfolders #95697
 2292. feat: add user authentication #2292
+35772. docs: write FAQ section #35772
