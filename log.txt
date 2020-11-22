@@ -5924,3 +5924,4 @@
 71528. test: mock database connection in test suite #71528
 3878. perf: optimize database query for quiz results #3878
 11041. chore: bump dependencies #11041
+95697. refactor: organize models into subfolders #95697
