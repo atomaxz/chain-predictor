@@ -4917,3 +4917,4 @@
 79697. refactor: remove redundant code blocks #79697
 55372. test: test user registration edge cases #55372
 43927. chore: add GitHub actions badge #43927
+88528. feat: enable dark mode toggle #88528
