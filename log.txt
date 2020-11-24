@@ -4922,3 +4922,4 @@
 0905. perf: lazy-load components #905
 51266. feat: enable dark mode toggle #51266
 7595. refactor: remove redundant code blocks #7595
+71235. feat: create admin dashboard #71235
