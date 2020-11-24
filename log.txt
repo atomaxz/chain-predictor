@@ -3887,3 +3887,4 @@
 80288. fix: fix broken CSS in mobile view #80288
 72558. docs: update README with setup steps #72558
 85958. perf: lazy-load components #85958
+4111. docs: clarify environment setup #4111
