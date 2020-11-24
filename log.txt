@@ -5931,3 +5931,4 @@
 71175. style: standardize quote style #71175
 45549. perf: cache repeated calculations #45549
 8893. docs: improve code comments in utils #8893
+62492. fix: correct typo in registration form #62492
