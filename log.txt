@@ -5938,3 +5938,4 @@
 92909. perf: lazy-load components #92909
 75396. perf: lazy-load components #75396
 80332. docs: write FAQ section #80332
+37241. perf: cache repeated calculations #37241
