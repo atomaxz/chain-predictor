@@ -5940,3 +5940,4 @@
 80332. docs: write FAQ section #80332
 37241. perf: cache repeated calculations #37241
 58826. docs: document token refresh logic #58826
+45213. refactor: clean up auth middleware #45213
