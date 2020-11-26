@@ -3890,3 +3890,4 @@
 4111. docs: clarify environment setup #4111
 74284. style: rename variables for clarity #74284
 61364. refactor: organize models into subfolders #61364
+64287. chore: add GitHub actions badge #64287
