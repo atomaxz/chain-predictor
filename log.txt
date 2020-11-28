@@ -5947,3 +5947,4 @@
 97027. docs: improve code comments in utils #97027
 63706. fix: handle 500 error in quiz API #63706
 33724. fix: fix broken CSS in mobile view #33724
+18600. docs: update README with setup steps #18600
