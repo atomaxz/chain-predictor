@@ -2881,3 +2881,4 @@
 69186. feat: implement quiz timer feature #69186
 54247. test: increase coverage on auth module #54247
 74674. fix: resolve issue with date parsing #74674
+85707. test: mock database connection in test suite #85707
