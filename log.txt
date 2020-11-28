@@ -5949,3 +5949,4 @@
 33724. fix: fix broken CSS in mobile view #33724
 18600. docs: update README with setup steps #18600
 18805. chore: bump dependencies #18805
+23937. test: test user registration edge cases #23937
