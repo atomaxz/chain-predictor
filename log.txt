@@ -2882,3 +2882,4 @@
 54247. test: increase coverage on auth module #54247
 74674. fix: resolve issue with date parsing #74674
 85707. test: mock database connection in test suite #85707
+18448. feat: add user authentication #18448
