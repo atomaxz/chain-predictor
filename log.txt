@@ -2883,3 +2883,4 @@
 74674. fix: resolve issue with date parsing #74674
 85707. test: mock database connection in test suite #85707
 18448. feat: add user authentication #18448
+84200. fix: prevent crash on empty input #84200
