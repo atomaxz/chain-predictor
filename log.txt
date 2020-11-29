@@ -2885,3 +2885,4 @@
 18448. feat: add user authentication #18448
 84200. fix: prevent crash on empty input #84200
 84323. test: add unit test for quiz service #84323
+42804. feat: add export to CSV option #42804
