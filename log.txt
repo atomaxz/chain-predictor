@@ -3899,3 +3899,4 @@
 61103. test: increase coverage on auth module #61103
 91768. feat: support email verification #91768
 27129. chore: clean up unused files #27129
+56160. fix: handle 500 error in quiz API #56160
