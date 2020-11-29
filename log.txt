@@ -3897,3 +3897,4 @@
 83030. fix: handle 500 error in quiz API #83030
 84441. test: mock database connection in test suite #84441
 61103. test: increase coverage on auth module #61103
+91768. feat: support email verification #91768
