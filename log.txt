@@ -5952,3 +5952,4 @@
 23937. test: test user registration edge cases #23937
 78126. fix: handle 500 error in quiz API #78126
 6505. test: add integration test for /submit endpoint #6505
+14619. fix: correct typo in registration form #14619
