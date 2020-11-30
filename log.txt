@@ -5951,3 +5951,4 @@
 18805. chore: bump dependencies #18805
 23937. test: test user registration edge cases #23937
 78126. fix: handle 500 error in quiz API #78126
+6505. test: add integration test for /submit endpoint #6505
