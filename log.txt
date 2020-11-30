@@ -4939,3 +4939,4 @@
 89032. test: add integration test for /submit endpoint #89032
 14227. feat: add user authentication #14227
 94807. feat: add user authentication #94807
+21043. refactor: clean up auth middleware #21043
