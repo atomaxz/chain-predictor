@@ -2888,3 +2888,4 @@
 42804. feat: add export to CSV option #42804
 34368. perf: cache repeated calculations #34368
 38768. refactor: organize models into subfolders #38768
+22315. test: test user registration edge cases #22315
