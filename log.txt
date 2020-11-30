@@ -5953,3 +5953,4 @@
 78126. fix: handle 500 error in quiz API #78126
 6505. test: add integration test for /submit endpoint #6505
 14619. fix: correct typo in registration form #14619
+66324. chore: add GitHub actions badge #66324
