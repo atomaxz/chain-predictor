@@ -2895,3 +2895,4 @@
 80720. fix: resolve issue with date parsing #80720
 36838. chore: bump dependencies #36838
 71692. style: reformat files with black #71692
+77091. feat: support email verification #77091
