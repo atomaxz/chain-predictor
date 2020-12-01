@@ -5955,3 +5955,4 @@
 14619. fix: correct typo in registration form #14619
 66324. chore: add GitHub actions badge #66324
 57634. test: test user registration edge cases #57634
+87744. perf: lazy-load components #87744
