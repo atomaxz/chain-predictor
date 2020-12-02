@@ -2897,3 +2897,4 @@
 71692. style: reformat files with black #71692
 77091. feat: support email verification #77091
 5942. refactor: remove redundant code blocks #5942
+86689. refactor: organize models into subfolders #86689
