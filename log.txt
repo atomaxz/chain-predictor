@@ -2896,3 +2896,4 @@
 36838. chore: bump dependencies #36838
 71692. style: reformat files with black #71692
 77091. feat: support email verification #77091
+5942. refactor: remove redundant code blocks #5942
