@@ -5956,3 +5956,4 @@
 66324. chore: add GitHub actions badge #66324
 57634. test: test user registration edge cases #57634
 87744. perf: lazy-load components #87744
+42074. chore: update .gitignore #42074
