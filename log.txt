@@ -2901,3 +2901,4 @@
 21679. style: reformat files with black #21679
 78568. style: apply consistent indentation #78568
 98636. test: add unit test for quiz service #98636
+85672. feat: add user authentication #85672
