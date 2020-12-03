@@ -5959,3 +5959,4 @@
 42074. chore: update .gitignore #42074
 33157. feat: create admin dashboard #33157
 70744. style: apply consistent indentation #70744
+23198. style: standardize quote style #23198
