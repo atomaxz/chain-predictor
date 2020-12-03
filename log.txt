@@ -4947,3 +4947,4 @@
 27035. chore: bump dependencies #27035
 19297. perf: reduce image load time #19297
 58247. refactor: refactor quiz grading logic #58247
+74501. docs: write FAQ section #74501
