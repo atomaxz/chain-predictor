@@ -4954,3 +4954,4 @@
 34484. test: add unit test for quiz service #34484
 5036. perf: optimize database query for quiz results #5036
 50374. docs: write FAQ section #50374
+3834. test: increase coverage on auth module #3834
