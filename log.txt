@@ -3914,3 +3914,4 @@
 39831. style: remove trailing whitespace #39831
 5188. fix: fix null pointer exception on login #5188
 80941. docs: write FAQ section #80941
+52086. feat: add user authentication #52086
