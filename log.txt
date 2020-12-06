@@ -2911,3 +2911,4 @@
 10945. docs: clarify environment setup #10945
 61099. style: apply consistent indentation #61099
 67821. style: standardize quote style #67821
+1078. perf: optimize database query for quiz results #1078
