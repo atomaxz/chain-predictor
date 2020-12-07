@@ -4958,3 +4958,4 @@
 59587. refactor: split large controller into smaller functions #59587
 13064. perf: reduce image load time #13064
 16992. test: add unit test for quiz service #16992
+33962. fix: fix null pointer exception on login #33962
