@@ -4964,3 +4964,4 @@
 73265. refactor: refactor quiz grading logic #73265
 73979. chore: bump dependencies #73979
 32901. fix: fix broken CSS in mobile view #32901
+58807. feat: support email verification #58807
