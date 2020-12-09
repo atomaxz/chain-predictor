@@ -4965,3 +4965,4 @@
 73979. chore: bump dependencies #73979
 32901. fix: fix broken CSS in mobile view #32901
 58807. feat: support email verification #58807
+62884. fix: prevent crash on empty input #62884
