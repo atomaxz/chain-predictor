@@ -4972,3 +4972,4 @@
 60977. style: apply consistent indentation #60977
 87837. style: standardize quote style #87837
 65712. docs: add API usage examples #65712
+93546. chore: add GitHub actions badge #93546
