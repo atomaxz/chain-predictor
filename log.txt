@@ -5977,3 +5977,4 @@
 10646. feat: support email verification #10646
 24818. chore: add GitHub actions badge #24818
 87354. fix: correct typo in registration form #87354
+16492. feat: add user authentication #16492
