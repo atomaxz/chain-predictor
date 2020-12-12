@@ -5979,3 +5979,4 @@
 87354. fix: correct typo in registration form #87354
 16492. feat: add user authentication #16492
 25377. fix: resolve issue with date parsing #25377
+21912. refactor: organize models into subfolders #21912
