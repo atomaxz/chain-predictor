@@ -2930,3 +2930,4 @@
 56780. refactor: split large controller into smaller functions #56780
 47570. feat: add export to CSV option #47570
 32068. perf: lazy-load components #32068
+65873. refactor: split large controller into smaller functions #65873
