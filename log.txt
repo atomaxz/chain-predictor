@@ -3934,3 +3934,4 @@
 88341. refactor: organize models into subfolders #88341
 96728. refactor: refactor quiz grading logic #96728
 62308. test: add unit test for quiz service #62308
+6739. fix: fix null pointer exception on login #6739
