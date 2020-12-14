@@ -2933,3 +2933,4 @@
 65873. refactor: split large controller into smaller functions #65873
 89541. refactor: remove redundant code blocks #89541
 76168. perf: lazy-load components #76168
+94771. perf: lazy-load components #94771
