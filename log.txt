@@ -4977,3 +4977,4 @@
 93430. test: mock database connection in test suite #93430
 72112. test: add integration test for /submit endpoint #72112
 77515. perf: cache repeated calculations #77515
+6659. refactor: clean up auth middleware #6659
