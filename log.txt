@@ -3940,3 +3940,4 @@
 75508. perf: reduce image load time #75508
 70681. fix: fix null pointer exception on login #70681
 50470. fix: fix null pointer exception on login #50470
+93078. fix: correct typo in registration form #93078
