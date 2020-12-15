@@ -5986,3 +5986,4 @@
 63949. style: apply consistent indentation #63949
 99866. perf: optimize database query for quiz results #99866
 0319. fix: correct typo in registration form #319
+79565. fix: fix broken CSS in mobile view #79565
