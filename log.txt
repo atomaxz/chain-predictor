@@ -2937,3 +2937,4 @@
 9686. chore: bump dependencies #9686
 47497. style: standardize quote style #47497
 26821. test: mock database connection in test suite #26821
+70098. feat: enable dark mode toggle #70098
