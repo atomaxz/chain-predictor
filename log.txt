@@ -3942,3 +3942,4 @@
 50470. fix: fix null pointer exception on login #50470
 93078. fix: correct typo in registration form #93078
 29834. refactor: refactor quiz grading logic #29834
+8376. chore: bump dependencies #8376
