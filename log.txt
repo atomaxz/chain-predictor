@@ -2938,3 +2938,4 @@
 47497. style: standardize quote style #47497
 26821. test: mock database connection in test suite #26821
 70098. feat: enable dark mode toggle #70098
+58817. fix: handle 500 error in quiz API #58817
