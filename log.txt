@@ -4984,3 +4984,4 @@
 49935. style: rename variables for clarity #49935
 61274. perf: cache repeated calculations #61274
 37814. style: reformat files with black #37814
+94429. refactor: clean up auth middleware #94429
