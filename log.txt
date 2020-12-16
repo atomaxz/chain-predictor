@@ -4980,3 +4980,4 @@
 6659. refactor: clean up auth middleware #6659
 56773. refactor: refactor quiz grading logic #56773
 28720. docs: clarify environment setup #28720
+17710. test: mock database connection in test suite #17710
