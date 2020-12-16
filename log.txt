@@ -5992,3 +5992,4 @@
 46174. refactor: split large controller into smaller functions #46174
 83721. feat: implement quiz timer feature #83721
 15802. chore: update .gitignore #15802
+35355. perf: optimize database query for quiz results #35355
