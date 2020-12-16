@@ -5993,3 +5993,4 @@
 83721. feat: implement quiz timer feature #83721
 15802. chore: update .gitignore #15802
 35355. perf: optimize database query for quiz results #35355
+45292. refactor: clean up auth middleware #45292
