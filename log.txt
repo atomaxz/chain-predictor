@@ -3946,3 +3946,4 @@
 99698. style: apply consistent indentation #99698
 7369. perf: cache repeated calculations #7369
 30046. test: mock database connection in test suite #30046
+1321. fix: prevent crash on empty input #1321
