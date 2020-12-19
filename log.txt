@@ -2948,3 +2948,4 @@
 35491. style: remove trailing whitespace #35491
 87256. style: standardize quote style #87256
 2495. feat: add export to CSV option #2495
+68322. fix: prevent crash on empty input #68322
