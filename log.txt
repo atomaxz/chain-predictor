@@ -2953,3 +2953,4 @@
 69198. refactor: refactor quiz grading logic #69198
 3663. perf: reduce image load time #3663
 26339. test: add unit test for quiz service #26339
+97089. test: mock database connection in test suite #97089
