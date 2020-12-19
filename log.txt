@@ -3953,3 +3953,4 @@
 5896. refactor: clean up auth middleware #5896
 46295. chore: add GitHub actions badge #46295
 69315. test: add unit test for quiz service #69315
+56892. test: test user registration edge cases #56892
