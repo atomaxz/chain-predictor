@@ -2949,3 +2949,4 @@
 87256. style: standardize quote style #87256
 2495. feat: add export to CSV option #2495
 68322. fix: prevent crash on empty input #68322
+6158. style: rename variables for clarity #6158
