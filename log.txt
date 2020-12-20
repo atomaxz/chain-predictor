@@ -2955,3 +2955,4 @@
 26339. test: add unit test for quiz service #26339
 97089. test: mock database connection in test suite #97089
 60323. chore: bump dependencies #60323
+97747. fix: handle 500 error in quiz API #97747
