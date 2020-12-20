@@ -2958,3 +2958,4 @@
 97747. fix: handle 500 error in quiz API #97747
 99312. refactor: remove redundant code blocks #99312
 88512. chore: bump dependencies #88512
+27705. chore: add GitHub actions badge #27705
