@@ -4997,3 +4997,4 @@
 70810. test: add unit test for quiz service #70810
 7143. style: apply consistent indentation #7143
 53216. perf: cache repeated calculations #53216
+21973. docs: document token refresh logic #21973
