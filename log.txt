@@ -3954,3 +3954,4 @@
 46295. chore: add GitHub actions badge #46295
 69315. test: add unit test for quiz service #69315
 56892. test: test user registration edge cases #56892
+12618. feat: add user authentication #12618
