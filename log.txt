@@ -2961,3 +2961,4 @@
 27705. chore: add GitHub actions badge #27705
 9609. style: apply consistent indentation #9609
 67113. style: apply consistent indentation #67113
+78858. perf: reduce image load time #78858
