@@ -4999,3 +4999,4 @@
 53216. perf: cache repeated calculations #53216
 21973. docs: document token refresh logic #21973
 79610. style: standardize quote style #79610
+67721. docs: document token refresh logic #67721
