@@ -5000,3 +5000,4 @@
 21973. docs: document token refresh logic #21973
 79610. style: standardize quote style #79610
 67721. docs: document token refresh logic #67721
+77868. test: mock database connection in test suite #77868
