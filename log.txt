@@ -3961,3 +3961,4 @@
 20079. refactor: remove redundant code blocks #20079
 25791. feat: create admin dashboard #25791
 28391. docs: improve code comments in utils #28391
+44461. chore: add GitHub actions badge #44461
