@@ -5006,3 +5006,4 @@
 21427. test: add integration test for /submit endpoint #21427
 24887. style: rename variables for clarity #24887
 43735. feat: support email verification #43735
+45109. chore: bump dependencies #45109
