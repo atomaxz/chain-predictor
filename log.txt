@@ -2965,3 +2965,4 @@
 21366. fix: fix broken CSS in mobile view #21366
 13562. perf: cache repeated calculations #13562
 9657. fix: fix null pointer exception on login #9657
+50565. test: mock database connection in test suite #50565
