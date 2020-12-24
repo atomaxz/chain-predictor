@@ -2972,3 +2972,4 @@
 12339. feat: enable dark mode toggle #12339
 70589. feat: support email verification #70589
 51330. chore: bump dependencies #51330
+74998. refactor: refactor quiz grading logic #74998
