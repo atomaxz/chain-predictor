@@ -6007,3 +6007,4 @@
 49133. test: test user registration edge cases #49133
 48610. fix: prevent crash on empty input #48610
 5240. test: add unit test for quiz service #5240
+12267. style: reformat files with black #12267
