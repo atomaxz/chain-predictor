@@ -2970,3 +2970,4 @@
 10100. perf: lazy-load components #10100
 51432. docs: improve code comments in utils #51432
 12339. feat: enable dark mode toggle #12339
+70589. feat: support email verification #70589
