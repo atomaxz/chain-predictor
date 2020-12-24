@@ -3964,3 +3964,4 @@
 44461. chore: add GitHub actions badge #44461
 21663. docs: clarify environment setup #21663
 51570. chore: add GitHub actions badge #51570
+69944. perf: lazy-load components #69944
