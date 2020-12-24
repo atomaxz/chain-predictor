@@ -2971,3 +2971,4 @@
 51432. docs: improve code comments in utils #51432
 12339. feat: enable dark mode toggle #12339
 70589. feat: support email verification #70589
+51330. chore: bump dependencies #51330
