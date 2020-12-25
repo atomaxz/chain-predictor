@@ -3973,3 +3973,4 @@
 59803. style: reformat files with black #59803
 81769. fix: handle 500 error in quiz API #81769
 69592. test: test user registration edge cases #69592
+84826. refactor: clean up auth middleware #84826
