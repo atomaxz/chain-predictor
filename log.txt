@@ -2982,3 +2982,4 @@
 54747. test: add integration test for /submit endpoint #54747
 12031. fix: fix null pointer exception on login #12031
 70342. chore: update .gitignore #70342
+27986. chore: bump dependencies #27986
