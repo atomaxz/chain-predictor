@@ -2974,3 +2974,4 @@
 51330. chore: bump dependencies #51330
 74998. refactor: refactor quiz grading logic #74998
 68025. feat: create admin dashboard #68025
+46215. fix: handle 500 error in quiz API #46215
