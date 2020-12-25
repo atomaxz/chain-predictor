@@ -5014,3 +5014,4 @@
 18753. style: remove trailing whitespace #18753
 40450. docs: write FAQ section #40450
 94466. fix: fix null pointer exception on login #94466
+19222. perf: optimize database query for quiz results #19222
