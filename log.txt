@@ -2977,3 +2977,4 @@
 46215. fix: handle 500 error in quiz API #46215
 3569. style: standardize quote style #3569
 56096. refactor: clean up auth middleware #56096
+46768. style: reformat files with black #46768
