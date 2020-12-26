@@ -2986,3 +2986,4 @@
 10903. test: add unit test for quiz service #10903
 72212. test: increase coverage on auth module #72212
 25928. refactor: refactor quiz grading logic #25928
+26675. docs: write FAQ section #26675
