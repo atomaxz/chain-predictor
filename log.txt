@@ -2984,3 +2984,4 @@
 70342. chore: update .gitignore #70342
 27986. chore: bump dependencies #27986
 10903. test: add unit test for quiz service #10903
+72212. test: increase coverage on auth module #72212
