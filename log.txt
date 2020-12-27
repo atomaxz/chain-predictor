@@ -5019,3 +5019,4 @@
 81074. test: test user registration edge cases #81074
 45268. test: test user registration edge cases #45268
 74901. refactor: remove redundant code blocks #74901
+14598. feat: enable dark mode toggle #14598
