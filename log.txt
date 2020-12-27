@@ -3978,3 +3978,4 @@
 41393. test: test user registration edge cases #41393
 21598. feat: add export to CSV option #21598
 32145. chore: add GitHub actions badge #32145
+77266. fix: resolve issue with date parsing #77266
