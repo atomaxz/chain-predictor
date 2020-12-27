@@ -5021,3 +5021,4 @@
 74901. refactor: remove redundant code blocks #74901
 14598. feat: enable dark mode toggle #14598
 47700. chore: rename env.example #47700
+82756. test: increase coverage on auth module #82756
