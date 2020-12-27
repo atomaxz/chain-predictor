@@ -3980,3 +3980,4 @@
 32145. chore: add GitHub actions badge #32145
 77266. fix: resolve issue with date parsing #77266
 21536. fix: fix broken CSS in mobile view #21536
+23236. feat: add user authentication #23236
