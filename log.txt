@@ -3985,3 +3985,4 @@
 65420. chore: bump dependencies #65420
 71278. test: increase coverage on auth module #71278
 69286. docs: add API usage examples #69286
+7545. refactor: split large controller into smaller functions #7545
