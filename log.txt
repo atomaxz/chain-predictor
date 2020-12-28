@@ -6017,3 +6017,4 @@
 33418. fix: resolve issue with date parsing #33418
 15334. style: standardize quote style #15334
 31176. feat: create admin dashboard #31176
+34647. test: test user registration edge cases #34647
