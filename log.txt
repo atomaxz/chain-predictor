@@ -6019,3 +6019,4 @@
 31176. feat: create admin dashboard #31176
 34647. test: test user registration edge cases #34647
 74976. fix: fix null pointer exception on login #74976
+81229. chore: update .gitignore #81229
