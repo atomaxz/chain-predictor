@@ -3983,3 +3983,4 @@
 23236. feat: add user authentication #23236
 4841. test: add unit test for quiz service #4841
 65420. chore: bump dependencies #65420
+71278. test: increase coverage on auth module #71278
