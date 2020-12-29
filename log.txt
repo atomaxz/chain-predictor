@@ -6024,3 +6024,4 @@
 16208. docs: add API usage examples #16208
 52605. test: test user registration edge cases #52605
 95361. style: rename variables for clarity #95361
+54744. chore: bump dependencies #54744
