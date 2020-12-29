@@ -6026,3 +6026,4 @@
 95361. style: rename variables for clarity #95361
 54744. chore: bump dependencies #54744
 62319. docs: clarify environment setup #62319
+32798. test: increase coverage on auth module #32798
