@@ -3994,3 +3994,4 @@
 27944. docs: improve code comments in utils #27944
 95030. feat: add export to CSV option #95030
 14193. feat: support email verification #14193
+87607. perf: cache repeated calculations #87607
