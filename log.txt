@@ -6028,3 +6028,4 @@
 62319. docs: clarify environment setup #62319
 32798. test: increase coverage on auth module #32798
 78033. feat: support email verification #78033
+46372. chore: rename env.example #46372
