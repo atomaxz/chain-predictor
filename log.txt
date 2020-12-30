@@ -5025,3 +5025,4 @@
 11802. fix: correct typo in registration form #11802
 24837. perf: lazy-load components #24837
 95760. fix: prevent crash on empty input #95760
+94348. feat: create admin dashboard #94348
