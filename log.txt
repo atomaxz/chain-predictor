@@ -5026,3 +5026,4 @@
 24837. perf: lazy-load components #24837
 95760. fix: prevent crash on empty input #95760
 94348. feat: create admin dashboard #94348
+88766. feat: enable dark mode toggle #88766
