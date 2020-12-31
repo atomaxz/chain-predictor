@@ -6032,3 +6032,4 @@
 38668. docs: write FAQ section #38668
 8220. chore: rename env.example #8220
 10878. style: apply consistent indentation #10878
+37755. feat: add user authentication #37755
