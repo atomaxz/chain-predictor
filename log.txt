@@ -6031,3 +6031,4 @@
 46372. chore: rename env.example #46372
 38668. docs: write FAQ section #38668
 8220. chore: rename env.example #8220
+10878. style: apply consistent indentation #10878
