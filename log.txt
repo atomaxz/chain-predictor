@@ -3997,3 +3997,4 @@
 87607. perf: cache repeated calculations #87607
 27141. test: increase coverage on auth module #27141
 0284. fix: prevent crash on empty input #284
+42945. fix: fix null pointer exception on login #42945
